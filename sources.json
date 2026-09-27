@@ -1,10 +1,24 @@
 {
-  "version": 1,
+  "version": 2,
   "updated_at": "2026-09-27",
+
+  "providers": [
+    {
+      "id": "vidapi",
+      "name": "VidAPI",
+      "enabled": true,
+      "priority": 1,
+
+      "movie_url": "https://vidapi.ru/movie/{tmdb_id}",
+      "series_url": "https://vidapi.ru/tv/{tmdb_id}/{season}/{episode}"
+    }
+  ],
+
   "movies": {
     "1423191": {
       "stream_url": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     }
   },
+
   "series": {}
 }
