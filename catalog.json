@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 20:06",
+  "updated_at": "2026-09-29 20:39",
   "movies": {
     "trending": [
       {
@@ -696,7 +696,7 @@
         "title": "Swapped",
         "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-        "rating": 8.865,
+        "rating": 8.864,
         "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
         "release_date": "2026-05-01",
         "stream_url": null
@@ -707,20 +707,9 @@
         "title": "Accidental Partners",
         "poster": "https://image.tmdb.org/t/p/w500/j0CIVzeR7hRAPBPGR54qDZoOQpp.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/iCML6fBe3X0y06P33bM7dyYXPKZ.jpg",
-        "rating": 8.8,
+        "rating": 8.844,
         "overview": "Two women discover they were both scammed by the same man (who also got them pregnant). They form an alliance to take revenge.",
         "release_date": "2026-03-12",
-        "stream_url": null
-      },
-      {
-        "id": 1621552,
-        "media_type": "movie",
-        "title": "Facing El Chapo",
-        "poster": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-        "rating": 8.795,
-        "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
-        "release_date": "2026-08-21",
         "stream_url": null
       },
       {
@@ -729,9 +718,20 @@
         "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
         "poster": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-        "rating": 8.797,
+        "rating": 8.798,
         "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
         "release_date": "2025-07-18",
+        "stream_url": null
+      },
+      {
+        "id": 1621552,
+        "media_type": "movie",
+        "title": "Facing El Chapo",
+        "poster": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+        "rating": 8.796,
+        "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
+        "release_date": "2026-08-21",
         "stream_url": null
       },
       {
@@ -762,7 +762,7 @@
         "title": "Project Hail Mary",
         "poster": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-        "rating": 8.642,
+        "rating": 8.641,
         "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
         "release_date": "2026-03-15",
         "stream_url": null
@@ -812,6 +812,17 @@
         "stream_url": null
       },
       {
+        "id": 424,
+        "media_type": "movie",
+        "title": "Schindler's List",
+        "poster": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+        "rating": 8.6,
+        "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+        "release_date": "1993-12-15",
+        "stream_url": null
+      },
+      {
         "id": 1630423,
         "media_type": "movie",
         "title": "My Dearest Assassin",
@@ -823,23 +834,12 @@
         "stream_url": null
       },
       {
-        "id": 424,
-        "media_type": "movie",
-        "title": "Schindler's List",
-        "poster": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
-        "rating": 8.569,
-        "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
-        "release_date": "1993-12-15",
-        "stream_url": null
-      },
-      {
         "id": 1218925,
         "media_type": "movie",
         "title": "Chainsaw Man - The Movie: Reze Arc",
         "poster": "https://image.tmdb.org/t/p/w500/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
-        "rating": 8.6,
+        "rating": 8.551,
         "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
         "release_date": "2025-09-19",
         "stream_url": null
@@ -872,7 +872,7 @@
         "title": "The Green Mile",
         "poster": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
-        "rating": 8.506,
+        "rating": 8.505,
         "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
         "release_date": "1999-12-10",
         "stream_url": null
@@ -1375,7 +1375,7 @@
         "title": "The Daily Show",
         "poster": "https://image.tmdb.org/t/p/w500/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-        "rating": 6.406,
+        "rating": 6.4,
         "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
         "release_date": "1996-07-22",
         "stream_url": null
@@ -1403,17 +1403,6 @@
         "stream_url": null
       },
       {
-        "id": 206559,
-        "media_type": "tv",
-        "title": "Binnelanders",
-        "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-        "rating": 5.5,
-        "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-        "release_date": "2005-10-13",
-        "stream_url": null
-      },
-      {
         "id": 97546,
         "media_type": "tv",
         "title": "Ted Lasso",
@@ -1422,6 +1411,17 @@
         "rating": 8.364,
         "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
         "release_date": "2020-08-14",
+        "stream_url": null
+      },
+      {
+        "id": 206559,
+        "media_type": "tv",
+        "title": "Binnelanders",
+        "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+        "rating": 5.5,
+        "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+        "release_date": "2005-10-13",
         "stream_url": null
       },
       {
@@ -1447,14 +1447,14 @@
         "stream_url": null
       },
       {
-        "id": 112470,
+        "id": 65701,
         "media_type": "tv",
-        "title": "Ici tout commence",
-        "poster": "https://image.tmdb.org/t/p/w500/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
-        "rating": 6.8,
-        "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
-        "release_date": "2020-11-02",
+        "title": "Good Mythical Morning",
+        "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+        "rating": 6.9,
+        "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+        "release_date": "2012-01-09",
         "stream_url": null
       },
       {
@@ -1469,17 +1469,6 @@
         "stream_url": null
       },
       {
-        "id": 1871,
-        "media_type": "tv",
-        "title": "EastEnders",
-        "poster": "https://image.tmdb.org/t/p/w500/ETFWCToRFx45vNAsNexh31ufSE.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
-        "rating": 4.3,
-        "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
-        "release_date": "1985-02-19",
-        "stream_url": null
-      },
-      {
         "id": 1900,
         "media_type": "tv",
         "title": "LIVE with Kelly and Mark",
@@ -1491,14 +1480,14 @@
         "stream_url": null
       },
       {
-        "id": 65701,
+        "id": 112470,
         "media_type": "tv",
-        "title": "Good Mythical Morning",
-        "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
-        "rating": 6.9,
-        "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
-        "release_date": "2012-01-09",
+        "title": "Ici tout commence",
+        "poster": "https://image.tmdb.org/t/p/w500/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
+        "rating": 6.8,
+        "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+        "release_date": "2020-11-02",
         "stream_url": null
       },
       {
@@ -1513,14 +1502,14 @@
         "stream_url": null
       },
       {
-        "id": 36361,
+        "id": 1871,
         "media_type": "tv",
-        "title": "Ulice",
-        "poster": "https://image.tmdb.org/t/p/w500/zBEHcmVe87YjfI8SmIYkiDtX35I.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/cchlQWYrnMPyl1EbjZWCzeAz8l5.jpg",
-        "rating": 4.9,
-        "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farský, Jordán, Boháč, Nikl, and Liška families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
-        "release_date": "2005-09-05",
+        "title": "EastEnders",
+        "poster": "https://image.tmdb.org/t/p/w500/ETFWCToRFx45vNAsNexh31ufSE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
+        "rating": 4.3,
+        "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+        "release_date": "1985-02-19",
         "stream_url": null
       },
       {
@@ -1535,6 +1524,17 @@
         "stream_url": null
       },
       {
+        "id": 31991,
+        "media_type": "tv",
+        "title": "WWE NXT",
+        "poster": "https://image.tmdb.org/t/p/w500/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/YaQ8YhHYpLkH3e7FRwBkcGoJhS.jpg",
+        "rating": 6.7,
+        "overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
+        "release_date": "2010-02-23",
+        "stream_url": null
+      },
+      {
         "id": 81329,
         "media_type": "tv",
         "title": "Chronicles of the Sun",
@@ -1546,14 +1546,14 @@
         "stream_url": null
       },
       {
-        "id": 31991,
+        "id": 6809,
         "media_type": "tv",
-        "title": "WWE NXT",
-        "poster": "https://image.tmdb.org/t/p/w500/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/YaQ8YhHYpLkH3e7FRwBkcGoJhS.jpg",
-        "rating": 6.7,
-        "overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
-        "release_date": "2010-02-23",
+        "title": "El hormiguero",
+        "poster": "https://image.tmdb.org/t/p/w500/b24KGOkBrKgM6Blr4rw0jdn3zw5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/z8yQ9EZxMHaCwysqIO4LUyOuKJz.jpg",
+        "rating": 4.7,
+        "overview": "El Hormiguero is a Spanish television program with a live audience focusing on comedy, science, and politics running since September 2006. It is hosted and produced by screenwriter Pablo Motos. The show aired on Spain's Cuatro channel from launch until June 2011 and is now broadcast on Antena 3. Recurring guests on the show include Luis Piedrahita, Raquel Martos, Marron & \"The Man in Black\", and puppet ants Trancas and Barrancas. It has proved a ratings success, and has expanded from a weekly 120-minute show to a daily 40-minute show in its third season, which began on September 17, 2007. The show won the Entertainment prize at the 2009 Rose d'Or ceremony.",
+        "release_date": "2006-09-24",
         "stream_url": null
       }
     ],
