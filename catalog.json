@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 15:08",
+  "updated_at": "2026-09-29 15:40",
   "movies": {
     "trending": [
       {
@@ -904,6 +904,17 @@
         "stream_url": null
       },
       {
+        "id": 318918,
+        "media_type": "tv",
+        "title": "LEGO ONE PIECE",
+        "poster": "https://image.tmdb.org/t/p/w500/2bpv75taDqB6j5nkIpKe1E1b75s.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1ftqNLph1CxcXxSXJsijjlw7ZkX.jpg",
+        "rating": 9.5,
+        "overview": "Usopp spins a tall tale about the Straw Hats' journey across the East Blue into the Grand Line before Chopper joined the crew.",
+        "release_date": "2026-09-29",
+        "stream_url": null
+      },
+      {
         "id": 282326,
         "media_type": "tv",
         "title": "Against the Current",
@@ -923,6 +934,17 @@
         "rating": 8.1,
         "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
         "release_date": "2011-10-05",
+        "stream_url": null
+      },
+      {
+        "id": 94664,
+        "media_type": "tv",
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "poster": "https://image.tmdb.org/t/p/w500/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+        "rating": 8.427,
+        "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+        "release_date": "2021-01-11",
         "stream_url": null
       },
       {
@@ -953,53 +975,9 @@
         "title": "Monster: The Lizzie Borden Story",
         "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-        "rating": 7.059,
+        "rating": 7.043,
         "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
         "release_date": "2026-09-17",
-        "stream_url": null
-      },
-      {
-        "id": 94664,
-        "media_type": "tv",
-        "title": "Mushoku Tensei: Jobless Reincarnation",
-        "poster": "https://image.tmdb.org/t/p/w500/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-        "rating": 8.426,
-        "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-        "release_date": "2021-01-11",
-        "stream_url": null
-      },
-      {
-        "id": 318918,
-        "media_type": "tv",
-        "title": "LEGO ONE PIECE",
-        "poster": "https://image.tmdb.org/t/p/w500/2bpv75taDqB6j5nkIpKe1E1b75s.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/1ftqNLph1CxcXxSXJsijjlw7ZkX.jpg",
-        "rating": 9.5,
-        "overview": "Usopp spins a tall tale about the Straw Hats' journey across the East Blue into the Grand Line before Chopper joined the crew.",
-        "release_date": "2026-09-29",
-        "stream_url": null
-      },
-      {
-        "id": 456,
-        "media_type": "tv",
-        "title": "The Simpsons",
-        "poster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-        "rating": 8.023,
-        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-        "release_date": "1989-12-17",
-        "stream_url": null
-      },
-      {
-        "id": 615,
-        "media_type": "tv",
-        "title": "Futurama",
-        "poster": "https://image.tmdb.org/t/p/w500/7RRHbCUtAsVmKI6FEMzZB6Re88P.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-        "rating": 8.4,
-        "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-        "release_date": "1999-03-28",
         "stream_url": null
       },
       {
@@ -1014,14 +992,25 @@
         "stream_url": null
       },
       {
-        "id": 113962,
+        "id": 615,
         "media_type": "tv",
-        "title": "Lioness",
-        "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-        "rating": 8.25,
-        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-        "release_date": "2023-07-23",
+        "title": "Futurama",
+        "poster": "https://image.tmdb.org/t/p/w500/7RRHbCUtAsVmKI6FEMzZB6Re88P.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+        "rating": 8.4,
+        "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+        "release_date": "1999-03-28",
+        "stream_url": null
+      },
+      {
+        "id": 456,
+        "media_type": "tv",
+        "title": "The Simpsons",
+        "poster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+        "rating": 8.023,
+        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+        "release_date": "1989-12-17",
         "stream_url": null
       },
       {
@@ -1036,25 +1025,14 @@
         "stream_url": null
       },
       {
-        "id": 250203,
+        "id": 113962,
         "media_type": "tv",
-        "title": "Brothers",
-        "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
-        "rating": 8.7,
-        "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
-        "release_date": "2026-09-22",
-        "stream_url": null
-      },
-      {
-        "id": 45790,
-        "media_type": "tv",
-        "title": "JoJo's Bizarre Adventure",
-        "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
-        "rating": 8.5,
-        "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
-        "release_date": "2012-10-06",
+        "title": "Lioness",
+        "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+        "rating": 8.25,
+        "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+        "release_date": "2023-07-23",
         "stream_url": null
       },
       {
@@ -1069,25 +1047,14 @@
         "stream_url": null
       },
       {
-        "id": 273207,
+        "id": 250203,
         "media_type": "tv",
-        "title": "Neagley",
-        "poster": "https://image.tmdb.org/t/p/w500/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
-        "rating": 8.106,
-        "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
-        "release_date": "2026-09-16",
-        "stream_url": null
-      },
-      {
-        "id": 287620,
-        "media_type": "tv",
-        "title": "Stuart Fails to Save the Universe",
-        "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
-        "rating": 8.495,
-        "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-        "release_date": "2026-07-23",
+        "title": "Brothers",
+        "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+        "rating": 8.7,
+        "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+        "release_date": "2026-09-22",
         "stream_url": null
       },
       {
@@ -1102,6 +1069,28 @@
         "stream_url": null
       },
       {
+        "id": 2190,
+        "media_type": "tv",
+        "title": "South Park",
+        "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+        "rating": 8.334,
+        "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+        "release_date": "1997-08-13",
+        "stream_url": null
+      },
+      {
+        "id": 45790,
+        "media_type": "tv",
+        "title": "JoJo's Bizarre Adventure",
+        "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+        "rating": 8.5,
+        "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+        "release_date": "2012-10-06",
+        "stream_url": null
+      },
+      {
         "id": 103516,
         "media_type": "tv",
         "title": "Star Trek: Strange New Worlds",
@@ -1110,6 +1099,17 @@
         "rating": 7.869,
         "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
         "release_date": "2022-05-05",
+        "stream_url": null
+      },
+      {
+        "id": 30984,
+        "media_type": "tv",
+        "title": "Bleach",
+        "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "rating": 8.352,
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "release_date": "2004-10-05",
         "stream_url": null
       }
     ],
