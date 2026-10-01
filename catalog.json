@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01 21:05",
+  "updated_at": "2026-10-01 21:40",
   "movies": {
     "trending": [
       {
@@ -8,7 +8,7 @@
         "title": "Digger",
         "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-        "rating": 7.5,
+        "rating": 7.426,
         "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
         "release_date": "2026-09-28",
         "stream_url": null
@@ -19,7 +19,7 @@
         "title": "UNABOMBER",
         "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-        "rating": 6.704,
+        "rating": 6.7,
         "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
         "release_date": "2026-09-25",
         "stream_url": null
@@ -30,9 +30,20 @@
         "title": "Runner",
         "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-        "rating": 8.199,
+        "rating": 8.196,
         "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
         "release_date": "2026-09-07",
+        "stream_url": null
+      },
+      {
+        "id": 1283515,
+        "media_type": "movie",
+        "title": "Verity",
+        "poster": "https://image.tmdb.org/t/p/w500/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+        "rating": 6.935,
+        "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
+        "release_date": "2026-09-30",
         "stream_url": null
       },
       {
@@ -47,36 +58,14 @@
         "stream_url": null
       },
       {
-        "id": 1283515,
-        "media_type": "movie",
-        "title": "Verity",
-        "poster": "https://image.tmdb.org/t/p/w500/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-        "rating": 7.0,
-        "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
-        "release_date": "2026-09-30",
-        "stream_url": null
-      },
-      {
         "id": 977942,
         "media_type": "movie",
         "title": "The Uprising",
         "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-        "rating": 8.1,
+        "rating": 8.051,
         "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
         "release_date": "2026-09-10",
-        "stream_url": null
-      },
-      {
-        "id": 1084244,
-        "media_type": "movie",
-        "title": "Toy Story 5",
-        "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
-        "rating": 8.316,
-        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-        "release_date": "2026-06-17",
         "stream_url": null
       },
       {
@@ -91,25 +80,25 @@
         "stream_url": null
       },
       {
+        "id": 1084244,
+        "media_type": "movie",
+        "title": "Toy Story 5",
+        "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+        "rating": 8.315,
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "release_date": "2026-06-17",
+        "stream_url": null
+      },
+      {
         "id": 1204680,
         "media_type": "movie",
         "title": "Coyote vs. Acme",
         "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-        "rating": 7.557,
+        "rating": 7.554,
         "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
         "release_date": "2026-08-17",
-        "stream_url": null
-      },
-      {
-        "id": 1032863,
-        "media_type": "movie",
-        "title": "The Love Hypothesis",
-        "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-        "rating": 8.066,
-        "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-        "release_date": "2026-09-23",
         "stream_url": null
       },
       {
@@ -124,23 +113,12 @@
         "stream_url": null
       },
       {
-        "id": 1339713,
-        "media_type": "movie",
-        "title": "Obsession",
-        "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-        "rating": 8.186,
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "release_date": "2026-05-13",
-        "stream_url": null
-      },
-      {
         "id": 969681,
         "media_type": "movie",
         "title": "Spider-Man: Brand New Day",
         "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-        "rating": 7.863,
+        "rating": 7.864,
         "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
         "release_date": "2026-07-29",
         "stream_url": null
@@ -157,6 +135,28 @@
         "stream_url": null
       },
       {
+        "id": 1339713,
+        "media_type": "movie",
+        "title": "Obsession",
+        "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+        "rating": 8.186,
+        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+        "release_date": "2026-05-13",
+        "stream_url": null
+      },
+      {
+        "id": 1032863,
+        "media_type": "movie",
+        "title": "The Love Hypothesis",
+        "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+        "rating": 8.066,
+        "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+        "release_date": "2026-09-23",
+        "stream_url": null
+      },
+      {
         "id": 1263337,
         "media_type": "movie",
         "title": "Heart of the Beast",
@@ -168,25 +168,36 @@
         "stream_url": null
       },
       {
-        "id": 1465063,
-        "media_type": "movie",
-        "title": "Forgotten Island",
-        "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-        "rating": 8.2,
-        "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-        "release_date": "2026-09-10",
-        "stream_url": null
-      },
-      {
         "id": 1083381,
         "media_type": "movie",
         "title": "Backrooms",
         "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-        "rating": 7.019,
+        "rating": 7.02,
         "overview": "A strange doorway appears in the basement of a furniture showroom.",
         "release_date": "2026-05-27",
+        "stream_url": null
+      },
+      {
+        "id": 1101383,
+        "media_type": "movie",
+        "title": "The End of Oak Street",
+        "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "rating": 7.1,
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "release_date": "2026-08-12",
+        "stream_url": null
+      },
+      {
+        "id": 1400837,
+        "media_type": "movie",
+        "title": "Other Mommy",
+        "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+        "rating": 0.0,
+        "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+        "release_date": "2026-10-07",
         "stream_url": null
       },
       {
@@ -201,25 +212,14 @@
         "stream_url": null
       },
       {
-        "id": 1101383,
+        "id": 1307118,
         "media_type": "movie",
-        "title": "The End of Oak Street",
-        "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "rating": 7.052,
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "release_date": "2026-08-12",
-        "stream_url": null
-      },
-      {
-        "id": 1607127,
-        "media_type": "movie",
-        "title": "One Last Shot",
-        "poster": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+        "title": "Soulm8te",
+        "poster": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
         "rating": 7.4,
-        "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
-        "release_date": "2026-09-22",
+        "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+        "release_date": "2026-07-31",
         "stream_url": null
       }
     ],
@@ -893,17 +893,6 @@
   "series": {
     "trending": [
       {
-        "id": 95350,
-        "media_type": "tv",
-        "title": "Lanterns",
-        "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-        "rating": 8.4,
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "release_date": "2026-08-16",
-        "stream_url": null
-      },
-      {
         "id": 258165,
         "media_type": "tv",
         "title": "East of Eden",
@@ -915,47 +904,14 @@
         "stream_url": null
       },
       {
-        "id": 247718,
+        "id": 95350,
         "media_type": "tv",
-        "title": "MobLand",
-        "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-        "rating": 8.46,
-        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-        "release_date": "2025-03-30",
-        "stream_url": null
-      },
-      {
-        "id": 1413,
-        "media_type": "tv",
-        "title": "American Horror Story",
-        "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-        "rating": 8.1,
-        "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-        "release_date": "2011-10-05",
-        "stream_url": null
-      },
-      {
-        "id": 290720,
-        "media_type": "tv",
-        "title": "The Final Problem",
-        "poster": "https://image.tmdb.org/t/p/w500/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
-        "rating": 7.1,
-        "overview": "In the spring of 1959, a retired actor, who previously played Sherlock Holmes, must investigate a murder at a small hotel on a tiny island near Mallorca.",
-        "release_date": "2026-09-25",
-        "stream_url": null
-      },
-      {
-        "id": 37854,
-        "media_type": "tv",
-        "title": "One Piece",
-        "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-        "rating": 8.751,
-        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-        "release_date": "1999-10-20",
+        "title": "Lanterns",
+        "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+        "rating": 8.4,
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "release_date": "2026-08-16",
         "stream_url": null
       },
       {
@@ -970,14 +926,47 @@
         "stream_url": null
       },
       {
-        "id": 108978,
+        "id": 1413,
         "media_type": "tv",
-        "title": "Reacher",
-        "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "rating": 8.135,
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "release_date": "2022-02-03",
+        "title": "American Horror Story",
+        "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+        "rating": 8.1,
+        "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+        "release_date": "2011-10-05",
+        "stream_url": null
+      },
+      {
+        "id": 247718,
+        "media_type": "tv",
+        "title": "MobLand",
+        "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+        "rating": 8.46,
+        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+        "release_date": "2025-03-30",
+        "stream_url": null
+      },
+      {
+        "id": 299939,
+        "media_type": "tv",
+        "title": "Monster: The Lizzie Borden Story",
+        "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+        "rating": 7.1,
+        "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+        "release_date": "2026-09-17",
+        "stream_url": null
+      },
+      {
+        "id": 37854,
+        "media_type": "tv",
+        "title": "One Piece",
+        "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+        "rating": 8.751,
+        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+        "release_date": "1999-10-20",
         "stream_url": null
       },
       {
@@ -1003,14 +992,25 @@
         "stream_url": null
       },
       {
-        "id": 299939,
+        "id": 108978,
         "media_type": "tv",
-        "title": "Monster: The Lizzie Borden Story",
-        "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-        "rating": 7.1,
-        "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-        "release_date": "2026-09-17",
+        "title": "Reacher",
+        "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "rating": 8.135,
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "release_date": "2022-02-03",
+        "stream_url": null
+      },
+      {
+        "id": 65942,
+        "media_type": "tv",
+        "title": "Re:ZERO -Starting Life in Another World-",
+        "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+        "rating": 8.123,
+        "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+        "release_date": "2016-04-04",
         "stream_url": null
       },
       {
@@ -1025,17 +1025,6 @@
         "stream_url": null
       },
       {
-        "id": 65942,
-        "media_type": "tv",
-        "title": "Re:ZERO -Starting Life in Another World-",
-        "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-        "rating": 8.122,
-        "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-        "release_date": "2016-04-04",
-        "stream_url": null
-      },
-      {
         "id": 95480,
         "media_type": "tv",
         "title": "Slow Horses",
@@ -1047,14 +1036,14 @@
         "stream_url": null
       },
       {
-        "id": 456,
+        "id": 283428,
         "media_type": "tv",
-        "title": "The Simpsons",
-        "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
-        "rating": 8.024,
-        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-        "release_date": "1989-12-17",
+        "title": "The Ramparts of Ice",
+        "poster": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+        "rating": 8.6,
+        "overview": "Weighed down by memories she can't shake, high schooler Koyuki Hikawa keeps everyone at arm's length — until three schoolmates draw her out of her shell.",
+        "release_date": "2026-04-02",
         "stream_url": null
       },
       {
@@ -1069,14 +1058,14 @@
         "stream_url": null
       },
       {
-        "id": 94664,
+        "id": 456,
         "media_type": "tv",
-        "title": "Mushoku Tensei: Jobless Reincarnation",
-        "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-        "rating": 8.429,
-        "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-        "release_date": "2021-01-11",
+        "title": "The Simpsons",
+        "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
+        "rating": 8.024,
+        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+        "release_date": "1989-12-17",
         "stream_url": null
       },
       {
@@ -1091,14 +1080,14 @@
         "stream_url": null
       },
       {
-        "id": 287620,
+        "id": 94664,
         "media_type": "tv",
-        "title": "Stuart Fails to Save the Universe",
-        "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
-        "rating": 8.4,
-        "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-        "release_date": "2026-07-23",
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+        "rating": 8.429,
+        "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+        "release_date": "2021-01-11",
         "stream_url": null
       },
       {
@@ -1110,6 +1099,17 @@
         "rating": 8.255,
         "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
         "release_date": "2023-07-23",
+        "stream_url": null
+      },
+      {
+        "id": 213375,
+        "media_type": "tv",
+        "title": "VisionQuest",
+        "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/v50p9hearMiu6BlYfp4O7FACmXl.jpg",
+        "rating": 0.0,
+        "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+        "release_date": "2026-10-14",
         "stream_url": null
       }
     ],
