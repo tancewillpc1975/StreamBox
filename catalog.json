@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01 22:38",
+  "updated_at": "2026-10-01 23:04",
   "movies": {
     "trending": [
       {
@@ -948,14 +948,14 @@
         "stream_url": null
       },
       {
-        "id": 299939,
+        "id": 2190,
         "media_type": "tv",
-        "title": "Monster: The Lizzie Borden Story",
-        "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-        "rating": 7.1,
-        "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-        "release_date": "2026-09-17",
+        "title": "South Park",
+        "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+        "rating": 8.335,
+        "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+        "release_date": "1997-08-13",
         "stream_url": null
       },
       {
@@ -970,47 +970,14 @@
         "stream_url": null
       },
       {
-        "id": 2190,
+        "id": 299939,
         "media_type": "tv",
-        "title": "South Park",
-        "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-        "rating": 8.335,
-        "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-        "release_date": "1997-08-13",
-        "stream_url": null
-      },
-      {
-        "id": 97546,
-        "media_type": "tv",
-        "title": "Ted Lasso",
-        "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-        "rating": 8.4,
-        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-        "release_date": "2020-08-14",
-        "stream_url": null
-      },
-      {
-        "id": 108978,
-        "media_type": "tv",
-        "title": "Reacher",
-        "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "rating": 8.135,
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "release_date": "2022-02-03",
-        "stream_url": null
-      },
-      {
-        "id": 65942,
-        "media_type": "tv",
-        "title": "Re:ZERO -Starting Life in Another World-",
-        "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-        "rating": 8.123,
-        "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-        "release_date": "2016-04-04",
+        "title": "Monster: The Lizzie Borden Story",
+        "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+        "rating": 7.1,
+        "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+        "release_date": "2026-09-17",
         "stream_url": null
       },
       {
@@ -1022,6 +989,39 @@
         "rating": 7.714,
         "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
         "release_date": "2026-02-25",
+        "stream_url": null
+      },
+      {
+        "id": 108978,
+        "media_type": "tv",
+        "title": "Reacher",
+        "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "rating": 8.134,
+        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+        "release_date": "2022-02-03",
+        "stream_url": null
+      },
+      {
+        "id": 97546,
+        "media_type": "tv",
+        "title": "Ted Lasso",
+        "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+        "rating": 8.367,
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "release_date": "2020-08-14",
+        "stream_url": null
+      },
+      {
+        "id": 65942,
+        "media_type": "tv",
+        "title": "Re:ZERO -Starting Life in Another World-",
+        "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+        "rating": 8.123,
+        "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+        "release_date": "2016-04-04",
         "stream_url": null
       },
       {
@@ -1080,6 +1080,17 @@
         "stream_url": null
       },
       {
+        "id": 213375,
+        "media_type": "tv",
+        "title": "VisionQuest",
+        "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/v50p9hearMiu6BlYfp4O7FACmXl.jpg",
+        "rating": 0.0,
+        "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+        "release_date": "2026-10-14",
+        "stream_url": null
+      },
+      {
         "id": 94664,
         "media_type": "tv",
         "title": "Mushoku Tensei: Jobless Reincarnation",
@@ -1096,20 +1107,9 @@
         "title": "Lioness",
         "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-        "rating": 8.255,
+        "rating": 8.257,
         "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
         "release_date": "2023-07-23",
-        "stream_url": null
-      },
-      {
-        "id": 213375,
-        "media_type": "tv",
-        "title": "VisionQuest",
-        "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/v50p9hearMiu6BlYfp4O7FACmXl.jpg",
-        "rating": 0.0,
-        "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-        "release_date": "2026-10-14",
         "stream_url": null
       }
     ],
