@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02 21:39",
+  "updated_at": "2026-10-02 22:04",
   "movies": {
     "trending": [
       {
@@ -8,20 +8,9 @@
         "title": "Digger",
         "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-        "rating": 7.66,
+        "rating": 7.567,
         "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
         "release_date": "2026-09-28",
-        "stream_url": null
-      },
-      {
-        "id": 1377237,
-        "media_type": "movie",
-        "title": "Runner",
-        "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-        "rating": 8.275,
-        "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-        "release_date": "2026-09-07",
         "stream_url": null
       },
       {
@@ -30,20 +19,20 @@
         "title": "Resident Evil",
         "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-        "rating": 7.315,
+        "rating": 7.3,
         "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
         "release_date": "2026-09-16",
         "stream_url": null
       },
       {
-        "id": 1492640,
+        "id": 1377237,
         "media_type": "movie",
-        "title": "UNABOMBER",
-        "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-        "rating": 6.616,
-        "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
-        "release_date": "2026-09-25",
+        "title": "Runner",
+        "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+        "rating": 8.262,
+        "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+        "release_date": "2026-09-07",
         "stream_url": null
       },
       {
@@ -52,9 +41,20 @@
         "title": "The Uprising",
         "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-        "rating": 7.936,
+        "rating": 7.884,
         "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
         "release_date": "2026-09-10",
+        "stream_url": null
+      },
+      {
+        "id": 1492640,
+        "media_type": "movie",
+        "title": "UNABOMBER",
+        "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+        "rating": 6.567,
+        "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+        "release_date": "2026-09-25",
         "stream_url": null
       },
       {
@@ -63,7 +63,7 @@
         "title": "Verity",
         "poster": "https://image.tmdb.org/t/p/w500/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-        "rating": 6.561,
+        "rating": 6.643,
         "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
         "release_date": "2026-09-30",
         "stream_url": null
@@ -85,7 +85,7 @@
         "title": "Coyote vs. Acme",
         "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-        "rating": 7.549,
+        "rating": 7.548,
         "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
         "release_date": "2026-08-17",
         "stream_url": null
@@ -102,14 +102,14 @@
         "stream_url": null
       },
       {
-        "id": 969681,
+        "id": 1458857,
         "media_type": "movie",
-        "title": "Spider-Man: Brand New Day",
-        "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-        "rating": 7.868,
-        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-        "release_date": "2026-07-29",
+        "title": "Doing Life",
+        "poster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+        "rating": 5.889,
+        "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
+        "release_date": "2026-10-02",
         "stream_url": null
       },
       {
@@ -124,36 +124,25 @@
         "stream_url": null
       },
       {
+        "id": 969681,
+        "media_type": "movie",
+        "title": "Spider-Man: Brand New Day",
+        "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "rating": 7.868,
+        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+        "release_date": "2026-07-29",
+        "stream_url": null
+      },
+      {
         "id": 1375441,
         "media_type": "movie",
         "title": "Primetime",
         "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
         "rating": 7.0,
-        "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
+        "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
         "release_date": "2026-09-23",
-        "stream_url": null
-      },
-      {
-        "id": 1458857,
-        "media_type": "movie",
-        "title": "Doing Life",
-        "poster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
-        "rating": 7.0,
-        "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
-        "release_date": "2026-10-02",
-        "stream_url": null
-      },
-      {
-        "id": 1368337,
-        "media_type": "movie",
-        "title": "The Odyssey",
-        "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
-        "rating": 8.012,
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "release_date": "2026-07-15",
         "stream_url": null
       },
       {
@@ -162,9 +151,42 @@
         "title": "The Love Hypothesis",
         "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-        "rating": 8.069,
+        "rating": 8.066,
         "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
         "release_date": "2026-09-23",
+        "stream_url": null
+      },
+      {
+        "id": 1263337,
+        "media_type": "movie",
+        "title": "Heart of the Beast",
+        "poster": "https://image.tmdb.org/t/p/w500/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+        "rating": 7.588,
+        "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+        "release_date": "2026-09-19",
+        "stream_url": null
+      },
+      {
+        "id": 1083381,
+        "media_type": "movie",
+        "title": "Backrooms",
+        "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+        "rating": 7.021,
+        "overview": "A strange doorway appears in the basement of a furniture showroom.",
+        "release_date": "2026-05-27",
+        "stream_url": null
+      },
+      {
+        "id": 1101383,
+        "media_type": "movie",
+        "title": "The End of Oak Street",
+        "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "rating": 7.0,
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "release_date": "2026-08-12",
         "stream_url": null
       },
       {
@@ -179,36 +201,14 @@
         "stream_url": null
       },
       {
-        "id": 1101383,
+        "id": 1368337,
         "media_type": "movie",
-        "title": "The End of Oak Street",
-        "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-        "rating": 7.04,
-        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-        "release_date": "2026-08-12",
-        "stream_url": null
-      },
-      {
-        "id": 1263337,
-        "media_type": "movie",
-        "title": "Heart of the Beast",
-        "poster": "https://image.tmdb.org/t/p/w500/mYqiF90igComG2L2qm8SwFbaMwn.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-        "rating": 7.604,
-        "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-        "release_date": "2026-09-19",
-        "stream_url": null
-      },
-      {
-        "id": 1083381,
-        "media_type": "movie",
-        "title": "Backrooms",
-        "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-        "rating": 7.021,
-        "overview": "A strange doorway appears in the basement of a furniture showroom.",
-        "release_date": "2026-05-27",
+        "title": "The Odyssey",
+        "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+        "rating": 8.012,
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "release_date": "2026-07-15",
         "stream_url": null
       },
       {
