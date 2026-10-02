@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02 02:06",
+  "updated_at": "2026-10-02 02:38",
   "movies": {
     "trending": [
       {
@@ -8,20 +8,9 @@
         "title": "Digger",
         "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-        "rating": 7.838,
+        "rating": 7.821,
         "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
         "release_date": "2026-09-28",
-        "stream_url": null
-      },
-      {
-        "id": 1492640,
-        "media_type": "movie",
-        "title": "UNABOMBER",
-        "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-        "rating": 6.7,
-        "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
-        "release_date": "2026-09-25",
         "stream_url": null
       },
       {
@@ -30,9 +19,20 @@
         "title": "Runner",
         "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-        "rating": 8.213,
+        "rating": 8.2,
         "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
         "release_date": "2026-09-07",
+        "stream_url": null
+      },
+      {
+        "id": 1492640,
+        "media_type": "movie",
+        "title": "UNABOMBER",
+        "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+        "rating": 6.711,
+        "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+        "release_date": "2026-09-25",
         "stream_url": null
       },
       {
@@ -41,20 +41,9 @@
         "title": "Resident Evil",
         "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-        "rating": 7.307,
+        "rating": 7.3,
         "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
         "release_date": "2026-09-16",
-        "stream_url": null
-      },
-      {
-        "id": 969681,
-        "media_type": "movie",
-        "title": "Spider-Man: Brand New Day",
-        "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-        "rating": 7.865,
-        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-        "release_date": "2026-07-29",
         "stream_url": null
       },
       {
@@ -63,20 +52,9 @@
         "title": "The Uprising",
         "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-        "rating": 8.027,
+        "rating": 8.043,
         "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
         "release_date": "2026-09-10",
-        "stream_url": null
-      },
-      {
-        "id": 1400940,
-        "media_type": "movie",
-        "title": "Clayface",
-        "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
-        "rating": 0.0,
-        "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-        "release_date": "2026-10-21",
         "stream_url": null
       },
       {
@@ -91,6 +69,17 @@
         "stream_url": null
       },
       {
+        "id": 1375441,
+        "media_type": "movie",
+        "title": "Primetime",
+        "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+        "rating": 6.967,
+        "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
+        "release_date": "2026-09-23",
+        "stream_url": null
+      },
+      {
         "id": 1204680,
         "media_type": "movie",
         "title": "Coyote vs. Acme",
@@ -102,36 +91,14 @@
         "stream_url": null
       },
       {
-        "id": 1375441,
-        "media_type": "movie",
-        "title": "Primetime",
-        "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-        "rating": 6.993,
-        "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
-        "release_date": "2026-09-23",
-        "stream_url": null
-      },
-      {
         "id": 1339713,
         "media_type": "movie",
         "title": "Obsession",
         "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-        "rating": 8.186,
+        "rating": 8.187,
         "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
         "release_date": "2026-05-13",
-        "stream_url": null
-      },
-      {
-        "id": 1153576,
-        "media_type": "movie",
-        "title": "Street Fighter",
-        "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-        "rating": 0.0,
-        "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-        "release_date": "2026-10-13",
         "stream_url": null
       },
       {
@@ -143,17 +110,6 @@
         "rating": 7.578,
         "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
         "release_date": "2026-09-19",
-        "stream_url": null
-      },
-      {
-        "id": 1032863,
-        "media_type": "movie",
-        "title": "The Love Hypothesis",
-        "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-        "rating": 8.064,
-        "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-        "release_date": "2026-09-23",
         "stream_url": null
       },
       {
@@ -179,14 +135,14 @@
         "stream_url": null
       },
       {
-        "id": 1465063,
+        "id": 969681,
         "media_type": "movie",
-        "title": "Forgotten Island",
-        "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-        "rating": 8.2,
-        "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-        "release_date": "2026-09-10",
+        "title": "Spider-Man: Brand New Day",
+        "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+        "rating": 7.865,
+        "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+        "release_date": "2026-07-29",
         "stream_url": null
       },
       {
@@ -201,14 +157,25 @@
         "stream_url": null
       },
       {
-        "id": 1607127,
+        "id": 1032863,
         "media_type": "movie",
-        "title": "One Last Shot",
-        "poster": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-        "rating": 7.414,
-        "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
-        "release_date": "2026-09-22",
+        "title": "The Love Hypothesis",
+        "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+        "rating": 8.069,
+        "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+        "release_date": "2026-09-23",
+        "stream_url": null
+      },
+      {
+        "id": 1465063,
+        "media_type": "movie",
+        "title": "Forgotten Island",
+        "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+        "rating": 8.2,
+        "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+        "release_date": "2026-09-10",
         "stream_url": null
       },
       {
@@ -220,6 +187,39 @@
         "rating": 7.02,
         "overview": "A strange doorway appears in the basement of a furniture showroom.",
         "release_date": "2026-05-27",
+        "stream_url": null
+      },
+      {
+        "id": 1101383,
+        "media_type": "movie",
+        "title": "The End of Oak Street",
+        "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+        "rating": 7.051,
+        "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+        "release_date": "2026-08-12",
+        "stream_url": null
+      },
+      {
+        "id": 1607127,
+        "media_type": "movie",
+        "title": "One Last Shot",
+        "poster": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+        "rating": 7.414,
+        "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
+        "release_date": "2026-09-22",
+        "stream_url": null
+      },
+      {
+        "id": 1477712,
+        "media_type": "movie",
+        "title": "Ice Cream Man",
+        "poster": "https://image.tmdb.org/t/p/w500/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
+        "rating": 4.856,
+        "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+        "release_date": "2026-08-03",
         "stream_url": null
       }
     ],
