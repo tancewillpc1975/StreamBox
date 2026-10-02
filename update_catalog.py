@@ -20,18 +20,33 @@ else:
             break
         print("That does not look like a TMDB v3 API key. Please paste the 32-character API Key (v3 auth), not the longer Read Access Token.")
 
-def request_json(path):
+def request_json(path, max_attempts=5):
     sep = "&" if "?" in path else "?"
     url = API + path + sep + urllib.parse.urlencode({"api_key": KEY})
-    req = urllib.request.Request(url, headers={"Accept": "application/json", "User-Agent": "StreamBox-Catalog-Updater/1.0"})
-    try:
-        with urllib.request.urlopen(req, timeout=30) as r:
-            return json.load(r)
-    except urllib.error.HTTPError as e:
-        body = e.read().decode("utf-8", errors="replace")
-        if e.code == 401:
-            raise SystemExit("TMDB rejected this key (401 Unauthorized). In TMDB Settings > API, copy the 32-character 'API Key (v3 auth)' and run the script again.\nTMDB response: " + body)
-        raise SystemExit(f"TMDB request failed with HTTP {e.code}: {body}")
+    req = urllib.request.Request(url, headers={"Accept": "application/json", "User-Agent": "StreamBox-Catalog-Updater/1.1"})
+
+    for attempt in range(1, max_attempts + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            body = e.read().decode("utf-8", errors="replace")
+            if e.code == 401:
+                raise SystemExit("TMDB rejected this key (401 Unauthorized). In TMDB Settings > API, copy the 32-character 'API Key (v3 auth)' and run the script again.\nTMDB response: " + body)
+            if e.code in (429, 500, 502, 503, 504) and attempt < max_attempts:
+                wait = min(2 ** attempt, 20)
+                print(f"Temporary TMDB HTTP {e.code}. Retrying in {wait}s ({attempt}/{max_attempts})...")
+                time.sleep(wait)
+                continue
+            raise SystemExit(f"TMDB request failed with HTTP {e.code}: {body}")
+        except (urllib.error.URLError, ConnectionResetError, TimeoutError, OSError) as e:
+            if attempt < max_attempts:
+                wait = min(2 ** attempt, 20)
+                print(f"Temporary network error: {e}. Retrying in {wait}s ({attempt}/{max_attempts})...")
+                time.sleep(wait)
+                continue
+            raise SystemExit(f"TMDB request failed after {max_attempts} attempts: {e}")
+
 
 def fetch(path, media):
     d = request_json(path)
@@ -70,8 +85,13 @@ catalog = {
     },
 }
 
-with open("catalog.json", "w", encoding="utf-8") as f:
+temp_catalog = "catalog.json.tmp"
+with open(temp_catalog, "w", encoding="utf-8") as f:
     json.dump(catalog, f, indent=2, ensure_ascii=False)
+    f.flush()
+    os.fsync(f.fileno())
+
+os.replace(temp_catalog, "catalog.json")
 
 movie_count = sum(len(v) for v in catalog["movies"].values())
 series_count = sum(len(v) for v in catalog["series"].values())
