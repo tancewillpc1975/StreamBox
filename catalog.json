@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04 22:38",
+  "updated_at": "2026-10-04 23:04",
   "movies": {
     "trending": [
       {
@@ -893,25 +893,47 @@
   "series": {
     "trending": [
       {
-        "id": 258165,
-        "media_type": "tv",
-        "title": "East of Eden",
-        "poster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
-        "rating": 7.8,
-        "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
-        "release_date": "2026-10-01",
-        "stream_url": null
-      },
-      {
         "id": 95350,
         "media_type": "tv",
         "title": "Lanterns",
         "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-        "rating": 8.4,
+        "rating": 8.373,
         "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
         "release_date": "2026-08-16",
+        "stream_url": null
+      },
+      {
+        "id": 258165,
+        "media_type": "tv",
+        "title": "East of Eden",
+        "poster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+        "rating": 7.9,
+        "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+        "release_date": "2026-10-01",
+        "stream_url": null
+      },
+      {
+        "id": 298505,
+        "media_type": "tv",
+        "title": "Coven Academy",
+        "poster": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+        "rating": 7.294,
+        "overview": "A coven protects their magic school from a dark fate.",
+        "release_date": "2026-10-01",
+        "stream_url": null
+      },
+      {
+        "id": 73223,
+        "media_type": "tv",
+        "title": "Black Clover",
+        "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+        "rating": 8.504,
+        "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+        "release_date": "2017-10-03",
         "stream_url": null
       },
       {
@@ -926,25 +948,14 @@
         "stream_url": null
       },
       {
-        "id": 298505,
+        "id": 37854,
         "media_type": "tv",
-        "title": "Coven Academy",
-        "poster": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-        "rating": 7.25,
-        "overview": "A coven protects their magic school from a dark fate.",
-        "release_date": "2026-10-01",
-        "stream_url": null
-      },
-      {
-        "id": 73223,
-        "media_type": "tv",
-        "title": "Black Clover",
-        "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-        "rating": 8.504,
-        "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
-        "release_date": "2017-10-03",
+        "title": "One Piece",
+        "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
+        "rating": 8.751,
+        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+        "release_date": "1999-10-20",
         "stream_url": null
       },
       {
@@ -981,28 +992,6 @@
         "stream_url": null
       },
       {
-        "id": 37854,
-        "media_type": "tv",
-        "title": "One Piece",
-        "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
-        "rating": 8.751,
-        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-        "release_date": "1999-10-20",
-        "stream_url": null
-      },
-      {
-        "id": 289078,
-        "media_type": "tv",
-        "title": "A Prophet",
-        "poster": "https://image.tmdb.org/t/p/w500/giSXBUuCfCXV9ALQAmcZd659J0r.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/eTlMy2amueTqJBFZm5x14GGhZxH.jpg",
-        "rating": 8.7,
-        "overview": "After his family is wiped out by the Tianxiang Sect, Shangguan Chengming goes undercover to take revenge. With the help of Jiang Feiyan, they use a series of scams to expose corruption and fight for justice.",
-        "release_date": "2026-09-24",
-        "stream_url": null
-      },
-      {
         "id": 207347,
         "media_type": "tv",
         "title": "Blue Box",
@@ -1011,50 +1000,6 @@
         "rating": 7.8,
         "overview": "Taiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!",
         "release_date": "2024-10-03",
-        "stream_url": null
-      },
-      {
-        "id": 299939,
-        "media_type": "tv",
-        "title": "Monster: The Lizzie Borden Story",
-        "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-        "rating": 7.052,
-        "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-        "release_date": "2026-09-17",
-        "stream_url": null
-      },
-      {
-        "id": 615,
-        "media_type": "tv",
-        "title": "Futurama",
-        "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-        "rating": 8.365,
-        "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-        "release_date": "1999-03-28",
-        "stream_url": null
-      },
-      {
-        "id": 298852,
-        "media_type": "tv",
-        "title": "WAR",
-        "poster": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
-        "rating": 8.8,
-        "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
-        "release_date": "2026-10-02",
-        "stream_url": null
-      },
-      {
-        "id": 2190,
-        "media_type": "tv",
-        "title": "South Park",
-        "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-        "rating": 8.335,
-        "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-        "release_date": "1997-08-13",
         "stream_url": null
       },
       {
@@ -1080,14 +1025,36 @@
         "stream_url": null
       },
       {
-        "id": 108978,
+        "id": 231801,
         "media_type": "tv",
-        "title": "Reacher",
-        "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "rating": 8.1,
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "release_date": "2022-02-03",
+        "title": "GET JIRO",
+        "poster": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hollWapcsUhmWbsp9yJXW9ZWDTb.jpg",
+        "rating": 10.0,
+        "overview": "In a post-apocalyptic, near-future Los Angeles where culinary culture reigns supreme, the world's most powerful figures are chefs, and food is both currency and a demarcation of class, the mysterious sushi chef Jiro sets out on a quest for vengeance.",
+        "release_date": "2026-10-04",
+        "stream_url": null
+      },
+      {
+        "id": 615,
+        "media_type": "tv",
+        "title": "Futurama",
+        "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+        "rating": 8.365,
+        "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+        "release_date": "1999-03-28",
+        "stream_url": null
+      },
+      {
+        "id": 298852,
+        "media_type": "tv",
+        "title": "WAR",
+        "poster": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
+        "rating": 8.8,
+        "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
+        "release_date": "2026-10-02",
         "stream_url": null
       },
       {
@@ -1099,6 +1066,39 @@
         "rating": 0.0,
         "overview": "Nagi Taira was the strongest assassin until he fell into a coma protecting his younger sister from a bullet. However, his unique physical constitution allows him to regain consciousness for a short time when “intent to kill” is directed toward him. Now begins Nagi’s “rehabilitation”! He will fight powerful targets in his custom wheelchair until he achieves a full awakening!",
         "release_date": "2026-10-04",
+        "stream_url": null
+      },
+      {
+        "id": 2190,
+        "media_type": "tv",
+        "title": "South Park",
+        "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+        "rating": 8.335,
+        "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+        "release_date": "1997-08-13",
+        "stream_url": null
+      },
+      {
+        "id": 237150,
+        "media_type": "tv",
+        "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+        "poster": "https://image.tmdb.org/t/p/w500/jsugIfxS7mg7G254ZOi6b4jDIgM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/n493br0MLJHASsqEsUwG5PvxDkN.jpg",
+        "rating": 7.4,
+        "overview": "Ars Louvent is reincarnated in another world as the young son of a minor noble who owns a small domain. Ars is not particularly strong or intelligent, but he was born with the Appraisal Skill that's able to see others' abilities and statuses. He uses his skill to find the best hidden talents in the world to make their small, weak domain into the best.",
+        "release_date": "2024-04-07",
+        "stream_url": null
+      },
+      {
+        "id": 94664,
+        "media_type": "tv",
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+        "rating": 8.436,
+        "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+        "release_date": "2021-01-11",
         "stream_url": null
       }
     ],
@@ -1553,7 +1553,7 @@
         "title": "Teach You a Lesson",
         "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-        "rating": 9.369,
+        "rating": 9.368,
         "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
         "release_date": "2026-06-05",
         "stream_url": null
@@ -1564,7 +1564,7 @@
         "title": "Dutton Ranch",
         "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
-        "rating": 9.135,
+        "rating": 9.136,
         "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
         "release_date": "2026-05-15",
         "stream_url": null
@@ -1674,7 +1674,7 @@
         "title": "When Life Gives You Tangerines",
         "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-        "rating": 8.798,
+        "rating": 8.8,
         "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
         "release_date": "2025-03-07",
         "stream_url": null
@@ -1707,7 +1707,7 @@
         "title": "Avatar: The Last Airbender",
         "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
-        "rating": 8.782,
+        "rating": 8.8,
         "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
         "release_date": "2005-02-21",
         "stream_url": null
