@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05 10:41",
+  "updated_at": "2026-10-05 11:07",
   "movies": {
     "trending": [
       {
@@ -1313,17 +1313,6 @@
         "stream_url": null
       },
       {
-        "id": 1434,
-        "media_type": "tv",
-        "title": "Family Guy",
-        "poster": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
-        "rating": 7.41,
-        "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
-        "release_date": "1999-01-31",
-        "stream_url": null
-      },
-      {
         "id": 94722,
         "media_type": "tv",
         "title": "Tagesschau",
@@ -1332,6 +1321,17 @@
         "rating": 6.8,
         "overview": "German daily news program, the oldest still existing program on German television.",
         "release_date": "1952-12-26",
+        "stream_url": null
+      },
+      {
+        "id": 15226,
+        "media_type": "tv",
+        "title": "C.I.D.",
+        "poster": "https://image.tmdb.org/t/p/w500/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1gZrOa2E9DOohEvSLLBJqus2zGu.jpg",
+        "rating": 5.7,
+        "overview": "A team of dedicated men and women in the Crime Investigation Department will risk everything to solve Mumbai's toughest, most complicated crimes.",
+        "release_date": "1998-01-21",
         "stream_url": null
       }
     ],
