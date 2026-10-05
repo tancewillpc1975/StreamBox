@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04 23:38",
+  "updated_at": "2026-10-05 00:07",
   "movies": {
     "trending": [
       {
@@ -898,7 +898,7 @@
         "title": "Lanterns",
         "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-        "rating": 8.373,
+        "rating": 8.4,
         "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
         "release_date": "2026-08-16",
         "stream_url": null
@@ -926,25 +926,25 @@
         "stream_url": null
       },
       {
-        "id": 73223,
-        "media_type": "tv",
-        "title": "Black Clover",
-        "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-        "rating": 8.504,
-        "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
-        "release_date": "2017-10-03",
-        "stream_url": null
-      },
-      {
         "id": 247718,
         "media_type": "tv",
         "title": "MobLand",
         "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-        "rating": 8.469,
+        "rating": 8.47,
         "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
         "release_date": "2025-03-30",
+        "stream_url": null
+      },
+      {
+        "id": 73223,
+        "media_type": "tv",
+        "title": "Black Clover",
+        "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+        "rating": 8.505,
+        "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+        "release_date": "2017-10-03",
         "stream_url": null
       },
       {
@@ -981,17 +981,6 @@
         "stream_url": null
       },
       {
-        "id": 324502,
-        "media_type": "tv",
-        "title": "Overgeared",
-        "poster": "https://image.tmdb.org/t/p/w500/94GLmulA9qVGsuo9kLpVKi01E2Z.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/745xqHbiUWwO51TM60MXRCR4Onm.jpg",
-        "rating": 8.0,
-        "overview": "Escape everyday life in SATISFY, a VR game where players earn real-world fame and fortune. One player, Grid, can't seem to catch a break in the game or in real life. That all changes when a challenging quest leads him to becoming the heir to a legendary blacksmith. His stats are reset to zero, but he's leveling up and crafting some seriously god-tier goods.",
-        "release_date": "2026-10-02",
-        "stream_url": null
-      },
-      {
         "id": 207347,
         "media_type": "tv",
         "title": "Blue Box",
@@ -1008,9 +997,31 @@
         "title": "Re:ZERO -Starting Life in Another World-",
         "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-        "rating": 8.125,
+        "rating": 8.122,
         "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
         "release_date": "2016-04-04",
+        "stream_url": null
+      },
+      {
+        "id": 324502,
+        "media_type": "tv",
+        "title": "Overgeared",
+        "poster": "https://image.tmdb.org/t/p/w500/94GLmulA9qVGsuo9kLpVKi01E2Z.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/745xqHbiUWwO51TM60MXRCR4Onm.jpg",
+        "rating": 6.25,
+        "overview": "Escape everyday life in SATISFY, a VR game where players earn real-world fame and fortune. One player, Grid, can't seem to catch a break in the game or in real life. That all changes when a challenging quest leads him to becoming the heir to a legendary blacksmith. His stats are reset to zero, but he's leveling up and crafting some seriously god-tier goods.",
+        "release_date": "2026-10-02",
+        "stream_url": null
+      },
+      {
+        "id": 2190,
+        "media_type": "tv",
+        "title": "South Park",
+        "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+        "rating": 8.3,
+        "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+        "release_date": "1997-08-13",
         "stream_url": null
       },
       {
@@ -1022,6 +1033,17 @@
         "rating": 8.1,
         "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
         "release_date": "2011-10-05",
+        "stream_url": null
+      },
+      {
+        "id": 298852,
+        "media_type": "tv",
+        "title": "WAR",
+        "poster": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
+        "rating": 8.8,
+        "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
+        "release_date": "2026-10-02",
         "stream_url": null
       },
       {
@@ -1047,17 +1069,6 @@
         "stream_url": null
       },
       {
-        "id": 298852,
-        "media_type": "tv",
-        "title": "WAR",
-        "poster": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
-        "rating": 8.8,
-        "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
-        "release_date": "2026-10-02",
-        "stream_url": null
-      },
-      {
         "id": 320377,
         "media_type": "tv",
         "title": "TANK CHAIR",
@@ -1069,36 +1080,25 @@
         "stream_url": null
       },
       {
-        "id": 2190,
+        "id": 456,
         "media_type": "tv",
-        "title": "South Park",
-        "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-        "rating": 8.335,
-        "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-        "release_date": "1997-08-13",
+        "title": "The Simpsons",
+        "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
+        "rating": 8.024,
+        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+        "release_date": "1989-12-17",
         "stream_url": null
       },
       {
-        "id": 237150,
+        "id": 283692,
         "media_type": "tv",
-        "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
-        "poster": "https://image.tmdb.org/t/p/w500/jsugIfxS7mg7G254ZOi6b4jDIgM.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/n493br0MLJHASsqEsUwG5PvxDkN.jpg",
-        "rating": 7.4,
-        "overview": "Ars Louvent is reincarnated in another world as the young son of a minor noble who owns a small domain. Ars is not particularly strong or intelligent, but he was born with the Appraisal Skill that's able to see others' abilities and statuses. He uses his skill to find the best hidden talents in the world to make their small, weak domain into the best.",
-        "release_date": "2024-04-07",
-        "stream_url": null
-      },
-      {
-        "id": 94664,
-        "media_type": "tv",
-        "title": "Mushoku Tensei: Jobless Reincarnation",
-        "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-        "rating": 8.436,
-        "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-        "release_date": "2021-01-11",
+        "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+        "poster": "https://image.tmdb.org/t/p/w500/uF5ls69ae5oskSCGcEGtXgwHy6N.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/xqil5t29q1k6reedUlMy4nYd9f7.jpg",
+        "rating": 0.0,
+        "overview": "When office worker Takahiro Satou awakens inside his favorite sci-fi game, he finds himself commanding a powerful spaceship. He takes to the stars as Hiro the mercenary, battling enemies and gathering allies along the way. But he soon faces a big problem: he has no home and, more importantly, no carbonated drinks! There’s only one thing to do…buy himself a house on a planet!",
+        "release_date": "2026-10-04",
         "stream_url": null
       }
     ],
