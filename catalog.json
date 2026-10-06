@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 20:05",
+  "updated_at": "2026-10-06 20:41",
   "movies": {
     "trending": [
       {
@@ -898,7 +898,7 @@
         "title": "Lanterns",
         "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-        "rating": 8.35,
+        "rating": 8.352,
         "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
         "release_date": "2026-08-16",
         "stream_url": null
@@ -915,23 +915,12 @@
         "stream_url": null
       },
       {
-        "id": 65942,
-        "media_type": "tv",
-        "title": "Re:ZERO -Starting Life in Another World-",
-        "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-        "rating": 8.1,
-        "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-        "release_date": "2016-04-04",
-        "stream_url": null
-      },
-      {
         "id": 247718,
         "media_type": "tv",
         "title": "MobLand",
         "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-        "rating": 8.5,
+        "rating": 8.475,
         "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
         "release_date": "2025-03-30",
         "stream_url": null
@@ -948,13 +937,35 @@
         "stream_url": null
       },
       {
-        "id": 335227,
+        "id": 298852,
         "media_type": "tv",
-        "title": "I Would Rather Die",
-        "poster": "https://image.tmdb.org/t/p/w500/1HehlJEDVfHf9nt36Ygq8apTWQD.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
-        "rating": 7.5,
-        "overview": "The protagonist Archie, considered the school loser, is bitten by a zombie and finds himself at the center of a mission to save the city alongside his friends Cris and Brenda.",
+        "title": "WAR",
+        "poster": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
+        "rating": 8.8,
+        "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
+        "release_date": "2026-10-02",
+        "stream_url": null
+      },
+      {
+        "id": 73223,
+        "media_type": "tv",
+        "title": "Black Clover",
+        "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+        "rating": 8.5,
+        "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+        "release_date": "2017-10-03",
+        "stream_url": null
+      },
+      {
+        "id": 284558,
+        "media_type": "tv",
+        "title": "Kill Jackie",
+        "poster": "https://image.tmdb.org/t/p/w500/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/twc2YYBXTjdv52TShVumB1voT3Q.jpg",
+        "rating": 6.9,
+        "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.",
         "release_date": "2026-10-02",
         "stream_url": null
       },
@@ -970,28 +981,6 @@
         "stream_url": null
       },
       {
-        "id": 73223,
-        "media_type": "tv",
-        "title": "Black Clover",
-        "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-        "rating": 8.5,
-        "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
-        "release_date": "2017-10-03",
-        "stream_url": null
-      },
-      {
-        "id": 298852,
-        "media_type": "tv",
-        "title": "WAR",
-        "poster": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
-        "rating": 8.8,
-        "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
-        "release_date": "2026-10-02",
-        "stream_url": null
-      },
-      {
         "id": 220542,
         "media_type": "tv",
         "title": "The Apothecary Diaries",
@@ -1003,69 +992,14 @@
         "stream_url": null
       },
       {
-        "id": 284558,
+        "id": 290856,
         "media_type": "tv",
-        "title": "Kill Jackie",
-        "poster": "https://image.tmdb.org/t/p/w500/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/twc2YYBXTjdv52TShVumB1voT3Q.jpg",
-        "rating": 6.75,
-        "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.",
-        "release_date": "2026-10-02",
-        "stream_url": null
-      },
-      {
-        "id": 203667,
-        "media_type": "tv",
-        "title": "Red Queen",
-        "poster": "https://image.tmdb.org/t/p/w500/lk7LVXYSOO5rReR2jzLo8Le3cO1.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
-        "rating": 7.0,
-        "overview": "A gifted woman's intellect brings chance to lead covert European police force. But it backfires, costing her everything. Following murder at her home and kidnapped heiress, her ex-supervisor enlists a policeman's aid to reinstate her.",
-        "release_date": "2024-02-29",
-        "stream_url": null
-      },
-      {
-        "id": 37854,
-        "media_type": "tv",
-        "title": "One Piece",
-        "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
-        "rating": 8.8,
-        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-        "release_date": "1999-10-20",
-        "stream_url": null
-      },
-      {
-        "id": 324502,
-        "media_type": "tv",
-        "title": "Overgeared",
-        "poster": "https://image.tmdb.org/t/p/w500/94GLmulA9qVGsuo9kLpVKi01E2Z.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/745xqHbiUWwO51TM60MXRCR4Onm.jpg",
-        "rating": 6.2,
-        "overview": "Escape everyday life in SATISFY, a VR game where players earn real-world fame and fortune. One player, Grid, can't seem to catch a break in the game or in real life. That all changes when a challenging quest leads him to becoming the heir to a legendary blacksmith. His stats are reset to zero, but he's leveling up and crafting some seriously god-tier goods.",
-        "release_date": "2026-10-02",
-        "stream_url": null
-      },
-      {
-        "id": 273207,
-        "media_type": "tv",
-        "title": "Neagley",
-        "poster": "https://image.tmdb.org/t/p/w500/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
-        "rating": 8.145,
-        "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
-        "release_date": "2026-09-16",
-        "stream_url": null
-      },
-      {
-        "id": 283938,
-        "media_type": "tv",
-        "title": "Even the Student Council Has Its Holes!",
-        "poster": "https://image.tmdb.org/t/p/w500/jGj3OTrtaSvm5umJ8nVGyQLF30E.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/kuYMjcQ6BeLTBYUR1l1T8W8ZMcf.jpg",
-        "rating": 0.0,
-        "overview": "In a student council filled with weirdos, one new member is about to have a hell of a school year! Mizunoe Ume just wanted to avoid repeating a grade when he joined the student council. After all, it seemed like an easy fix to his current academic problems. But then, he met his fellow council members. Each of them is eccentric in their own way—one's an airhead, another's scary, one's secretly a pervert, but all in all, they're just really weird! Yet somehow, they're also oddly cute and endearing. Which means Mizunoe is stuck with them and all the chaos they bring to the table. Get ready for a slice-of-life story that's irresistibly charming, quirky, and a little bit naughty!",
-        "release_date": "2026-10-04",
+        "title": "Marshals",
+        "poster": "https://image.tmdb.org/t/p/w500/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+        "rating": 7.9,
+        "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+        "release_date": "2026-03-01",
         "stream_url": null
       },
       {
@@ -1080,14 +1014,69 @@
         "stream_url": null
       },
       {
-        "id": 278043,
+        "id": 207347,
         "media_type": "tv",
-        "title": "You and I Are Polar Opposites",
-        "poster": "https://image.tmdb.org/t/p/w500/9hRuMU33DBz4z1vaYBRqLLuFFbQ.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/5p423VlhPXf7681XyZCL4khIJLl.jpg",
-        "rating": 8.6,
-        "overview": "Suzuki's a high school girl in love, but the guy she's fallen for is nothing like her! While she's cheerful, outgoing, and always trying to fit in, her classmate Yusuke Tani is stoic, quiet, and doesn't seem to care what people think of him. Will Suzuki be able to overcome her anxieties and ask him out, or will she discover that opposites really don't attract?",
-        "release_date": "2026-01-11",
+        "title": "Blue Box",
+        "poster": "https://image.tmdb.org/t/p/w500/sN3TuYevEPWxZhwcp6I2PJRW1jl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
+        "rating": 7.8,
+        "overview": "Taiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!",
+        "release_date": "2024-10-03",
+        "stream_url": null
+      },
+      {
+        "id": 37854,
+        "media_type": "tv",
+        "title": "One Piece",
+        "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
+        "rating": 8.8,
+        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+        "release_date": "1999-10-20",
+        "stream_url": null
+      },
+      {
+        "id": 65942,
+        "media_type": "tv",
+        "title": "Re:ZERO -Starting Life in Another World-",
+        "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+        "rating": 8.1,
+        "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+        "release_date": "2016-04-04",
+        "stream_url": null
+      },
+      {
+        "id": 1413,
+        "media_type": "tv",
+        "title": "American Horror Story",
+        "poster": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+        "rating": 8.077,
+        "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+        "release_date": "2011-10-05",
+        "stream_url": null
+      },
+      {
+        "id": 324502,
+        "media_type": "tv",
+        "title": "Overgeared",
+        "poster": "https://image.tmdb.org/t/p/w500/94GLmulA9qVGsuo9kLpVKi01E2Z.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/745xqHbiUWwO51TM60MXRCR4Onm.jpg",
+        "rating": 6.2,
+        "overview": "Escape everyday life in SATISFY, a VR game where players earn real-world fame and fortune. One player, Grid, can't seem to catch a break in the game or in real life. That all changes when a challenging quest leads him to becoming the heir to a legendary blacksmith. His stats are reset to zero, but he's leveling up and crafting some seriously god-tier goods.",
+        "release_date": "2026-10-02",
+        "stream_url": null
+      },
+      {
+        "id": 97546,
+        "media_type": "tv",
+        "title": "Ted Lasso",
+        "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+        "rating": 8.363,
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "release_date": "2020-08-14",
         "stream_url": null
       },
       {
@@ -1099,6 +1088,17 @@
         "rating": 8.3,
         "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
         "release_date": "1997-08-13",
+        "stream_url": null
+      },
+      {
+        "id": 283938,
+        "media_type": "tv",
+        "title": "Even the Student Council Has Its Holes!",
+        "poster": "https://image.tmdb.org/t/p/w500/jGj3OTrtaSvm5umJ8nVGyQLF30E.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kuYMjcQ6BeLTBYUR1l1T8W8ZMcf.jpg",
+        "rating": 0.0,
+        "overview": "In a student council filled with weirdos, one new member is about to have a hell of a school year! Mizunoe Ume just wanted to avoid repeating a grade when he joined the student council. After all, it seemed like an easy fix to his current academic problems. But then, he met his fellow council members. Each of them is eccentric in their own way—one's an airhead, another's scary, one's secretly a pervert, but all in all, they're just really weird! Yet somehow, they're also oddly cute and endearing. Which means Mizunoe is stuck with them and all the chaos they bring to the table. Get ready for a slice-of-life story that's irresistibly charming, quirky, and a little bit naughty!",
+        "release_date": "2026-10-04",
         "stream_url": null
       }
     ],
