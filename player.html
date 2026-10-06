@@ -1,1 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
 
+    <meta name="viewport"
+          content="width=device-width,
+                   initial-scale=1.0,
+                   maximum-scale=1.0">
+
+    <title>StreamBox Live</title>
+
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            background: #000;
+            overflow: hidden;
+        }
+
+        #player {
+            position: fixed;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+            background: #000;
+        }
+    </style>
+</head>
+
+<body>
+
+<iframe
+    id="player"
+    title="StreamBox Live Player"
+    scrolling="no"
+    allowfullscreen
+    allow="autoplay; encrypted-media; picture-in-picture; fullscreen">
+</iframe>
+
+<script>
+    const params = new URLSearchParams(window.location.search);
+    const streamUrl = params.get("url");
+
+    if (streamUrl) {
+        try {
+            const parsed = new URL(streamUrl);
+
+            if (
+                parsed.protocol === "https:" &&
+                (parsed.hostname === "embed.st" ||
+                 parsed.hostname.endsWith(".embed.st"))
+            ) {
+                document.getElementById("player").src = parsed.href;
+            } else {
+                document.body.innerHTML =
+                    '<div style="color:white;padding:20px;font-family:sans-serif">' +
+                    'Invalid stream URL' +
+                    '</div>';
+            }
+        } catch (e) {
+            document.body.innerHTML =
+                '<div style="color:white;padding:20px;font-family:sans-serif">' +
+                'Invalid stream URL' +
+                '</div>';
+        }
+    } else {
+        document.body.innerHTML =
+            '<div style="color:white;padding:20px;font-family:sans-serif">' +
+            'No stream selected' +
+            '</div>';
+    }
+</script>
+
+</body>
+</html>
