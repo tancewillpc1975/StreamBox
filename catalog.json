@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 09:07",
+  "updated_at": "2026-10-06 09:41",
   "movies": {
     "trending": [
       {
@@ -898,7 +898,7 @@
         "title": "Lanterns",
         "poster": "https://image.tmdb.org/t/p/w500/sbBehMLO6Ge7Tbk374dIBtUjO6P.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-        "rating": 8.346,
+        "rating": 8.349,
         "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
         "release_date": "2026-08-16",
         "stream_url": null
@@ -915,25 +915,14 @@
         "stream_url": null
       },
       {
-        "id": 73223,
+        "id": 220542,
         "media_type": "tv",
-        "title": "Black Clover",
-        "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-        "rating": 8.507,
-        "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
-        "release_date": "2017-10-03",
-        "stream_url": null
-      },
-      {
-        "id": 298505,
-        "media_type": "tv",
-        "title": "Coven Academy",
-        "poster": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-        "rating": 7.2,
-        "overview": "A coven protects their magic school from a dark fate.",
-        "release_date": "2026-10-01",
+        "title": "The Apothecary Diaries",
+        "poster": "https://image.tmdb.org/t/p/w500/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+        "rating": 8.6,
+        "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+        "release_date": "2023-10-22",
         "stream_url": null
       },
       {
@@ -948,14 +937,25 @@
         "stream_url": null
       },
       {
-        "id": 220542,
+        "id": 298505,
         "media_type": "tv",
-        "title": "The Apothecary Diaries",
-        "poster": "https://image.tmdb.org/t/p/w500/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-        "rating": 8.6,
-        "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-        "release_date": "2023-10-22",
+        "title": "Coven Academy",
+        "poster": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+        "rating": 7.2,
+        "overview": "A coven protects their magic school from a dark fate.",
+        "release_date": "2026-10-01",
+        "stream_url": null
+      },
+      {
+        "id": 282326,
+        "media_type": "tv",
+        "title": "Against the Current",
+        "poster": "https://image.tmdb.org/t/p/w500/euBlF64efQmsl2y54LeNmLQPNob.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
+        "rating": 7.2,
+        "overview": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jinqi, she is forced to assume a servant's identity in his household. Despite hardships, she refuses to bow to fate. With resilience and wit, she rises above class barriers, wins Lin Jinqi's heart, earns the family's respect, and ultimately clears her family's name.",
+        "release_date": "2026-09-11",
         "stream_url": null
       },
       {
@@ -966,28 +966,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/twc2YYBXTjdv52TShVumB1voT3Q.jpg",
         "rating": 6.75,
         "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.",
-        "release_date": "2026-10-02",
-        "stream_url": null
-      },
-      {
-        "id": 65942,
-        "media_type": "tv",
-        "title": "Re:ZERO -Starting Life in Another World-",
-        "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-        "rating": 8.1,
-        "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-        "release_date": "2016-04-04",
-        "stream_url": null
-      },
-      {
-        "id": 298852,
-        "media_type": "tv",
-        "title": "WAR",
-        "poster": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
-        "rating": 8.8,
-        "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
         "release_date": "2026-10-02",
         "stream_url": null
       },
@@ -1003,50 +981,6 @@
         "stream_url": null
       },
       {
-        "id": 335227,
-        "media_type": "tv",
-        "title": "I Would Rather Die",
-        "poster": "https://image.tmdb.org/t/p/w500/1HehlJEDVfHf9nt36Ygq8apTWQD.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
-        "rating": 8.091,
-        "overview": "The protagonist Archie, considered the school loser, is bitten by a zombie and finds himself at the center of a mission to save the city alongside his friends Cris and Brenda.",
-        "release_date": "2026-10-02",
-        "stream_url": null
-      },
-      {
-        "id": 2190,
-        "media_type": "tv",
-        "title": "South Park",
-        "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-        "rating": 8.3,
-        "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-        "release_date": "1997-08-13",
-        "stream_url": null
-      },
-      {
-        "id": 108978,
-        "media_type": "tv",
-        "title": "Reacher",
-        "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "rating": 8.137,
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "release_date": "2022-02-03",
-        "stream_url": null
-      },
-      {
-        "id": 30984,
-        "media_type": "tv",
-        "title": "Bleach",
-        "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-        "rating": 8.4,
-        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-        "release_date": "2004-10-05",
-        "stream_url": null
-      },
-      {
         "id": 1413,
         "media_type": "tv",
         "title": "American Horror Story",
@@ -1055,17 +989,6 @@
         "rating": 8.1,
         "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
         "release_date": "2011-10-05",
-        "stream_url": null
-      },
-      {
-        "id": 282326,
-        "media_type": "tv",
-        "title": "Against the Current",
-        "poster": "https://image.tmdb.org/t/p/w500/euBlF64efQmsl2y54LeNmLQPNob.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
-        "rating": 7.2,
-        "overview": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jinqi, she is forced to assume a servant's identity in his household. Despite hardships, she refuses to bow to fate. With resilience and wit, she rises above class barriers, wins Lin Jinqi's heart, earns the family's respect, and ultimately clears her family's name.",
-        "release_date": "2026-09-11",
         "stream_url": null
       },
       {
@@ -1080,6 +1003,72 @@
         "stream_url": null
       },
       {
+        "id": 45790,
+        "media_type": "tv",
+        "title": "JoJo's Bizarre Adventure",
+        "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+        "rating": 8.5,
+        "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+        "release_date": "2012-10-06",
+        "stream_url": null
+      },
+      {
+        "id": 289560,
+        "media_type": "tv",
+        "title": "CIA",
+        "poster": "https://image.tmdb.org/t/p/w500/fEXauqIabKrMPQ2lVTHKdrkrR4Z.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/aygKfV5mOCA400S5gzebSIA4BVQ.jpg",
+        "rating": 8.531,
+        "overview": "When by-the-book FBI Special Agent Bill Goodman is loaned out to a clandestine CIA/FBI task force, he finds himself teamed up with secretive and roguish CIA case officer Colin Glass. Together they work covert operations in New York, uncovering international plots, terrorist cells, and geopolitical secrets.",
+        "release_date": "2026-02-23",
+        "stream_url": null
+      },
+      {
+        "id": 65942,
+        "media_type": "tv",
+        "title": "Re:ZERO -Starting Life in Another World-",
+        "poster": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+        "rating": 8.1,
+        "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+        "release_date": "2016-04-04",
+        "stream_url": null
+      },
+      {
+        "id": 73223,
+        "media_type": "tv",
+        "title": "Black Clover",
+        "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+        "rating": 8.5,
+        "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+        "release_date": "2017-10-03",
+        "stream_url": null
+      },
+      {
+        "id": 30984,
+        "media_type": "tv",
+        "title": "Bleach",
+        "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "rating": 8.4,
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "release_date": "2004-10-05",
+        "stream_url": null
+      },
+      {
+        "id": 298852,
+        "media_type": "tv",
+        "title": "WAR",
+        "poster": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
+        "rating": 8.8,
+        "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
+        "release_date": "2026-10-02",
+        "stream_url": null
+      },
+      {
         "id": 615,
         "media_type": "tv",
         "title": "Futurama",
@@ -1091,14 +1080,25 @@
         "stream_url": null
       },
       {
-        "id": 45790,
+        "id": 456,
         "media_type": "tv",
-        "title": "JoJo's Bizarre Adventure",
-        "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
-        "rating": 8.5,
-        "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
-        "release_date": "2012-10-06",
+        "title": "The Simpsons",
+        "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
+        "rating": 8.0,
+        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+        "release_date": "1989-12-17",
+        "stream_url": null
+      },
+      {
+        "id": 259140,
+        "media_type": "tv",
+        "title": "Ranma1/2",
+        "poster": "https://image.tmdb.org/t/p/w500/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
+        "rating": 8.1,
+        "overview": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
+        "release_date": "2024-10-06",
         "stream_url": null
       }
     ],
@@ -1342,9 +1342,20 @@
         "title": "The Tonight Show Starring Jimmy Fallon",
         "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/i4OYRb5V13BrOnTPJGdyXWg4r0J.jpg",
-        "rating": 5.791,
+        "rating": 5.8,
         "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
         "release_date": "2014-02-17",
+        "stream_url": null
+      },
+      {
+        "id": 61818,
+        "media_type": "tv",
+        "title": "Late Night with Seth Meyers",
+        "poster": "https://image.tmdb.org/t/p/w500/qKFP9Se7LJtBaxrMS41iu63dtK3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/dfX2UaHVE5c7kLBFbgmEZJuy4Ev.jpg",
+        "rating": 5.088,
+        "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+        "release_date": "2014-02-25",
         "stream_url": null
       },
       {
@@ -1359,6 +1370,17 @@
         "stream_url": null
       },
       {
+        "id": 4614,
+        "media_type": "tv",
+        "title": "NCIS",
+        "poster": "https://image.tmdb.org/t/p/w500/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+        "rating": 7.6,
+        "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+        "release_date": "2003-09-23",
+        "stream_url": null
+      },
+      {
         "id": 11890,
         "media_type": "tv",
         "title": "Goede Tijden, Slechte Tijden",
@@ -1370,14 +1392,14 @@
         "stream_url": null
       },
       {
-        "id": 4656,
+        "id": 97546,
         "media_type": "tv",
-        "title": "Raw",
-        "poster": "https://image.tmdb.org/t/p/w500/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-        "rating": 6.8,
-        "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-        "release_date": "1993-01-11",
+        "title": "Ted Lasso",
+        "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+        "rating": 8.4,
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "release_date": "2020-08-14",
         "stream_url": null
       },
       {
@@ -1392,17 +1414,6 @@
         "stream_url": null
       },
       {
-        "id": 291,
-        "media_type": "tv",
-        "title": "Coronation Street",
-        "poster": "https://image.tmdb.org/t/p/w500/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-        "rating": 5.4,
-        "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-        "release_date": "1960-12-09",
-        "stream_url": null
-      },
-      {
         "id": 65701,
         "media_type": "tv",
         "title": "Good Mythical Morning",
@@ -1411,17 +1422,6 @@
         "rating": 6.938,
         "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
         "release_date": "2012-01-09",
-        "stream_url": null
-      },
-      {
-        "id": 80748,
-        "media_type": "tv",
-        "title": "FBI",
-        "poster": "https://image.tmdb.org/t/p/w500/br3xWBUu7W0dXsMev0XXVvoMxuE.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3yOcLUJsbC58EcthvVk8730ZhP.jpg",
-        "rating": 7.9,
-        "overview": "The New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep their city and the country safe.",
-        "release_date": "2018-09-25",
         "stream_url": null
       },
       {
@@ -1452,7 +1452,7 @@
         "title": "Against the Current",
         "poster": "https://image.tmdb.org/t/p/w500/euBlF64efQmsl2y54LeNmLQPNob.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
-        "rating": 6.9,
+        "rating": 7.2,
         "overview": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jinqi, she is forced to assume a servant's identity in his household. Despite hardships, she refuses to bow to fate. With resilience and wit, she rises above class barriers, wins Lin Jinqi's heart, earns the family's respect, and ultimately clears her family's name.",
         "release_date": "2026-09-11",
         "stream_url": null
@@ -1480,6 +1480,17 @@
         "stream_url": null
       },
       {
+        "id": 1489,
+        "media_type": "tv",
+        "title": "Jimmy Kimmel Live!",
+        "poster": "https://image.tmdb.org/t/p/w500/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
+        "rating": 5.3,
+        "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
+        "release_date": "2003-01-26",
+        "stream_url": null
+      },
+      {
         "id": 72879,
         "media_type": "tv",
         "title": "Tomorrow Is Ours",
@@ -1491,14 +1502,14 @@
         "stream_url": null
       },
       {
-        "id": 220542,
+        "id": 1508,
         "media_type": "tv",
-        "title": "The Apothecary Diaries",
-        "poster": "https://image.tmdb.org/t/p/w500/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-        "rating": 8.6,
-        "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-        "release_date": "2023-10-22",
+        "title": "Dancing with the Stars",
+        "poster": "https://image.tmdb.org/t/p/w500/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/r4ceAy8m4w9gheLWEgEgQnbYK85.jpg",
+        "rating": 6.2,
+        "overview": "The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom experts and voted on by viewers. Enjoy sizzling salsas, sambas and spray-tans as they vie for the coveted Mirrorball Trophy.",
+        "release_date": "2005-06-01",
         "stream_url": null
       },
       {
@@ -1524,25 +1535,14 @@
         "stream_url": null
       },
       {
-        "id": 2710,
+        "id": 1877,
         "media_type": "tv",
-        "title": "It's Always Sunny in Philadelphia",
-        "poster": "https://image.tmdb.org/t/p/w500/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/265v8OtLO4h8XgJu5eDRpJdf9e0.jpg",
-        "rating": 8.2,
-        "overview": "Four egocentric friends run a neighborhood Irish pub in Philadelphia and try to find their way through the adult world of work and relationships. Unfortunately, their warped views and precarious judgments often lead them to trouble, creating a myriad of uncomfortable situations that usually only get worse before they get better.",
-        "release_date": "2005-08-04",
-        "stream_url": null
-      },
-      {
-        "id": 6809,
-        "media_type": "tv",
-        "title": "El hormiguero",
-        "poster": "https://image.tmdb.org/t/p/w500/b24KGOkBrKgM6Blr4rw0jdn3zw5.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/z8yQ9EZxMHaCwysqIO4LUyOuKJz.jpg",
-        "rating": 4.7,
-        "overview": "El Hormiguero is a Spanish television program with a live audience focusing on comedy, science, and politics running since September 2006. It is hosted and produced by screenwriter Pablo Motos. The show aired on Spain's Cuatro channel from launch until June 2011 and is now broadcast on Antena 3. Recurring guests on the show include Luis Piedrahita, Raquel Martos, Marron & \"The Man in Black\", and puppet ants Trancas and Barrancas. It has proved a ratings success, and has expanded from a weekly 120-minute show to a daily 40-minute show in its third season, which began on September 17, 2007. The show won the Entertainment prize at the 2009 Rose d'Or ceremony.",
-        "release_date": "2006-09-24",
+        "title": "Phineas and Ferb",
+        "poster": "https://image.tmdb.org/t/p/w500/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
+        "rating": 7.9,
+        "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
+        "release_date": "2007-08-17",
         "stream_url": null
       }
     ],
