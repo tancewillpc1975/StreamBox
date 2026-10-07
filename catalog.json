@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 19:39",
+  "updated_at": "2026-10-07 20:05",
   "movies": {
     "trending": [
       {
@@ -1447,6 +1447,17 @@
         "stream_url": null
       },
       {
+        "id": 2221,
+        "media_type": "tv",
+        "title": "The View",
+        "poster": "https://image.tmdb.org/t/p/w500/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg",
+        "rating": 4.3,
+        "overview": "ABC Daytime's morning chatfest, currently featuring Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin, and Ana Navarro discussing the most exciting events of the day. Hot topics in the news, the best experts in their field, celebrity interviews and general entertainment are all part of The View.",
+        "release_date": "1997-08-11",
+        "stream_url": null
+      },
+      {
         "id": 1871,
         "media_type": "tv",
         "title": "EastEnders",
@@ -1455,61 +1466,6 @@
         "rating": 4.3,
         "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
         "release_date": "1985-02-19",
-        "stream_url": null
-      },
-      {
-        "id": 2912,
-        "media_type": "tv",
-        "title": "Jeopardy!",
-        "poster": "https://image.tmdb.org/t/p/w500/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
-        "rating": 6.9,
-        "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
-        "release_date": "1984-09-10",
-        "stream_url": null
-      },
-      {
-        "id": 1489,
-        "media_type": "tv",
-        "title": "Jimmy Kimmel Live!",
-        "poster": "https://image.tmdb.org/t/p/w500/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
-        "rating": 5.3,
-        "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
-        "release_date": "2003-01-26",
-        "stream_url": null
-      },
-      {
-        "id": 1900,
-        "media_type": "tv",
-        "title": "LIVE with Kelly and Mark",
-        "poster": "https://image.tmdb.org/t/p/w500/8eXDNLIhOGSoKCaIw9JJFNbnZ5x.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/eNjzPQsNNPd8zluKTpv7Axhk8p4.jpg",
-        "rating": 5.6,
-        "overview": "A morning talk show with A-list celebrity guests, top-notch performances and one-of-a-kind segments that are unrivaled on daytime television, plus spontaneous, hilarious and unpredictable talk.",
-        "release_date": "1988-09-05",
-        "stream_url": null
-      },
-      {
-        "id": 81329,
-        "media_type": "tv",
-        "title": "Chronicles of the Sun",
-        "poster": "https://image.tmdb.org/t/p/w500/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
-        "rating": 6.6,
-        "overview": "Claire is surprised when she gets arrested for the murder of her childhood friend after she returns to Montpellier.",
-        "release_date": "2018-08-27",
-        "stream_url": null
-      },
-      {
-        "id": 62650,
-        "media_type": "tv",
-        "title": "Chicago Med",
-        "poster": "https://image.tmdb.org/t/p/w500/9eym662FRJJb9wdgCiDKPDciZzf.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/x2jNLrYw1s9i6kihEJqsBQgs9nR.jpg",
-        "rating": 8.3,
-        "overview": "An emotional thrill ride through the day-to-day chaos of the city's most explosive hospital and the courageous team of doctors who hold it together. They will tackle unique new cases inspired by topical events, forging fiery relationships in the pulse-pounding pandemonium of the emergency room.",
-        "release_date": "2015-11-17",
         "stream_url": null
       },
       {
@@ -1524,14 +1480,58 @@
         "stream_url": null
       },
       {
-        "id": 65270,
+        "id": 81329,
         "media_type": "tv",
-        "title": "Radio Star",
-        "poster": "https://image.tmdb.org/t/p/w500/uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
-        "rating": 5.5,
-        "overview": "“Radio Star” is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives, their pasts and their work. It is part of Munhwa Broadcasting Corporation's \"Golden Fishery\" programming block.",
-        "release_date": "2007-05-30",
+        "title": "Chronicles of the Sun",
+        "poster": "https://image.tmdb.org/t/p/w500/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
+        "rating": 6.6,
+        "overview": "Claire is surprised when she gets arrested for the murder of her childhood friend after she returns to Montpellier.",
+        "release_date": "2018-08-27",
+        "stream_url": null
+      },
+      {
+        "id": 1489,
+        "media_type": "tv",
+        "title": "Jimmy Kimmel Live!",
+        "poster": "https://image.tmdb.org/t/p/w500/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
+        "rating": 5.3,
+        "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
+        "release_date": "2003-01-26",
+        "stream_url": null
+      },
+      {
+        "id": 2912,
+        "media_type": "tv",
+        "title": "Jeopardy!",
+        "poster": "https://image.tmdb.org/t/p/w500/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
+        "rating": 6.9,
+        "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+        "release_date": "1984-09-10",
+        "stream_url": null
+      },
+      {
+        "id": 62650,
+        "media_type": "tv",
+        "title": "Chicago Med",
+        "poster": "https://image.tmdb.org/t/p/w500/9eym662FRJJb9wdgCiDKPDciZzf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/x2jNLrYw1s9i6kihEJqsBQgs9nR.jpg",
+        "rating": 8.258,
+        "overview": "An emotional thrill ride through the day-to-day chaos of the city's most explosive hospital and the courageous team of doctors who hold it together. They will tackle unique new cases inspired by topical events, forging fiery relationships in the pulse-pounding pandemonium of the emergency room.",
+        "release_date": "2015-11-17",
+        "stream_url": null
+      },
+      {
+        "id": 1900,
+        "media_type": "tv",
+        "title": "LIVE with Kelly and Mark",
+        "poster": "https://image.tmdb.org/t/p/w500/8eXDNLIhOGSoKCaIw9JJFNbnZ5x.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/eNjzPQsNNPd8zluKTpv7Axhk8p4.jpg",
+        "rating": 5.6,
+        "overview": "A morning talk show with A-list celebrity guests, top-notch performances and one-of-a-kind segments that are unrivaled on daytime television, plus spontaneous, hilarious and unpredictable talk.",
+        "release_date": "1988-09-05",
         "stream_url": null
       },
       {
