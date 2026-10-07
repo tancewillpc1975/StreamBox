@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 08:42",
+  "updated_at": "2026-10-07 09:07",
   "movies": {
     "trending": [
       {
@@ -1131,7 +1131,7 @@
         "title": "Watch What Happens Live with Andy Cohen",
         "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
-        "rating": 5.01,
+        "rating": 5.0,
         "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
         "release_date": "2009-07-16",
         "stream_url": null
@@ -1203,17 +1203,6 @@
         "stream_url": null
       },
       {
-        "id": 95350,
-        "media_type": "tv",
-        "title": "Lanterns",
-        "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-        "rating": 8.342,
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "release_date": "2026-08-16",
-        "stream_url": null
-      },
-      {
         "id": 4304,
         "media_type": "tv",
         "title": "Xplay",
@@ -1258,6 +1247,17 @@
         "stream_url": null
       },
       {
+        "id": 95350,
+        "media_type": "tv",
+        "title": "Lanterns",
+        "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+        "rating": 8.344,
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "release_date": "2026-08-16",
+        "stream_url": null
+      },
+      {
         "id": 456,
         "media_type": "tv",
         "title": "The Simpsons",
@@ -1274,7 +1274,7 @@
         "title": "The Office",
         "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
-        "rating": 8.584,
+        "rating": 8.6,
         "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
         "release_date": "2005-03-24",
         "stream_url": null
@@ -1296,20 +1296,9 @@
         "title": "Law & Order",
         "poster": "https://image.tmdb.org/t/p/w500/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-        "rating": 7.286,
+        "rating": 7.285,
         "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
         "release_date": "1990-09-13",
-        "stream_url": null
-      },
-      {
-        "id": 2224,
-        "media_type": "tv",
-        "title": "The Daily Show",
-        "poster": "https://image.tmdb.org/t/p/w500/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-        "rating": 6.408,
-        "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-        "release_date": "1996-07-22",
         "stream_url": null
       },
       {
@@ -1321,6 +1310,17 @@
         "rating": 6.8,
         "overview": "German daily news program, the oldest still existing program on German television.",
         "release_date": "1952-12-26",
+        "stream_url": null
+      },
+      {
+        "id": 11890,
+        "media_type": "tv",
+        "title": "Goede Tijden, Slechte Tijden",
+        "poster": "https://image.tmdb.org/t/p/w500/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+        "rating": 5.3,
+        "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+        "release_date": "1990-10-01",
         "stream_url": null
       }
     ],
