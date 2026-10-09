@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 15:07",
+  "updated_at": "2026-10-09 15:42",
   "movies": {
     "trending": [
       {
@@ -8,9 +8,20 @@
         "title": "Animals",
         "poster": "https://image.tmdb.org/t/p/w500/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-        "rating": 6.1,
+        "rating": 6.0,
         "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
         "release_date": "2026-10-09",
+        "stream_url": null
+      },
+      {
+        "id": 1148365,
+        "media_type": "movie",
+        "title": "Matchbox the Movie",
+        "poster": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pgirSzilULweZ9RsXLw1DjfNebw.jpg",
+        "rating": 6.8,
+        "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
+        "release_date": "2026-10-05",
         "stream_url": null
       },
       {
@@ -19,20 +30,9 @@
         "title": "Spider-Man: Brand New Day",
         "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
-        "rating": 8.344,
+        "rating": 8.345,
         "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
         "release_date": "2026-07-29",
-        "stream_url": null
-      },
-      {
-        "id": 1148365,
-        "media_type": "movie",
-        "title": "Matchbox the Movie",
-        "poster": "https://image.tmdb.org/t/p/w500/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-        "rating": 6.792,
-        "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-        "release_date": "2026-10-05",
         "stream_url": null
       },
       {
@@ -41,7 +41,7 @@
         "title": "Insidious: Out of the Further",
         "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-        "rating": 7.6,
+        "rating": 7.591,
         "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
         "release_date": "2026-08-19",
         "stream_url": null
@@ -58,25 +58,25 @@
         "stream_url": null
       },
       {
-        "id": 1101412,
-        "media_type": "movie",
-        "title": "Fall 2: Deadpoint",
-        "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-        "rating": 7.169,
-        "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-        "release_date": "2026-09-01",
-        "stream_url": null
-      },
-      {
         "id": 1400837,
         "media_type": "movie",
         "title": "Other Mommy",
         "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/gy1RZonkd5CYWl64qCdIBcS4HjI.jpg",
-        "rating": 6.938,
+        "rating": 6.731,
         "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
         "release_date": "2026-10-07",
+        "stream_url": null
+      },
+      {
+        "id": 1101412,
+        "media_type": "movie",
+        "title": "Fall 2: Deadpoint",
+        "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+        "rating": 7.2,
+        "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+        "release_date": "2026-09-01",
         "stream_url": null
       },
       {
@@ -85,7 +85,7 @@
         "title": "Resident Evil",
         "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-        "rating": 7.328,
+        "rating": 7.329,
         "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
         "release_date": "2026-09-16",
         "stream_url": null
@@ -96,7 +96,7 @@
         "title": "Verity",
         "poster": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-        "rating": 6.478,
+        "rating": 6.45,
         "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
         "release_date": "2026-09-30",
         "stream_url": null
@@ -124,17 +124,6 @@
         "stream_url": null
       },
       {
-        "id": 1377237,
-        "media_type": "movie",
-        "title": "Runner",
-        "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-        "rating": 8.3,
-        "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-        "release_date": "2026-09-07",
-        "stream_url": null
-      },
-      {
         "id": 1003596,
         "media_type": "movie",
         "title": "Avengers: Doomsday",
@@ -157,14 +146,14 @@
         "stream_url": null
       },
       {
-        "id": 1153576,
+        "id": 1377237,
         "media_type": "movie",
-        "title": "Street Fighter",
-        "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-        "rating": 0.0,
-        "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-        "release_date": "2026-10-13",
+        "title": "Runner",
+        "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+        "rating": 8.295,
+        "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+        "release_date": "2026-09-07",
         "stream_url": null
       },
       {
@@ -179,6 +168,17 @@
         "stream_url": null
       },
       {
+        "id": 1153576,
+        "media_type": "movie",
+        "title": "Street Fighter",
+        "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+        "rating": 0.0,
+        "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+        "release_date": "2026-10-13",
+        "stream_url": null
+      },
+      {
         "id": 1400940,
         "media_type": "movie",
         "title": "Clayface",
@@ -190,6 +190,28 @@
         "stream_url": null
       },
       {
+        "id": 1084244,
+        "media_type": "movie",
+        "title": "Toy Story 5",
+        "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+        "rating": 8.298,
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "release_date": "2026-06-17",
+        "stream_url": null
+      },
+      {
+        "id": 1108427,
+        "media_type": "movie",
+        "title": "Moana",
+        "poster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+        "rating": 7.4,
+        "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+        "release_date": "2026-07-08",
+        "stream_url": null
+      },
+      {
         "id": 1307118,
         "media_type": "movie",
         "title": "Soulm8te",
@@ -198,28 +220,6 @@
         "rating": 7.5,
         "overview": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
         "release_date": "2026-07-31",
-        "stream_url": null
-      },
-      {
-        "id": 1368337,
-        "media_type": "movie",
-        "title": "The Odyssey",
-        "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
-        "rating": 8.0,
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "release_date": "2026-07-15",
-        "stream_url": null
-      },
-      {
-        "id": 1458857,
-        "media_type": "movie",
-        "title": "Doing Life",
-        "poster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
-        "rating": 7.727,
-        "overview": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
-        "release_date": "2026-10-02",
         "stream_url": null
       }
     ],
