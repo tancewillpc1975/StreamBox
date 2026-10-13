@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13 21:54",
+  "updated_at": "2026-10-13 22:15",
   "movies": {
     "trending": [
       {
@@ -909,20 +909,9 @@
         "title": "Carrie",
         "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-        "rating": 8.459,
+        "rating": 8.466,
         "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
         "release_date": "2026-10-07",
-        "stream_url": null
-      },
-      {
-        "id": 285322,
-        "media_type": "tv",
-        "title": "Below",
-        "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-        "rating": 7.338,
-        "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-        "release_date": "2026-10-08",
         "stream_url": null
       },
       {
@@ -937,6 +926,17 @@
         "stream_url": null
       },
       {
+        "id": 285322,
+        "media_type": "tv",
+        "title": "Below",
+        "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+        "rating": 7.295,
+        "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+        "release_date": "2026-10-08",
+        "stream_url": null
+      },
+      {
         "id": 213375,
         "media_type": "tv",
         "title": "VisionQuest",
@@ -945,28 +945,6 @@
         "rating": 10.0,
         "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
         "release_date": "2026-10-13",
-        "stream_url": null
-      },
-      {
-        "id": 97546,
-        "media_type": "tv",
-        "title": "Ted Lasso",
-        "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-        "rating": 8.363,
-        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-        "release_date": "2020-08-14",
-        "stream_url": null
-      },
-      {
-        "id": 312359,
-        "media_type": "tv",
-        "title": "Dragon Ball Super: Beerus",
-        "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-        "rating": 9.845,
-        "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-        "release_date": "2026-10-11",
         "stream_url": null
       },
       {
@@ -981,14 +959,25 @@
         "stream_url": null
       },
       {
-        "id": 247718,
+        "id": 312359,
         "media_type": "tv",
-        "title": "MobLand",
-        "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-        "rating": 8.507,
-        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-        "release_date": "2025-03-30",
+        "title": "Dragon Ball Super: Beerus",
+        "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+        "rating": 9.849,
+        "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+        "release_date": "2026-10-11",
+        "stream_url": null
+      },
+      {
+        "id": 97546,
+        "media_type": "tv",
+        "title": "Ted Lasso",
+        "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+        "rating": 8.363,
+        "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+        "release_date": "2020-08-14",
         "stream_url": null
       },
       {
@@ -997,9 +986,20 @@
         "title": "Avatar: Seven Havens",
         "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
-        "rating": 8.7,
+        "rating": 8.763,
         "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
         "release_date": "2026-10-09",
+        "stream_url": null
+      },
+      {
+        "id": 213562,
+        "media_type": "tv",
+        "title": "Crystal Lake",
+        "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
+        "rating": 5.5,
+        "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+        "release_date": "2026-10-15",
         "stream_url": null
       },
       {
@@ -1014,14 +1014,14 @@
         "stream_url": null
       },
       {
-        "id": 289423,
+        "id": 258165,
         "media_type": "tv",
-        "title": "Take Charge of My Heart",
-        "poster": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-        "rating": 8.25,
-        "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
-        "release_date": "2026-10-09",
+        "title": "East of Eden",
+        "poster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+        "rating": 7.993,
+        "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+        "release_date": "2026-10-01",
         "stream_url": null
       },
       {
@@ -1036,14 +1036,25 @@
         "stream_url": null
       },
       {
-        "id": 258165,
+        "id": 247718,
         "media_type": "tv",
-        "title": "East of Eden",
-        "poster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
-        "rating": 8.0,
-        "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
-        "release_date": "2026-10-01",
+        "title": "MobLand",
+        "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+        "rating": 8.507,
+        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+        "release_date": "2025-03-30",
+        "stream_url": null
+      },
+      {
+        "id": 289423,
+        "media_type": "tv",
+        "title": "Take Charge of My Heart",
+        "poster": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+        "rating": 8.25,
+        "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+        "release_date": "2026-10-09",
         "stream_url": null
       },
       {
@@ -1069,17 +1080,6 @@
         "stream_url": null
       },
       {
-        "id": 289560,
-        "media_type": "tv",
-        "title": "CIA",
-        "poster": "https://image.tmdb.org/t/p/w500/fEXauqIabKrMPQ2lVTHKdrkrR4Z.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/faxI8ewOUkQRy4z4vwP6kci8Ilk.jpg",
-        "rating": 8.467,
-        "overview": "When by-the-book FBI Special Agent Bill Goodman is loaned out to a clandestine CIA/FBI task force, he finds himself teamed up with secretive and roguish CIA case officer Colin Glass. Together they work covert operations in New York, uncovering international plots, terrorist cells, and geopolitical secrets.",
-        "release_date": "2026-02-23",
-        "stream_url": null
-      },
-      {
         "id": 2190,
         "media_type": "tv",
         "title": "South Park",
@@ -1091,40 +1091,29 @@
         "stream_url": null
       },
       {
-        "id": 258230,
+        "id": 37854,
         "media_type": "tv",
-        "title": "Last Seen",
-        "poster": "https://image.tmdb.org/t/p/w500/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
-        "rating": 7.639,
-        "overview": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her.",
-        "release_date": "2026-09-09",
+        "title": "One Piece",
+        "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
+        "rating": 8.752,
+        "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+        "release_date": "1999-10-20",
         "stream_url": null
       },
       {
-        "id": 282326,
+        "id": 261343,
         "media_type": "tv",
-        "title": "Against the Current",
-        "poster": "https://image.tmdb.org/t/p/w500/euBlF64efQmsl2y54LeNmLQPNob.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
-        "rating": 7.333,
-        "overview": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jinqi, she is forced to assume a servant's identity in his household. Despite hardships, she refuses to bow to fate. With resilience and wit, she rises above class barriers, wins Lin Jinqi's heart, earns the family's respect, and ultimately clears her family's name.",
-        "release_date": "2026-09-11",
+        "title": "Chitose Is in the Ramune Bottle",
+        "poster": "https://image.tmdb.org/t/p/w500/7tpcFkOpLcWkJU6mV5ooJyHA3DR.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4BE1aoCu5mCG3ZJ7alNDQkB3oK4.jpg",
+        "rating": 7.5,
+        "overview": "Saku Chitose is a student at Fujishi High School, the most prestigious school in Fukui Prefecture. Outstanding in class, on the field, and in his social life, Saku attracts attention, good and bad. Naturally, he is surrounded by a circle of friends anyone would be happy to have. Now in the spring of his second year, with a new class, Saku is asked to help a shut-in classmate return to school life.",
+        "release_date": "2025-10-07",
         "stream_url": null
       }
     ],
     "popular": [
-      {
-        "id": 108188,
-        "media_type": "tv",
-        "title": "Barbara Karlich – Talk um 4",
-        "poster": "https://image.tmdb.org/t/p/w500/1NAVqNAKXbFbBzl9P52boCOUACJ.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/uFDlUMdp3NoXhnveAfgSpty8vBy.jpg",
-        "rating": 4.5,
-        "overview": "A talk show produced by ORF since 1999 and broadcast on ORF 2.",
-        "release_date": "1999-10-27",
-        "stream_url": null
-      },
       {
         "id": 22980,
         "media_type": "tv",
@@ -1145,6 +1134,17 @@
         "rating": 5.375,
         "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
         "release_date": "2017-02-20",
+        "stream_url": null
+      },
+      {
+        "id": 70998,
+        "media_type": "tv",
+        "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+        "poster": "https://image.tmdb.org/t/p/w500/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4kQiFnWtwndtCyKMszVJNPEE1kY.jpg",
+        "rating": 5.5,
+        "overview": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had always wanted to know more about the kind-hearted boy in high school, but once she realizes that Kujou has become a monk, she believes that any chance of getting to know him romantically is slim. Deciding to drink away her sorrows, she ends up walking home drunk, and surprisingly, running into Kujou who helps her get home.\n\nHowever, once inside, Kujou's lust for Mio becomes apparent and the two share an erotic night of passion. As this steamy romance blossoms between these two unlikely lovers, Mio and Kujou will undoubtedly spend many nights together in utter ecstasy.",
+        "release_date": "2017-04-03",
         "stream_url": null
       },
       {
@@ -1192,6 +1192,28 @@
         "stream_url": null
       },
       {
+        "id": 2316,
+        "media_type": "tv",
+        "title": "The Office",
+        "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+        "rating": 8.583,
+        "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+        "release_date": "2005-03-24",
+        "stream_url": null
+      },
+      {
+        "id": 108188,
+        "media_type": "tv",
+        "title": "Barbara Karlich – Talk um 4",
+        "poster": "https://image.tmdb.org/t/p/w500/1NAVqNAKXbFbBzl9P52boCOUACJ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/uFDlUMdp3NoXhnveAfgSpty8vBy.jpg",
+        "rating": 4.5,
+        "overview": "A talk show produced by ORF since 1999 and broadcast on ORF 2.",
+        "release_date": "1999-10-27",
+        "stream_url": null
+      },
+      {
         "id": 549,
         "media_type": "tv",
         "title": "Law & Order",
@@ -1203,14 +1225,14 @@
         "stream_url": null
       },
       {
-        "id": 70998,
+        "id": 5920,
         "media_type": "tv",
-        "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-        "poster": "https://image.tmdb.org/t/p/w500/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/4kQiFnWtwndtCyKMszVJNPEE1kY.jpg",
-        "rating": 5.5,
-        "overview": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had always wanted to know more about the kind-hearted boy in high school, but once she realizes that Kujou has become a monk, she believes that any chance of getting to know him romantically is slim. Deciding to drink away her sorrows, she ends up walking home drunk, and surprisingly, running into Kujou who helps her get home.\n\nHowever, once inside, Kujou's lust for Mio becomes apparent and the two share an erotic night of passion. As this steamy romance blossoms between these two unlikely lovers, Mio and Kujou will undoubtedly spend many nights together in utter ecstasy.",
-        "release_date": "2017-04-03",
+        "title": "The Mentalist",
+        "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+        "rating": 8.417,
+        "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+        "release_date": "2008-09-23",
         "stream_url": null
       },
       {
@@ -1222,28 +1244,6 @@
         "rating": 5.1,
         "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
         "release_date": "2014-02-25",
-        "stream_url": null
-      },
-      {
-        "id": 5920,
-        "media_type": "tv",
-        "title": "The Mentalist",
-        "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-        "rating": 8.418,
-        "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-        "release_date": "2008-09-23",
-        "stream_url": null
-      },
-      {
-        "id": 2316,
-        "media_type": "tv",
-        "title": "The Office",
-        "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
-        "rating": 8.6,
-        "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
-        "release_date": "2005-03-24",
         "stream_url": null
       },
       {
@@ -1263,9 +1263,20 @@
         "title": "The Simpsons",
         "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
-        "rating": 8.023,
+        "rating": 8.024,
         "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
         "release_date": "1989-12-17",
+        "stream_url": null
+      },
+      {
+        "id": 336510,
+        "media_type": "tv",
+        "title": "alpha Österreich",
+        "poster": null,
+        "backdrop": null,
+        "rating": 0.0,
+        "overview": "",
+        "release_date": "2000-06-03",
         "stream_url": null
       },
       {
@@ -1291,14 +1302,25 @@
         "stream_url": null
       },
       {
-        "id": 336510,
+        "id": 288673,
         "media_type": "tv",
-        "title": "alpha Österreich",
-        "poster": null,
-        "backdrop": null,
-        "rating": 0.0,
-        "overview": "",
-        "release_date": "2000-06-03",
+        "title": "Carrie",
+        "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+        "rating": 8.5,
+        "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+        "release_date": "2026-10-07",
+        "stream_url": null
+      },
+      {
+        "id": 65733,
+        "media_type": "tv",
+        "title": "Doraemon",
+        "poster": "https://image.tmdb.org/t/p/w500/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
+        "rating": 8.1,
+        "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+        "release_date": "2005-04-22",
         "stream_url": null
       },
       {
@@ -1310,28 +1332,6 @@
         "rating": 7.6,
         "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
         "release_date": "2003-09-23",
-        "stream_url": null
-      },
-      {
-        "id": 288673,
-        "media_type": "tv",
-        "title": "Carrie",
-        "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-        "rating": 8.461,
-        "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-        "release_date": "2026-10-07",
-        "stream_url": null
-      },
-      {
-        "id": 247718,
-        "media_type": "tv",
-        "title": "MobLand",
-        "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-        "rating": 8.507,
-        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-        "release_date": "2025-03-30",
         "stream_url": null
       }
     ],
