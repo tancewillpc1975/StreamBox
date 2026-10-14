@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 16:59",
+  "updated_at": "2026-10-14 17:27",
   "movies": {
     "trending": [
       {
@@ -1381,17 +1381,6 @@
         "stream_url": null
       },
       {
-        "id": 11890,
-        "media_type": "tv",
-        "title": "Goede Tijden, Slechte Tijden",
-        "poster": "https://image.tmdb.org/t/p/w500/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-        "rating": 5.3,
-        "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-        "release_date": "1990-10-01",
-        "stream_url": null
-      },
-      {
         "id": 65270,
         "media_type": "tv",
         "title": "Radio Star",
@@ -1414,12 +1403,23 @@
         "stream_url": null
       },
       {
+        "id": 11890,
+        "media_type": "tv",
+        "title": "Goede Tijden, Slechte Tijden",
+        "poster": "https://image.tmdb.org/t/p/w500/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+        "rating": 5.3,
+        "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+        "release_date": "1990-10-01",
+        "stream_url": null
+      },
+      {
         "id": 44006,
         "media_type": "tv",
         "title": "Chicago Fire",
         "poster": "https://image.tmdb.org/t/p/w500/mqwUwexSSiBGC9qGgu38tKczFn.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/otaBZzLIqrKdXcovbAvVONJCnb4.jpg",
-        "rating": 8.41,
+        "rating": 8.4,
         "overview": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
         "release_date": "2012-10-10",
         "stream_url": null
@@ -1433,6 +1433,17 @@
         "rating": 8.422,
         "overview": "A riveting police drama about the men and women of the Chicago Police Department's District 21 who put it all on the line to serve and protect their community. District 21 is made up of two distinctly different groups: the uniformed cops who patrol the beat and go head-to-head with the city's street crimes and the Intelligence Unit that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.",
         "release_date": "2014-01-08",
+        "stream_url": null
+      },
+      {
+        "id": 2190,
+        "media_type": "tv",
+        "title": "South Park",
+        "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+        "rating": 8.331,
+        "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+        "release_date": "1997-08-13",
         "stream_url": null
       },
       {
@@ -1458,17 +1469,6 @@
         "stream_url": null
       },
       {
-        "id": 81329,
-        "media_type": "tv",
-        "title": "Chronicles of the Sun",
-        "poster": "https://image.tmdb.org/t/p/w500/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
-        "rating": 6.6,
-        "overview": "Claire is surprised when she gets arrested for the murder of her childhood friend after she returns to Montpellier.",
-        "release_date": "2018-08-27",
-        "stream_url": null
-      },
-      {
         "id": 2912,
         "media_type": "tv",
         "title": "Jeopardy!",
@@ -1477,6 +1477,17 @@
         "rating": 6.925,
         "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
         "release_date": "1984-09-10",
+        "stream_url": null
+      },
+      {
+        "id": 81329,
+        "media_type": "tv",
+        "title": "Chronicles of the Sun",
+        "poster": "https://image.tmdb.org/t/p/w500/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/aizbHLcKVWvJ7jxkflJzTu5Z8GE.jpg",
+        "rating": 6.6,
+        "overview": "Claire is surprised when she gets arrested for the murder of her childhood friend after she returns to Montpellier.",
+        "release_date": "2018-08-27",
         "stream_url": null
       },
       {
@@ -1502,14 +1513,14 @@
         "stream_url": null
       },
       {
-        "id": 2190,
+        "id": 1489,
         "media_type": "tv",
-        "title": "South Park",
-        "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-        "rating": 8.331,
-        "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-        "release_date": "1997-08-13",
+        "title": "Jimmy Kimmel Live!",
+        "poster": "https://image.tmdb.org/t/p/w500/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
+        "rating": 5.288,
+        "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
+        "release_date": "2003-01-26",
         "stream_url": null
       },
       {
@@ -1521,17 +1532,6 @@
         "rating": 8.254,
         "overview": "An emotional thrill ride through the day-to-day chaos of the city's most explosive hospital and the courageous team of doctors who hold it together. They will tackle unique new cases inspired by topical events, forging fiery relationships in the pulse-pounding pandemonium of the emergency room.",
         "release_date": "2015-11-17",
-        "stream_url": null
-      },
-      {
-        "id": 1489,
-        "media_type": "tv",
-        "title": "Jimmy Kimmel Live!",
-        "poster": "https://image.tmdb.org/t/p/w500/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
-        "rating": 5.288,
-        "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
-        "release_date": "2003-01-26",
         "stream_url": null
       },
       {
