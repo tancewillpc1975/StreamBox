@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 22:17",
+  "updated_at": "2026-10-14 22:52",
   "movies": {
     "trending": [
       {
@@ -893,6 +893,17 @@
   "series": {
     "trending": [
       {
+        "id": 213375,
+        "media_type": "tv",
+        "title": "VisionQuest",
+        "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+        "rating": 9.01,
+        "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+        "release_date": "2026-10-13",
+        "stream_url": null
+      },
+      {
         "id": 123542,
         "media_type": "tv",
         "title": "LINK CLICK",
@@ -904,23 +915,12 @@
         "stream_url": null
       },
       {
-        "id": 213375,
-        "media_type": "tv",
-        "title": "VisionQuest",
-        "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-        "rating": 9.078,
-        "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-        "release_date": "2026-10-13",
-        "stream_url": null
-      },
-      {
         "id": 288673,
         "media_type": "tv",
         "title": "Carrie",
         "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-        "rating": 8.484,
+        "rating": 8.482,
         "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
         "release_date": "2026-10-07",
         "stream_url": null
@@ -931,7 +931,7 @@
         "title": "Below",
         "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-        "rating": 7.209,
+        "rating": 7.205,
         "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
         "release_date": "2026-10-08",
         "stream_url": null
@@ -942,20 +942,9 @@
         "title": "Lanterns",
         "poster": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-        "rating": 8.276,
+        "rating": 8.277,
         "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
         "release_date": "2026-08-16",
-        "stream_url": null
-      },
-      {
-        "id": 312359,
-        "media_type": "tv",
-        "title": "Dragon Ball Super: Beerus",
-        "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-        "rating": 9.809,
-        "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-        "release_date": "2026-10-11",
         "stream_url": null
       },
       {
@@ -964,64 +953,20 @@
         "title": "Ted Lasso",
         "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-        "rating": 8.362,
+        "rating": 8.363,
         "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
         "release_date": "2020-08-14",
         "stream_url": null
       },
       {
-        "id": 293610,
+        "id": 312359,
         "media_type": "tv",
-        "title": "Doctor X: Mafia in White",
-        "poster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-        "rating": 8.9,
-        "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-        "release_date": "2026-10-09",
-        "stream_url": null
-      },
-      {
-        "id": 333101,
-        "media_type": "tv",
-        "title": "Treasure Island",
-        "poster": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
-        "rating": 6.3,
-        "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+        "title": "Dragon Ball Super: Beerus",
+        "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+        "rating": 9.812,
+        "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
         "release_date": "2026-10-11",
-        "stream_url": null
-      },
-      {
-        "id": 247718,
-        "media_type": "tv",
-        "title": "MobLand",
-        "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-        "rating": 8.502,
-        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-        "release_date": "2025-03-30",
-        "stream_url": null
-      },
-      {
-        "id": 284833,
-        "media_type": "tv",
-        "title": "Avatar: Seven Havens",
-        "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
-        "rating": 8.844,
-        "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
-        "release_date": "2026-10-09",
-        "stream_url": null
-      },
-      {
-        "id": 95480,
-        "media_type": "tv",
-        "title": "Slow Horses",
-        "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-        "rating": 8.05,
-        "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-        "release_date": "2022-04-01",
         "stream_url": null
       },
       {
@@ -1036,12 +981,67 @@
         "stream_url": null
       },
       {
+        "id": 333101,
+        "media_type": "tv",
+        "title": "Treasure Island",
+        "poster": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
+        "rating": 6.5,
+        "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+        "release_date": "2026-10-11",
+        "stream_url": null
+      },
+      {
+        "id": 293610,
+        "media_type": "tv",
+        "title": "Doctor X: Mafia in White",
+        "poster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+        "rating": 8.9,
+        "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+        "release_date": "2026-10-09",
+        "stream_url": null
+      },
+      {
+        "id": 247718,
+        "media_type": "tv",
+        "title": "MobLand",
+        "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+        "rating": 8.5,
+        "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+        "release_date": "2025-03-30",
+        "stream_url": null
+      },
+      {
+        "id": 95480,
+        "media_type": "tv",
+        "title": "Slow Horses",
+        "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+        "rating": 8.053,
+        "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+        "release_date": "2022-04-01",
+        "stream_url": null
+      },
+      {
+        "id": 284833,
+        "media_type": "tv",
+        "title": "Avatar: Seven Havens",
+        "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+        "rating": 8.8,
+        "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
+        "release_date": "2026-10-09",
+        "stream_url": null
+      },
+      {
         "id": 289423,
         "media_type": "tv",
         "title": "Take Charge of My Heart",
         "poster": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-        "rating": 8.211,
+        "rating": 8.455,
         "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
         "release_date": "2026-10-09",
         "stream_url": null
@@ -1069,6 +1069,28 @@
         "stream_url": null
       },
       {
+        "id": 2190,
+        "media_type": "tv",
+        "title": "South Park",
+        "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+        "rating": 8.331,
+        "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+        "release_date": "1997-08-13",
+        "stream_url": null
+      },
+      {
+        "id": 290856,
+        "media_type": "tv",
+        "title": "Marshals",
+        "poster": "https://image.tmdb.org/t/p/w500/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+        "rating": 7.955,
+        "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+        "release_date": "2026-03-01",
+        "stream_url": null
+      },
+      {
         "id": 293607,
         "media_type": "tv",
         "title": "100 Days of Deception",
@@ -1080,17 +1102,6 @@
         "stream_url": null
       },
       {
-        "id": 108978,
-        "media_type": "tv",
-        "title": "Reacher",
-        "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-        "rating": 8.133,
-        "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-        "release_date": "2022-02-03",
-        "stream_url": null
-      },
-      {
         "id": 196322,
         "media_type": "tv",
         "title": "Dark Matter",
@@ -1099,17 +1110,6 @@
         "rating": 7.8,
         "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
         "release_date": "2024-05-07",
-        "stream_url": null
-      },
-      {
-        "id": 258165,
-        "media_type": "tv",
-        "title": "East of Eden",
-        "poster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
-        "rating": 8.061,
-        "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
-        "release_date": "2026-10-01",
         "stream_url": null
       }
     ],
