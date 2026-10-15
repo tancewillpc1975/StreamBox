@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 10:24",
+  "updated_at": "2026-10-15 10:57",
   "movies": {
     "trending": [
       {
@@ -909,7 +909,7 @@
         "title": "VisionQuest",
         "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-        "rating": 9.042,
+        "rating": 9.0,
         "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
         "release_date": "2026-10-13",
         "stream_url": null
@@ -920,9 +920,20 @@
         "title": "Carrie",
         "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-        "rating": 8.449,
+        "rating": 8.455,
         "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
         "release_date": "2026-10-07",
+        "stream_url": null
+      },
+      {
+        "id": 203857,
+        "media_type": "tv",
+        "title": "The Diplomat",
+        "poster": "https://image.tmdb.org/t/p/w500/cOKXV0FalCYixNmZYCfHXgyQ0VX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hzznrBI07C2chXivlLYvEmQESP7.jpg",
+        "rating": 7.6,
+        "overview": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
+        "release_date": "2023-04-20",
         "stream_url": null
       },
       {
@@ -948,25 +959,25 @@
         "stream_url": null
       },
       {
-        "id": 203857,
-        "media_type": "tv",
-        "title": "The Diplomat",
-        "poster": "https://image.tmdb.org/t/p/w500/cOKXV0FalCYixNmZYCfHXgyQ0VX.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/hzznrBI07C2chXivlLYvEmQESP7.jpg",
-        "rating": 7.6,
-        "overview": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
-        "release_date": "2023-04-20",
-        "stream_url": null
-      },
-      {
         "id": 312359,
         "media_type": "tv",
         "title": "Dragon Ball Super: Beerus",
         "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-        "rating": 9.8,
+        "rating": 9.766,
         "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
         "release_date": "2026-10-11",
+        "stream_url": null
+      },
+      {
+        "id": 286183,
+        "media_type": "tv",
+        "title": "Hollywood Arts",
+        "poster": "https://image.tmdb.org/t/p/w500/uVL8tV8z9br3XGsA9DDEY743sRE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/2wjP481Z3G6NlXoUFutN5vcnqzC.jpg",
+        "rating": 0.0,
+        "overview": "Struggling actress Trina Vega returns to her former high school, Hollywood Arts, as an unqualified substitute teacher, quickly finding herself both clashing with and unexpectedly inspiring a new generation of ambitious and talented students as they learn to find their true path at Hollywood's most elite performing arts school.",
+        "release_date": "2026-10-15",
         "stream_url": null
       },
       {
@@ -981,25 +992,14 @@
         "stream_url": null
       },
       {
-        "id": 289423,
+        "id": 213562,
         "media_type": "tv",
-        "title": "Take Charge of My Heart",
-        "poster": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-        "rating": 8.4,
-        "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
-        "release_date": "2026-10-09",
-        "stream_url": null
-      },
-      {
-        "id": 293610,
-        "media_type": "tv",
-        "title": "Doctor X: Mafia in White",
-        "poster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-        "rating": 8.9,
-        "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-        "release_date": "2026-10-09",
+        "title": "Crystal Lake",
+        "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
+        "rating": 5.5,
+        "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+        "release_date": "2026-10-15",
         "stream_url": null
       },
       {
@@ -1025,25 +1025,25 @@
         "stream_url": null
       },
       {
-        "id": 213562,
+        "id": 293610,
         "media_type": "tv",
-        "title": "Crystal Lake",
-        "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
-        "rating": 4.0,
-        "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-        "release_date": "2026-10-15",
+        "title": "Doctor X: Mafia in White",
+        "poster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+        "rating": 8.9,
+        "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+        "release_date": "2026-10-09",
         "stream_url": null
       },
       {
-        "id": 286183,
+        "id": 289423,
         "media_type": "tv",
-        "title": "Hollywood Arts",
-        "poster": "https://image.tmdb.org/t/p/w500/pJsrA4On2ITOk1rBq9PiaRzU2Q0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/2wjP481Z3G6NlXoUFutN5vcnqzC.jpg",
-        "rating": 0.0,
-        "overview": "Struggling actress Trina Vega returns to her former high school, Hollywood Arts, as an unqualified substitute teacher, quickly finding herself both clashing with and unexpectedly inspiring a new generation of ambitious and talented students as they learn to find their true path at Hollywood's most elite performing arts school.",
-        "release_date": "2026-10-15",
+        "title": "Take Charge of My Heart",
+        "poster": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+        "rating": 8.4,
+        "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+        "release_date": "2026-10-09",
         "stream_url": null
       },
       {
@@ -1055,6 +1055,28 @@
         "rating": 8.051,
         "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
         "release_date": "2022-04-01",
+        "stream_url": null
+      },
+      {
+        "id": 2190,
+        "media_type": "tv",
+        "title": "South Park",
+        "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+        "rating": 8.329,
+        "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+        "release_date": "1997-08-13",
+        "stream_url": null
+      },
+      {
+        "id": 289892,
+        "media_type": "tv",
+        "title": "Helluva Boss",
+        "poster": "https://image.tmdb.org/t/p/w500/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
+        "rating": 7.509,
+        "overview": "In Hell, imp Blitzø (the 'o' is silent) runs an assassin business targeting the world of the living, using a spell book borrowed from a prince of the underworld. With employees Moxxie, Millie, and Loona, they attempt to survive each other while keeping business afloat.",
+        "release_date": "2020-10-31",
         "stream_url": null
       },
       {
@@ -1088,28 +1110,6 @@
         "rating": 8.504,
         "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
         "release_date": "2025-03-30",
-        "stream_url": null
-      },
-      {
-        "id": 2190,
-        "media_type": "tv",
-        "title": "South Park",
-        "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-        "rating": 8.329,
-        "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-        "release_date": "1997-08-13",
-        "stream_url": null
-      },
-      {
-        "id": 289892,
-        "media_type": "tv",
-        "title": "Helluva Boss",
-        "poster": "https://image.tmdb.org/t/p/w500/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
-        "rating": 7.509,
-        "overview": "In Hell, imp Blitzø (the 'o' is silent) runs an assassin business targeting the world of the living, using a spell book borrowed from a prince of the underworld. With employees Moxxie, Millie, and Loona, they attempt to survive each other while keeping business afloat.",
-        "release_date": "2020-10-31",
         "stream_url": null
       }
     ],
@@ -1219,7 +1219,7 @@
         "title": "The Office",
         "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
-        "rating": 8.6,
+        "rating": 8.583,
         "overview": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
         "release_date": "2005-03-24",
         "stream_url": null
@@ -1269,6 +1269,17 @@
         "stream_url": null
       },
       {
+        "id": 72879,
+        "media_type": "tv",
+        "title": "Tomorrow Is Ours",
+        "poster": "https://image.tmdb.org/t/p/w500/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
+        "rating": 6.3,
+        "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+        "release_date": "2017-07-17",
+        "stream_url": null
+      },
+      {
         "id": 4614,
         "media_type": "tv",
         "title": "NCIS",
@@ -1307,7 +1318,7 @@
         "title": "Carrie",
         "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-        "rating": 8.458,
+        "rating": 8.455,
         "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
         "release_date": "2026-10-07",
         "stream_url": null
@@ -1321,17 +1332,6 @@
         "rating": 8.1,
         "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
         "release_date": "2005-04-22",
-        "stream_url": null
-      },
-      {
-        "id": 2224,
-        "media_type": "tv",
-        "title": "The Daily Show",
-        "poster": "https://image.tmdb.org/t/p/w500/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/qLMfcvdCcCGD2BNLH8b6ZCBuO7D.jpg",
-        "rating": 6.42,
-        "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-        "release_date": "1996-07-22",
         "stream_url": null
       }
     ],
