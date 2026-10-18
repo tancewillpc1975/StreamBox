@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 16:13",
+  "updated_at": "2026-10-18 16:52",
   "movies": {
     "trending": [
       {
@@ -898,7 +898,7 @@
         "title": "LINK CLICK",
         "poster": "https://image.tmdb.org/t/p/w500/wo9jwu5qMvXzhW2cyy5E6hOVs92.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
-        "rating": 8.095,
+        "rating": 8.08,
         "overview": "Using superpowers to enter their clientele’s photos one by one, Cheng Xiaoshi and Lu Guang take their work seriously at “Time Photo Studio,” a small photography shop set in the backdrop of a modern metropolis. Each job can be full of danger, but nothing is more important than fulfilling every order, no matter the scale…or peril involved!",
         "release_date": "2021-04-30",
         "stream_url": null
@@ -909,7 +909,7 @@
         "title": "VisionQuest",
         "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-        "rating": 8.99,
+        "rating": 9.0,
         "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
         "release_date": "2026-10-13",
         "stream_url": null
@@ -920,7 +920,7 @@
         "title": "Crystal Lake",
         "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
-        "rating": 8.3,
+        "rating": 8.353,
         "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
         "release_date": "2026-10-15",
         "stream_url": null
@@ -937,36 +937,25 @@
         "stream_url": null
       },
       {
+        "id": 312359,
+        "media_type": "tv",
+        "title": "Dragon Ball Super: Beerus",
+        "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+        "rating": 9.741,
+        "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+        "release_date": "2026-10-11",
+        "stream_url": null
+      },
+      {
         "id": 285322,
         "media_type": "tv",
         "title": "Below",
         "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-        "rating": 7.25,
+        "rating": 7.248,
         "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
         "release_date": "2026-10-08",
-        "stream_url": null
-      },
-      {
-        "id": 333101,
-        "media_type": "tv",
-        "title": "Treasure Island",
-        "poster": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
-        "rating": 6.2,
-        "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
-        "release_date": "2026-10-11",
-        "stream_url": null
-      },
-      {
-        "id": 203857,
-        "media_type": "tv",
-        "title": "The Diplomat",
-        "poster": "https://image.tmdb.org/t/p/w500/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/hzznrBI07C2chXivlLYvEmQESP7.jpg",
-        "rating": 7.6,
-        "overview": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
-        "release_date": "2023-04-20",
         "stream_url": null
       },
       {
@@ -981,6 +970,17 @@
         "stream_url": null
       },
       {
+        "id": 333101,
+        "media_type": "tv",
+        "title": "Treasure Island",
+        "poster": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/cv102XnL9r7M9jFr0hsMeqzpAWW.jpg",
+        "rating": 6.2,
+        "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+        "release_date": "2026-10-11",
+        "stream_url": null
+      },
+      {
         "id": 2190,
         "media_type": "tv",
         "title": "South Park",
@@ -989,28 +989,6 @@
         "rating": 8.329,
         "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
         "release_date": "1997-08-13",
-        "stream_url": null
-      },
-      {
-        "id": 95350,
-        "media_type": "tv",
-        "title": "Lanterns",
-        "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-        "rating": 8.234,
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "release_date": "2026-08-16",
-        "stream_url": null
-      },
-      {
-        "id": 73223,
-        "media_type": "tv",
-        "title": "Black Clover",
-        "poster": "https://image.tmdb.org/t/p/w500/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/7bGvtyA2m16jcCTCdhoiiFF7ibe.jpg",
-        "rating": 8.514,
-        "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
-        "release_date": "2017-10-03",
         "stream_url": null
       },
       {
@@ -1025,14 +1003,36 @@
         "stream_url": null
       },
       {
-        "id": 312359,
+        "id": 95350,
         "media_type": "tv",
-        "title": "Dragon Ball Super: Beerus",
-        "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-        "rating": 9.747,
-        "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-        "release_date": "2026-10-11",
+        "title": "Lanterns",
+        "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+        "rating": 8.2,
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "release_date": "2026-08-16",
+        "stream_url": null
+      },
+      {
+        "id": 203857,
+        "media_type": "tv",
+        "title": "The Diplomat",
+        "poster": "https://image.tmdb.org/t/p/w500/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hzznrBI07C2chXivlLYvEmQESP7.jpg",
+        "rating": 7.6,
+        "overview": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
+        "release_date": "2023-04-20",
+        "stream_url": null
+      },
+      {
+        "id": 73223,
+        "media_type": "tv",
+        "title": "Black Clover",
+        "poster": "https://image.tmdb.org/t/p/w500/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7bGvtyA2m16jcCTCdhoiiFF7ibe.jpg",
+        "rating": 8.514,
+        "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+        "release_date": "2017-10-03",
         "stream_url": null
       },
       {
@@ -1041,31 +1041,9 @@
         "title": "MobLand",
         "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-        "rating": 8.52,
+        "rating": 8.522,
         "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
         "release_date": "2025-03-30",
-        "stream_url": null
-      },
-      {
-        "id": 300146,
-        "media_type": "tv",
-        "title": "Where the Mask Ends",
-        "poster": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/oagkprEWVF8EDyGMoQlTQajbsWH.jpg",
-        "rating": 9.0,
-        "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-        "release_date": "2026-10-16",
-        "stream_url": null
-      },
-      {
-        "id": 30984,
-        "media_type": "tv",
-        "title": "Bleach",
-        "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-        "rating": 8.4,
-        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-        "release_date": "2004-10-05",
         "stream_url": null
       },
       {
@@ -1080,14 +1058,25 @@
         "stream_url": null
       },
       {
-        "id": 456,
+        "id": 30984,
         "media_type": "tv",
-        "title": "The Simpsons",
-        "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
-        "rating": 8.024,
-        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-        "release_date": "1989-12-17",
+        "title": "Bleach",
+        "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+        "rating": 8.4,
+        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+        "release_date": "2004-10-05",
+        "stream_url": null
+      },
+      {
+        "id": 300146,
+        "media_type": "tv",
+        "title": "Where the Mask Ends",
+        "poster": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/oagkprEWVF8EDyGMoQlTQajbsWH.jpg",
+        "rating": 9.0,
+        "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+        "release_date": "2026-10-16",
         "stream_url": null
       },
       {
@@ -1099,6 +1088,17 @@
         "rating": 9.2,
         "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
         "release_date": "2026-10-09",
+        "stream_url": null
+      },
+      {
+        "id": 456,
+        "media_type": "tv",
+        "title": "The Simpsons",
+        "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qcSHGC5BfoqBoP99PzDIERYG5Qm.jpg",
+        "rating": 8.024,
+        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+        "release_date": "1989-12-17",
         "stream_url": null
       },
       {
@@ -1381,17 +1381,6 @@
         "stream_url": null
       },
       {
-        "id": 57775,
-        "media_type": "tv",
-        "title": "Chibi Maruko-chan",
-        "poster": "https://image.tmdb.org/t/p/w500/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/vuajwjep1FxphPhMEWKv4bfrCnf.jpg",
-        "rating": 7.8,
-        "overview": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a cozy town alongside her loving parents, grandparents, and sister. Maruko has a band of loyal friends, including her closest pal, Tama-chan, but her playful and doting grandpa is at the heart of it all. Life is never dull in this charming series.",
-        "release_date": "1990-01-07",
-        "stream_url": null
-      },
-      {
         "id": 3034,
         "media_type": "tv",
         "title": "Scene of the Crime",
@@ -1400,6 +1389,17 @@
         "rating": 6.2,
         "overview": "Tatort is a long-running German/Austrian/Swiss crime television series set in various parts of these countries. The show is broadcast on the channels of ARD in Germany, ORF in Austria and SF1 in Switzerland.",
         "release_date": "1970-11-29",
+        "stream_url": null
+      },
+      {
+        "id": 57775,
+        "media_type": "tv",
+        "title": "Chibi Maruko-chan",
+        "poster": "https://image.tmdb.org/t/p/w500/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vuajwjep1FxphPhMEWKv4bfrCnf.jpg",
+        "rating": 7.8,
+        "overview": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a cozy town alongside her loving parents, grandparents, and sister. Maruko has a band of loyal friends, including her closest pal, Tama-chan, but her playful and doting grandpa is at the heart of it all. Life is never dull in this charming series.",
+        "release_date": "1990-01-07",
         "stream_url": null
       },
       {
@@ -1430,7 +1430,7 @@
         "title": "Dragon Ball Super: Beerus",
         "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-        "rating": 9.747,
+        "rating": 9.738,
         "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
         "release_date": "2026-10-11",
         "stream_url": null
@@ -1452,7 +1452,7 @@
         "title": "Marshals",
         "poster": "https://image.tmdb.org/t/p/w500/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-        "rating": 8.0,
+        "rating": 7.97,
         "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
         "release_date": "2026-03-01",
         "stream_url": null
@@ -1469,17 +1469,6 @@
         "stream_url": null
       },
       {
-        "id": 64369,
-        "media_type": "tv",
-        "title": "TV Animal Farm",
-        "poster": "https://image.tmdb.org/t/p/w500/7FZZHXxlujrtq3EUkP78tm5aVkX.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/1eUNe8eP5GnEL6RLgPLSVOiVTvU.jpg",
-        "rating": 7.6,
-        "overview": "",
-        "release_date": "2001-05-06",
-        "stream_url": null
-      },
-      {
         "id": 10029,
         "media_type": "tv",
         "title": "Great Performances",
@@ -1488,39 +1477,6 @@
         "rating": 6.1,
         "overview": "The best in the performing arts from across America and around the world including a diverse programming portfolio of classical music, opera, popular song, musical theater, dance, drama, and performance documentaries.",
         "release_date": "1971-01-28",
-        "stream_url": null
-      },
-      {
-        "id": 4026,
-        "media_type": "tv",
-        "title": "CBS News Sunday Morning",
-        "poster": "https://image.tmdb.org/t/p/w500/k4YOaHO6yv1MjtUPRmXbT8ASWHV.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/5stzCCL0Ya04gq3tYQ9wA6zb2Dq.jpg",
-        "rating": 6.8,
-        "overview": "The sparkling notes of a trumpet fanfare and the familiar logo of the sun alert viewers that it's time for CBS's Sunday morning staple. Journalist Jane Pauley helms the show, taking over hosting duties from Charles Osgood, who spent 22 years on the job. A morning talk show, this program airs at a different pace and focuses much of its attention on the performing arts. After a quick update of the day's news and national weather, correspondents offer longer-length segments on a variety of topics, from architecture to ballet to music to pop culture to politics.",
-        "release_date": "1979-01-28",
-        "stream_url": null
-      },
-      {
-        "id": 121651,
-        "media_type": "tv",
-        "title": "World Wonder Ring Stardom",
-        "poster": "https://image.tmdb.org/t/p/w500/liGgY9uimx9jmv89x49jHtb8Ndl.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/aFKa34eHIPoKxRxkEQLd6tKy9Ph.jpg",
-        "rating": 8.8,
-        "overview": "Stardom World is the VOD network for World Wonder Ring Stardom. WWR Stardom is a Japanese women's promotion started in 2011 featuring matches of many varieties including high speed octane action, long brutal brawls, and even costume battle royals. In 2019, the promotion was acquired by Bushiroad and has since become one of the top wrestling promotions in Japan.",
-        "release_date": "2011-01-23",
-        "stream_url": null
-      },
-      {
-        "id": 14929,
-        "media_type": "tv",
-        "title": "Heartland",
-        "poster": "https://image.tmdb.org/t/p/w500/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
-        "rating": 8.2,
-        "overview": "Life is hard on the Flemings' ranch in the Alberta foothills where abused or neglected horses find refuge with a kind, hard-working family. Debts abound and the bank is about to foreclose. Can they keep the ranch running?",
-        "release_date": "2007-10-14",
         "stream_url": null
       },
       {
@@ -1546,36 +1502,69 @@
         "stream_url": null
       },
       {
-        "id": 60761,
+        "id": 4026,
         "media_type": "tv",
-        "title": "Ace of the Diamond",
-        "poster": "https://image.tmdb.org/t/p/w500/wh9dA4w0iUMVpY7htFSiLDhLTYJ.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/wq5ZykCAFrboIpz36O8pbrJG2dF.jpg",
-        "rating": 7.9,
-        "overview": "Scouted for his potential, brash left-handed pitcher Eijun Sawamura joins baseball powerhouse Seido High to become the undisputed ace of the team.",
-        "release_date": "2013-10-06",
+        "title": "CBS News Sunday Morning",
+        "poster": "https://image.tmdb.org/t/p/w500/k4YOaHO6yv1MjtUPRmXbT8ASWHV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5stzCCL0Ya04gq3tYQ9wA6zb2Dq.jpg",
+        "rating": 6.8,
+        "overview": "The sparkling notes of a trumpet fanfare and the familiar logo of the sun alert viewers that it's time for CBS's Sunday morning staple. Journalist Jane Pauley helms the show, taking over hosting duties from Charles Osgood, who spent 22 years on the job. A morning talk show, this program airs at a different pace and focuses much of its attention on the performing arts. After a quick update of the day's news and national weather, correspondents offer longer-length segments on a variety of topics, from architecture to ballet to music to pop culture to politics.",
+        "release_date": "1979-01-28",
+        "stream_url": null
+      },
+      {
+        "id": 64369,
+        "media_type": "tv",
+        "title": "TV Animal Farm",
+        "poster": "https://image.tmdb.org/t/p/w500/7FZZHXxlujrtq3EUkP78tm5aVkX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1eUNe8eP5GnEL6RLgPLSVOiVTvU.jpg",
+        "rating": 7.6,
+        "overview": "",
+        "release_date": "2001-05-06",
+        "stream_url": null
+      },
+      {
+        "id": 14929,
+        "media_type": "tv",
+        "title": "Heartland",
+        "poster": "https://image.tmdb.org/t/p/w500/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
+        "rating": 8.2,
+        "overview": "Life is hard on the Flemings' ranch in the Alberta foothills where abused or neglected horses find refuge with a kind, hard-working family. Debts abound and the bank is about to foreclose. Can they keep the ranch running?",
+        "release_date": "2007-10-14",
+        "stream_url": null
+      },
+      {
+        "id": 121651,
+        "media_type": "tv",
+        "title": "World Wonder Ring Stardom",
+        "poster": "https://image.tmdb.org/t/p/w500/liGgY9uimx9jmv89x49jHtb8Ndl.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/aFKa34eHIPoKxRxkEQLd6tKy9Ph.jpg",
+        "rating": 8.8,
+        "overview": "Stardom World is the VOD network for World Wonder Ring Stardom. WWR Stardom is a Japanese women's promotion started in 2011 featuring matches of many varieties including high speed octane action, long brutal brawls, and even costume battle royals. In 2019, the promotion was acquired by Bushiroad and has since become one of the top wrestling promotions in Japan.",
+        "release_date": "2011-01-23",
+        "stream_url": null
+      },
+      {
+        "id": 223911,
+        "media_type": "tv",
+        "title": "Renegade Immortal",
+        "poster": "https://image.tmdb.org/t/p/w500/wbZVuX5wbliibnuzphp2EsEhqF5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
+        "rating": 8.3,
+        "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+        "release_date": "2023-09-25",
         "stream_url": null
       }
     ],
     "top_rated": [
-      {
-        "id": 312359,
-        "media_type": "tv",
-        "title": "Dragon Ball Super: Beerus",
-        "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-        "rating": 9.747,
-        "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-        "release_date": "2026-10-11",
-        "stream_url": null
-      },
       {
         "id": 276161,
         "media_type": "tv",
         "title": "Teach You a Lesson",
         "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-        "rating": 9.364,
+        "rating": 9.4,
         "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
         "release_date": "2026-06-05",
         "stream_url": null
@@ -1608,7 +1597,7 @@
         "title": "Perfect Crown",
         "poster": "https://image.tmdb.org/t/p/w500/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-        "rating": 8.978,
+        "rating": 8.982,
         "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
         "release_date": "2026-04-10",
         "stream_url": null
@@ -1619,7 +1608,7 @@
         "title": "Breaking Bad",
         "poster": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-        "rating": 8.955,
+        "rating": 9.0,
         "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
         "release_date": "2008-01-20",
         "stream_url": null
@@ -1740,7 +1729,7 @@
         "title": "Takopi's Original Sin",
         "poster": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
-        "rating": 8.8,
+        "rating": 8.772,
         "overview": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
         "release_date": "2025-06-28",
         "stream_url": null
@@ -1751,7 +1740,7 @@
         "title": "One Piece",
         "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/v38qp4bySLTXYu3MF8r5GD51FN3.jpg",
-        "rating": 8.752,
+        "rating": 8.8,
         "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
         "release_date": "1999-10-20",
         "stream_url": null
@@ -1773,9 +1762,20 @@
         "title": "The Pitt",
         "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-        "rating": 8.734,
+        "rating": 8.735,
         "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
         "release_date": "2025-01-09",
+        "stream_url": null
+      },
+      {
+        "id": 64010,
+        "media_type": "tv",
+        "title": "Reply 1988",
+        "poster": "https://image.tmdb.org/t/p/w500/655MownSWwplhvVlXERRJ4OSOG2.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
+        "rating": 8.7,
+        "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+        "release_date": "2015-11-06",
         "stream_url": null
       }
     ]
