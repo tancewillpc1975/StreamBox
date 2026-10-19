@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 16:24",
+  "updated_at": "2026-10-19 17:00",
   "movies": {
     "trending": [
       {
@@ -1359,17 +1359,6 @@
         "stream_url": null
       },
       {
-        "id": 72879,
-        "media_type": "tv",
-        "title": "Tomorrow Is Ours",
-        "poster": "https://image.tmdb.org/t/p/w500/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
-        "rating": 6.3,
-        "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
-        "release_date": "2017-07-17",
-        "stream_url": null
-      },
-      {
         "id": 206559,
         "media_type": "tv",
         "title": "Binnelanders",
@@ -1381,14 +1370,36 @@
         "stream_url": null
       },
       {
+        "id": 72879,
+        "media_type": "tv",
+        "title": "Tomorrow Is Ours",
+        "poster": "https://image.tmdb.org/t/p/w500/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/c6nAwZgiMobI3HrmZR78wpIjSnr.jpg",
+        "rating": 6.3,
+        "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+        "release_date": "2017-07-17",
+        "stream_url": null
+      },
+      {
         "id": 4656,
         "media_type": "tv",
         "title": "Raw",
         "poster": "https://image.tmdb.org/t/p/w500/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-        "rating": 6.772,
+        "rating": 6.778,
         "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
         "release_date": "1993-01-11",
+        "stream_url": null
+      },
+      {
+        "id": 11890,
+        "media_type": "tv",
+        "title": "Goede Tijden, Slechte Tijden",
+        "poster": "https://image.tmdb.org/t/p/w500/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
+        "rating": 5.3,
+        "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+        "release_date": "1990-10-01",
         "stream_url": null
       },
       {
@@ -1403,14 +1414,25 @@
         "stream_url": null
       },
       {
-        "id": 11890,
+        "id": 112470,
         "media_type": "tv",
-        "title": "Goede Tijden, Slechte Tijden",
-        "poster": "https://image.tmdb.org/t/p/w500/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/ksNrsIkIwFKpetIyiUA7kBSBKvC.jpg",
-        "rating": 5.3,
-        "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-        "release_date": "1990-10-01",
+        "title": "Ici tout commence",
+        "poster": "https://image.tmdb.org/t/p/w500/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
+        "rating": 6.8,
+        "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+        "release_date": "2020-11-02",
+        "stream_url": null
+      },
+      {
+        "id": 1871,
+        "media_type": "tv",
+        "title": "EastEnders",
+        "poster": "https://image.tmdb.org/t/p/w500/ETFWCToRFx45vNAsNexh31ufSE.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
+        "rating": 4.3,
+        "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+        "release_date": "1985-02-19",
         "stream_url": null
       },
       {
@@ -1447,28 +1469,6 @@
         "stream_url": null
       },
       {
-        "id": 1871,
-        "media_type": "tv",
-        "title": "EastEnders",
-        "poster": "https://image.tmdb.org/t/p/w500/ETFWCToRFx45vNAsNexh31ufSE.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
-        "rating": 4.3,
-        "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
-        "release_date": "1985-02-19",
-        "stream_url": null
-      },
-      {
-        "id": 37678,
-        "media_type": "tv",
-        "title": "The Voice",
-        "poster": "https://image.tmdb.org/t/p/w500/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/x8pSFa3BXyVpkjHyn7YxmLyhjoh.jpg",
-        "rating": 5.9,
-        "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
-        "release_date": "2011-04-26",
-        "stream_url": null
-      },
-      {
         "id": 2912,
         "media_type": "tv",
         "title": "Jeopardy!",
@@ -1480,14 +1480,25 @@
         "stream_url": null
       },
       {
-        "id": 112470,
+        "id": 37678,
         "media_type": "tv",
-        "title": "Ici tout commence",
-        "poster": "https://image.tmdb.org/t/p/w500/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
-        "rating": 6.8,
-        "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
-        "release_date": "2020-11-02",
+        "title": "The Voice",
+        "poster": "https://image.tmdb.org/t/p/w500/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/x8pSFa3BXyVpkjHyn7YxmLyhjoh.jpg",
+        "rating": 5.91,
+        "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
+        "release_date": "2011-04-26",
+        "stream_url": null
+      },
+      {
+        "id": 1900,
+        "media_type": "tv",
+        "title": "LIVE with Kelly and Mark",
+        "poster": "https://image.tmdb.org/t/p/w500/8eXDNLIhOGSoKCaIw9JJFNbnZ5x.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/eNjzPQsNNPd8zluKTpv7Axhk8p4.jpg",
+        "rating": 5.6,
+        "overview": "A morning talk show with A-list celebrity guests, top-notch performances and one-of-a-kind segments that are unrivaled on daytime television, plus spontaneous, hilarious and unpredictable talk.",
+        "release_date": "1988-09-05",
         "stream_url": null
       },
       {
@@ -1499,17 +1510,6 @@
         "rating": 4.7,
         "overview": "El Hormiguero is a Spanish television program with a live audience focusing on comedy, science, and politics running since September 2006. It is hosted and produced by screenwriter Pablo Motos. The show aired on Spain's Cuatro channel from launch until June 2011 and is now broadcast on Antena 3. Recurring guests on the show include Luis Piedrahita, Raquel Martos, Marron & \"The Man in Black\", and puppet ants Trancas and Barrancas. It has proved a ratings success, and has expanded from a weekly 120-minute show to a daily 40-minute show in its third season, which began on September 17, 2007. The show won the Entertainment prize at the 2009 Rose d'Or ceremony.",
         "release_date": "2006-09-24",
-        "stream_url": null
-      },
-      {
-        "id": 2527,
-        "media_type": "tv",
-        "title": "Emmerdale",
-        "poster": "https://image.tmdb.org/t/p/w500/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
-        "rating": 4.3,
-        "overview": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village. With murders, affairs, lies, deceit, laughter and tears, it's all there in the village.",
-        "release_date": "1972-10-16",
         "stream_url": null
       },
       {
@@ -1535,6 +1535,17 @@
         "stream_url": null
       },
       {
+        "id": 2527,
+        "media_type": "tv",
+        "title": "Emmerdale",
+        "poster": "https://image.tmdb.org/t/p/w500/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
+        "rating": 4.3,
+        "overview": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village. With murders, affairs, lies, deceit, laughter and tears, it's all there in the village.",
+        "release_date": "1972-10-16",
+        "stream_url": null
+      },
+      {
         "id": 6060,
         "media_type": "tv",
         "title": "Kyunki Saas Bhi Kabhi Bahu Thi",
@@ -1543,17 +1554,6 @@
         "rating": 3.4,
         "overview": "A mother-in-law's struggle to put up with her three bahu's. The three bahu's have grown up sons. The bahu's sons start to get involved with having girlfriends and the bahu's try and break their relationships up.",
         "release_date": "2000-07-03",
-        "stream_url": null
-      },
-      {
-        "id": 12786,
-        "media_type": "tv",
-        "title": "Murdoch Mysteries",
-        "poster": "https://image.tmdb.org/t/p/w500/gMXlZrd9iuPUdVQg9CTVXtLwnVV.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/hYmHyUlJMQgeazELoHnORrEQ0vE.jpg",
-        "rating": 7.704,
-        "overview": "A Victorian-era Toronto detective uses then-cutting edge forensic techniques to solve crimes, with the assistance of a female coroner who is also struggling for recognition in the face of tradition, based on the books by Maureen Jennings.",
-        "release_date": "2008-01-24",
         "stream_url": null
       }
     ],
