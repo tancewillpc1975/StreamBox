@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 15:58",
+  "updated_at": "2026-10-20 16:28",
   "movies": {
     "trending": [
       {
@@ -674,7 +674,7 @@
         "title": "Batman: Knightfall Part 1: Knightfall",
         "poster": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
-        "rating": 9.101,
+        "rating": 9.103,
         "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
         "release_date": "2026-06-23",
         "stream_url": null
@@ -685,7 +685,7 @@
         "title": "Avatar Aang: The Last Airbender",
         "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-        "rating": 9.053,
+        "rating": 9.052,
         "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
         "release_date": "2026-07-24",
         "stream_url": null
@@ -762,7 +762,7 @@
         "title": "Project Hail Mary",
         "poster": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-        "rating": 8.6,
+        "rating": 8.635,
         "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
         "release_date": "2026-03-15",
         "stream_url": null
@@ -834,17 +834,6 @@
         "stream_url": null
       },
       {
-        "id": 1218925,
-        "media_type": "movie",
-        "title": "Chainsaw Man - The Movie: Reze Arc",
-        "poster": "https://image.tmdb.org/t/p/w500/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
-        "rating": 8.537,
-        "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
-        "release_date": "2025-09-19",
-        "stream_url": null
-      },
-      {
         "id": 155,
         "media_type": "movie",
         "title": "The Dark Knight",
@@ -853,6 +842,17 @@
         "rating": 8.538,
         "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
         "release_date": "2008-07-16",
+        "stream_url": null
+      },
+      {
+        "id": 1218925,
+        "media_type": "movie",
+        "title": "Chainsaw Man - The Movie: Reze Arc",
+        "poster": "https://image.tmdb.org/t/p/w500/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
+        "rating": 8.5,
+        "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+        "release_date": "2025-09-19",
         "stream_url": null
       },
       {
@@ -883,7 +883,7 @@
         "title": "The Lord of the Rings: The Return of the King",
         "poster": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
-        "rating": 8.505,
+        "rating": 8.504,
         "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
         "release_date": "2003-12-17",
         "stream_url": null
@@ -1564,7 +1564,7 @@
         "title": "Dragon Ball Super: Beerus",
         "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-        "rating": 9.732,
+        "rating": 9.7,
         "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
         "release_date": "2026-10-11",
         "stream_url": null
@@ -1647,17 +1647,6 @@
         "stream_url": null
       },
       {
-        "id": 322430,
-        "media_type": "tv",
-        "title": "The Polygamist",
-        "poster": "https://image.tmdb.org/t/p/w500/vamznpYBCI9n7VhrI3mxuzff7XP.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
-        "rating": 8.823,
-        "overview": "Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.",
-        "release_date": "2026-06-12",
-        "stream_url": null
-      },
-      {
         "id": 85077,
         "media_type": "tv",
         "title": "The Chosen",
@@ -1669,14 +1658,14 @@
         "stream_url": null
       },
       {
-        "id": 245026,
+        "id": 322430,
         "media_type": "tv",
-        "title": "Wizards Beyond Waverly Place",
-        "poster": "https://image.tmdb.org/t/p/w500/5hrBpjFzIqmN9k7QxEC610gwZGw.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/TxicZcsiP9VHYXMYHm4IEHnwv9.jpg",
-        "rating": 8.801,
-        "overview": "Justin Russo has chosen to lead a normal, mortal life with his family, Giada, Roman and Milo. But when Justin's sister Alex brings Billie to his home seeking help, Justin realizes he must dust off his magical skills to mentor the wizard-in-training while also juggling his everyday responsibilities — and safeguarding the future of the Wizard World.",
-        "release_date": "2024-10-29",
+        "title": "The Polygamist",
+        "poster": "https://image.tmdb.org/t/p/w500/vamznpYBCI9n7VhrI3mxuzff7XP.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
+        "rating": 8.823,
+        "overview": "Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.",
+        "release_date": "2026-06-12",
         "stream_url": null
       },
       {
@@ -1685,7 +1674,7 @@
         "title": "Frieren: Beyond Journey's End",
         "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
-        "rating": 8.8,
+        "rating": 8.823,
         "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
         "release_date": "2023-09-29",
         "stream_url": null
@@ -1702,17 +1691,6 @@
         "stream_url": null
       },
       {
-        "id": 219246,
-        "media_type": "tv",
-        "title": "When Life Gives You Tangerines",
-        "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-        "rating": 8.8,
-        "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
-        "release_date": "2025-03-07",
-        "stream_url": null
-      },
-      {
         "id": 259666,
         "media_type": "tv",
         "title": "No One Will Miss Us",
@@ -1721,6 +1699,28 @@
         "rating": 8.803,
         "overview": "It's the '90s, and five losers run an illegal business at their high school. They sell homework and assignments to their classmates. The advantage is that no one ever suspects the nerds. Their business brings them money and popularity. But hormones and an unexpected death threaten to ruin everything. If the business collapses, their futures and their friendships are at risk.",
         "release_date": "2024-08-09",
+        "stream_url": null
+      },
+      {
+        "id": 245026,
+        "media_type": "tv",
+        "title": "Wizards Beyond Waverly Place",
+        "poster": "https://image.tmdb.org/t/p/w500/5hrBpjFzIqmN9k7QxEC610gwZGw.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/TxicZcsiP9VHYXMYHm4IEHnwv9.jpg",
+        "rating": 8.801,
+        "overview": "Justin Russo has chosen to lead a normal, mortal life with his family, Giada, Roman and Milo. But when Justin's sister Alex brings Billie to his home seeking help, Justin realizes he must dust off his magical skills to mentor the wizard-in-training while also juggling his everyday responsibilities — and safeguarding the future of the Wizard World.",
+        "release_date": "2024-10-29",
+        "stream_url": null
+      },
+      {
+        "id": 219246,
+        "media_type": "tv",
+        "title": "When Life Gives You Tangerines",
+        "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
+        "rating": 8.8,
+        "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+        "release_date": "2025-03-07",
         "stream_url": null
       },
       {
