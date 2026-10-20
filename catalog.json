@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 04:57",
+  "updated_at": "2026-10-20 05:23",
   "movies": {
     "trending": [
       {
@@ -909,7 +909,7 @@
         "title": "Crystal Lake",
         "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
-        "rating": 8.5,
+        "rating": 8.519,
         "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
         "release_date": "2026-10-15",
         "stream_url": null
@@ -931,20 +931,20 @@
         "title": "Carrie",
         "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-        "rating": 8.345,
+        "rating": 8.35,
         "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
         "release_date": "2026-10-07",
         "stream_url": null
       },
       {
-        "id": 203857,
+        "id": 105248,
         "media_type": "tv",
-        "title": "The Diplomat",
-        "poster": "https://image.tmdb.org/t/p/w500/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/hzznrBI07C2chXivlLYvEmQESP7.jpg",
-        "rating": 7.608,
-        "overview": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
-        "release_date": "2023-04-20",
+        "title": "Cyberpunk: Edgerunners",
+        "poster": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+        "rating": 8.488,
+        "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+        "release_date": "2022-09-13",
         "stream_url": null
       },
       {
@@ -956,6 +956,17 @@
         "rating": 8.353,
         "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
         "release_date": "2004-10-05",
+        "stream_url": null
+      },
+      {
+        "id": 203857,
+        "media_type": "tv",
+        "title": "The Diplomat",
+        "poster": "https://image.tmdb.org/t/p/w500/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hzznrBI07C2chXivlLYvEmQESP7.jpg",
+        "rating": 7.608,
+        "overview": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
+        "release_date": "2023-04-20",
         "stream_url": null
       },
       {
@@ -981,36 +992,14 @@
         "stream_url": null
       },
       {
-        "id": 105248,
+        "id": 2190,
         "media_type": "tv",
-        "title": "Cyberpunk: Edgerunners",
-        "poster": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
-        "rating": 8.5,
-        "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
-        "release_date": "2022-09-13",
-        "stream_url": null
-      },
-      {
-        "id": 285322,
-        "media_type": "tv",
-        "title": "Below",
-        "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-        "rating": 7.223,
-        "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-        "release_date": "2026-10-08",
-        "stream_url": null
-      },
-      {
-        "id": 312359,
-        "media_type": "tv",
-        "title": "Dragon Ball Super: Beerus",
-        "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-        "rating": 9.727,
-        "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-        "release_date": "2026-10-11",
+        "title": "South Park",
+        "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+        "rating": 8.329,
+        "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+        "release_date": "1997-08-13",
         "stream_url": null
       },
       {
@@ -1025,12 +1014,34 @@
         "stream_url": null
       },
       {
+        "id": 312359,
+        "media_type": "tv",
+        "title": "Dragon Ball Super: Beerus",
+        "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+        "rating": 9.729,
+        "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+        "release_date": "2026-10-11",
+        "stream_url": null
+      },
+      {
+        "id": 285322,
+        "media_type": "tv",
+        "title": "Below",
+        "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+        "rating": 7.223,
+        "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+        "release_date": "2026-10-08",
+        "stream_url": null
+      },
+      {
         "id": 247718,
         "media_type": "tv",
         "title": "MobLand",
         "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-        "rating": 8.523,
+        "rating": 8.524,
         "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
         "release_date": "2025-03-30",
         "stream_url": null
@@ -1058,17 +1069,6 @@
         "stream_url": null
       },
       {
-        "id": 2190,
-        "media_type": "tv",
-        "title": "South Park",
-        "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-        "rating": 8.329,
-        "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-        "release_date": "1997-08-13",
-        "stream_url": null
-      },
-      {
         "id": 293610,
         "media_type": "tv",
         "title": "Doctor X: Mafia in White",
@@ -1091,6 +1091,17 @@
         "stream_url": null
       },
       {
+        "id": 73223,
+        "media_type": "tv",
+        "title": "Black Clover",
+        "poster": "https://image.tmdb.org/t/p/w500/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
+        "rating": 8.517,
+        "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+        "release_date": "2017-10-03",
+        "stream_url": null
+      },
+      {
         "id": 333101,
         "media_type": "tv",
         "title": "Treasure Island",
@@ -1099,17 +1110,6 @@
         "rating": 6.31,
         "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
         "release_date": "2026-10-11",
-        "stream_url": null
-      },
-      {
-        "id": 231620,
-        "media_type": "tv",
-        "title": "Natural High",
-        "poster": "https://image.tmdb.org/t/p/w500/oC2MuEWxnLVTyYw70XoK2HFf7nW.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/kQ58qbyCGkdmqKZtxMZbLNpgSxX.jpg",
-        "rating": 7.5,
-        "overview": "Come and join Shen Teng and his friends as they step away from the bustling crowded cities and reconnect with the beautiful wild nature.",
-        "release_date": "2023-08-13",
         "stream_url": null
       }
     ],
