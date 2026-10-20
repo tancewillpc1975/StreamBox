@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 16:28",
+  "updated_at": "2026-10-20 17:03",
   "movies": {
     "trending": [
       {
@@ -8,7 +8,7 @@
         "title": "Tenzing",
         "poster": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-        "rating": 8.308,
+        "rating": 8.3,
         "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
         "release_date": "2026-10-09",
         "stream_url": null
@@ -41,7 +41,7 @@
         "title": "Clayface",
         "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg",
-        "rating": 8.1,
+        "rating": 8.0,
         "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
         "release_date": "2026-10-19",
         "stream_url": null
@@ -63,7 +63,7 @@
         "title": "Street Fighter",
         "poster": "https://image.tmdb.org/t/p/w500/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
-        "rating": 6.292,
+        "rating": 6.33,
         "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
         "release_date": "2026-10-13",
         "stream_url": null
@@ -80,14 +80,36 @@
         "stream_url": null
       },
       {
+        "id": 1433583,
+        "media_type": "movie",
+        "title": "The Weight",
+        "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/myA2cjsISTbTJQK6HWnZffFJK6j.jpg",
+        "rating": 7.0,
+        "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
+        "release_date": "2026-09-16",
+        "stream_url": null
+      },
+      {
         "id": 1381078,
         "media_type": "movie",
         "title": "Love of Your Life",
-        "poster": "https://image.tmdb.org/t/p/w500/c2bHsFBSvMPozJXBGuiIpCRh7hf.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
-        "rating": 6.8,
+        "poster": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/f1jZDs4dJoFXxazmpBKGmId2hFU.jpg",
+        "rating": 6.778,
         "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
         "release_date": "2026-10-07",
+        "stream_url": null
+      },
+      {
+        "id": 1380417,
+        "media_type": "movie",
+        "title": "By Any Means",
+        "poster": "https://image.tmdb.org/t/p/w500/hxTjCfEmZJFAPW8h5S3tDQNaBi8.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/eAouIDoMDhLetm6CtmDKIGEaaCi.jpg",
+        "rating": 6.9,
+        "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
+        "release_date": "2026-09-02",
         "stream_url": null
       },
       {
@@ -96,9 +118,20 @@
         "title": "Obsession",
         "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-        "rating": 8.177,
+        "rating": 8.176,
         "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
         "release_date": "2026-05-13",
+        "stream_url": null
+      },
+      {
+        "id": 1198654,
+        "media_type": "movie",
+        "title": "Bad Apples",
+        "poster": "https://image.tmdb.org/t/p/w500/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ch1g1X6TfezRwbmiBiYRpALTQjN.jpg",
+        "rating": 6.7,
+        "overview": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
+        "release_date": "2026-09-10",
         "stream_url": null
       },
       {
@@ -107,53 +140,9 @@
         "title": "Digger",
         "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-        "rating": 7.481,
+        "rating": 7.479,
         "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
         "release_date": "2026-09-28",
-        "stream_url": null
-      },
-      {
-        "id": 1302904,
-        "media_type": "movie",
-        "title": "Practical Magic 2",
-        "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
-        "rating": 7.037,
-        "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-        "release_date": "2026-09-09",
-        "stream_url": null
-      },
-      {
-        "id": 1198654,
-        "media_type": "movie",
-        "title": "Bad Apples",
-        "poster": "https://image.tmdb.org/t/p/w500/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/ldeiBXtVM12oDUVSiJtwjESLSOc.jpg",
-        "rating": 6.8,
-        "overview": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will turn a blind eye to the most outrageous events to preserve harmony and their sense of safety.",
-        "release_date": "2026-09-10",
-        "stream_url": null
-      },
-      {
-        "id": 1514026,
-        "media_type": "movie",
-        "title": "Buddy",
-        "poster": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-        "rating": 7.1,
-        "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
-        "release_date": "2026-08-27",
-        "stream_url": null
-      },
-      {
-        "id": 1236045,
-        "media_type": "movie",
-        "title": "Animals",
-        "poster": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-        "rating": 7.038,
-        "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
-        "release_date": "2026-10-09",
         "stream_url": null
       },
       {
@@ -168,14 +157,47 @@
         "stream_url": null
       },
       {
-        "id": 1433583,
+        "id": 1302904,
         "media_type": "movie",
-        "title": "The Weight",
-        "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/myA2cjsISTbTJQK6HWnZffFJK6j.jpg",
-        "rating": 6.9,
-        "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
-        "release_date": "2026-09-16",
+        "title": "Practical Magic 2",
+        "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+        "rating": 7.027,
+        "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+        "release_date": "2026-09-09",
+        "stream_url": null
+      },
+      {
+        "id": 1514026,
+        "media_type": "movie",
+        "title": "Buddy",
+        "poster": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+        "rating": 7.132,
+        "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
+        "release_date": "2026-08-27",
+        "stream_url": null
+      },
+      {
+        "id": 1236045,
+        "media_type": "movie",
+        "title": "Animals",
+        "poster": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+        "rating": 7.03,
+        "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+        "release_date": "2026-10-09",
+        "stream_url": null
+      },
+      {
+        "id": 1368337,
+        "media_type": "movie",
+        "title": "The Odyssey",
+        "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
+        "rating": 8.012,
+        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+        "release_date": "2026-07-15",
         "stream_url": null
       },
       {
@@ -198,28 +220,6 @@
         "rating": 5.034,
         "overview": "During a star-studded charity gala brimming with celebrities, billionaires, and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
         "release_date": "2026-04-09",
-        "stream_url": null
-      },
-      {
-        "id": 1148365,
-        "media_type": "movie",
-        "title": "Matchbox the Movie",
-        "poster": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-        "rating": 7.767,
-        "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-        "release_date": "2026-10-05",
-        "stream_url": null
-      },
-      {
-        "id": 1368337,
-        "media_type": "movie",
-        "title": "The Odyssey",
-        "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
-        "rating": 8.012,
-        "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-        "release_date": "2026-07-15",
         "stream_url": null
       }
     ],
