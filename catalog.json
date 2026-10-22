@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 03:26",
+  "updated_at": "2026-10-22 04:02",
   "movies": {
     "trending": [
       {
@@ -8,20 +8,9 @@
         "title": "Clayface",
         "poster": "https://image.tmdb.org/t/p/w500/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-        "rating": 7.5,
+        "rating": 7.3,
         "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
         "release_date": "2026-10-19",
-        "stream_url": null
-      },
-      {
-        "id": 1561726,
-        "media_type": "movie",
-        "title": "Masterplan",
-        "poster": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
-        "rating": 7.031,
-        "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
-        "release_date": "2026-10-16",
         "stream_url": null
       },
       {
@@ -36,12 +25,23 @@
         "stream_url": null
       },
       {
+        "id": 1561726,
+        "media_type": "movie",
+        "title": "Masterplan",
+        "poster": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+        "rating": 7.055,
+        "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
+        "release_date": "2026-10-16",
+        "stream_url": null
+      },
+      {
         "id": 1288069,
         "media_type": "movie",
         "title": "Tenzing",
         "poster": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-        "rating": 8.363,
+        "rating": 8.4,
         "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
         "release_date": "2026-10-09",
         "stream_url": null
@@ -102,14 +102,14 @@
         "stream_url": null
       },
       {
-        "id": 1381078,
+        "id": 1433583,
         "media_type": "movie",
-        "title": "Love of Your Life",
-        "poster": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
-        "rating": 6.765,
-        "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
-        "release_date": "2026-10-07",
+        "title": "The Weight",
+        "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/oQxaPtPdaGEymarp9pVOzwZT11V.jpg",
+        "rating": 6.8,
+        "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
+        "release_date": "2026-09-16",
         "stream_url": null
       },
       {
@@ -124,36 +124,14 @@
         "stream_url": null
       },
       {
-        "id": 1302904,
+        "id": 1381078,
         "media_type": "movie",
-        "title": "Practical Magic 2",
-        "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
-        "rating": 7.053,
-        "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-        "release_date": "2026-09-09",
-        "stream_url": null
-      },
-      {
-        "id": 1433583,
-        "media_type": "movie",
-        "title": "The Weight",
-        "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/oQxaPtPdaGEymarp9pVOzwZT11V.jpg",
-        "rating": 6.818,
-        "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
-        "release_date": "2026-09-16",
-        "stream_url": null
-      },
-      {
-        "id": 1765072,
-        "media_type": "movie",
-        "title": "You Can See Everything",
-        "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-        "rating": 8.9,
-        "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-        "release_date": "2026-10-16",
+        "title": "Love of Your Life",
+        "poster": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+        "rating": 6.792,
+        "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+        "release_date": "2026-10-07",
         "stream_url": null
       },
       {
@@ -168,14 +146,25 @@
         "stream_url": null
       },
       {
-        "id": 1003596,
+        "id": 1302904,
         "media_type": "movie",
-        "title": "Avengers: Doomsday",
-        "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
-        "rating": 0.0,
-        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-        "release_date": "2026-12-16",
+        "title": "Practical Magic 2",
+        "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+        "rating": 7.053,
+        "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+        "release_date": "2026-09-09",
+        "stream_url": null
+      },
+      {
+        "id": 1765072,
+        "media_type": "movie",
+        "title": "You Can See Everything",
+        "poster": "https://image.tmdb.org/t/p/w500/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+        "rating": 8.9,
+        "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+        "release_date": "2026-10-16",
         "stream_url": null
       },
       {
@@ -190,6 +179,17 @@
         "stream_url": null
       },
       {
+        "id": 1003596,
+        "media_type": "movie",
+        "title": "Avengers: Doomsday",
+        "poster": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+        "rating": 0.0,
+        "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+        "release_date": "2026-12-16",
+        "stream_url": null
+      },
+      {
         "id": 1368337,
         "media_type": "movie",
         "title": "The Odyssey",
@@ -201,25 +201,25 @@
         "stream_url": null
       },
       {
+        "id": 791523,
+        "media_type": "movie",
+        "title": "Wildwood",
+        "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+        "rating": 9.6,
+        "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+        "release_date": "2026-10-19",
+        "stream_url": null
+      },
+      {
         "id": 1108427,
         "media_type": "movie",
         "title": "Moana",
         "poster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-        "rating": 7.5,
+        "rating": 7.489,
         "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
         "release_date": "2026-07-08",
-        "stream_url": null
-      },
-      {
-        "id": 1284186,
-        "media_type": "movie",
-        "title": "Sacrifice",
-        "poster": "https://image.tmdb.org/t/p/w500/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
-        "rating": 5.097,
-        "overview": "During a star-studded charity gala brimming with celebrities, billionaires, and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
-        "release_date": "2026-04-09",
         "stream_url": null
       }
     ],
@@ -1564,7 +1564,7 @@
         "title": "Dragon Ball Super: Beerus",
         "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-        "rating": 9.7,
+        "rating": 9.703,
         "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
         "release_date": "2026-10-11",
         "stream_url": null
@@ -1652,7 +1652,7 @@
         "title": "The Chosen",
         "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
-        "rating": 8.836,
+        "rating": 8.837,
         "overview": "The life of Christ through the eyes of those who encountered him.",
         "release_date": "2019-04-21",
         "stream_url": null
@@ -1663,7 +1663,7 @@
         "title": "Frieren: Beyond Journey's End",
         "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
-        "rating": 8.8,
+        "rating": 8.824,
         "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
         "release_date": "2023-09-29",
         "stream_url": null
@@ -1718,7 +1718,7 @@
         "title": "The WONDERfools",
         "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
-        "rating": 8.795,
+        "rating": 8.793,
         "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
         "release_date": "2026-05-15",
         "stream_url": null
