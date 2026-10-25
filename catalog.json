@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 16:15",
+  "updated_at": "2026-10-25 16:54",
   "movies": {
     "trending": [
       {
@@ -1362,22 +1362,11 @@
         "id": 456,
         "media_type": "tv",
         "title": "The Simpsons",
-        "poster": "https://image.tmdb.org/t/p/w500/k5UALlcA0EnviaCUn2wMjOWYiOO.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-        "rating": 8.026,
+        "rating": 8.0,
         "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
         "release_date": "1989-12-17",
-        "stream_url": null
-      },
-      {
-        "id": 2661,
-        "media_type": "tv",
-        "title": "Kamen Rider",
-        "poster": "https://image.tmdb.org/t/p/w500/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-        "rating": 6.4,
-        "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
-        "release_date": "1971-04-03",
         "stream_url": null
       },
       {
@@ -1389,6 +1378,17 @@
         "rating": 6.2,
         "overview": "Tatort is a long-running German/Austrian/Swiss crime television series set in various parts of these countries. The show is broadcast on the channels of ARD in Germany, ORF in Austria and SF1 in Switzerland.",
         "release_date": "1970-11-29",
+        "stream_url": null
+      },
+      {
+        "id": 2661,
+        "media_type": "tv",
+        "title": "Kamen Rider",
+        "poster": "https://image.tmdb.org/t/p/w500/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+        "rating": 6.4,
+        "overview": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+        "release_date": "1971-04-03",
         "stream_url": null
       },
       {
@@ -1408,7 +1408,7 @@
         "title": "Dragon Ball Super: Beerus",
         "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-        "rating": 9.67,
+        "rating": 9.675,
         "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
         "release_date": "2026-10-11",
         "stream_url": null
@@ -1436,17 +1436,6 @@
         "stream_url": null
       },
       {
-        "id": 72896,
-        "media_type": "tv",
-        "title": "My Little Old Boy",
-        "poster": "https://image.tmdb.org/t/p/w500/fgeWRIiigNHLxy3qEzM0HqNcFHT.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/vrLDuQ5L45f7vFWpMT17WopdWx0.jpg",
-        "rating": 7.273,
-        "overview": "How much do you know about your grown up son? In Mom’s Diary, the daily lives of the grown up celebrity sons are closely observed by their mothers. Do you know why your son drinks so much these days? How much do you know about your son’s philosophy in his life style? Heart-warming moments of observational communication between a mother and a son can be seen on Mom’s Diary.",
-        "release_date": "2016-08-26",
-        "stream_url": null
-      },
-      {
         "id": 224,
         "media_type": "tv",
         "title": "Match of the Day",
@@ -1455,17 +1444,6 @@
         "rating": 7.6,
         "overview": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised by Guinness World Records in 2015.",
         "release_date": "1964-08-22",
-        "stream_url": null
-      },
-      {
-        "id": 211288,
-        "media_type": "tv",
-        "title": "Tracker",
-        "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
-        "rating": 7.629,
-        "overview": "Lone-wolf survivalist Colter Shaw roams the country as a “reward seeker,” using his expert tracking skills to help private citizens and law enforcement solve all manner of mysteries while contending with his own fractured family.",
-        "release_date": "2024-02-11",
         "stream_url": null
       },
       {
@@ -1480,14 +1458,25 @@
         "stream_url": null
       },
       {
-        "id": 300146,
+        "id": 72896,
         "media_type": "tv",
-        "title": "Where the Mask Ends",
-        "poster": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/YndvGwqwroUDVltBWmnOuTvJke.jpg",
-        "rating": 8.2,
-        "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-        "release_date": "2026-10-16",
+        "title": "My Little Old Boy",
+        "poster": "https://image.tmdb.org/t/p/w500/fgeWRIiigNHLxy3qEzM0HqNcFHT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vrLDuQ5L45f7vFWpMT17WopdWx0.jpg",
+        "rating": 7.273,
+        "overview": "How much do you know about your grown up son? In Mom’s Diary, the daily lives of the grown up celebrity sons are closely observed by their mothers. Do you know why your son drinks so much these days? How much do you know about your son’s philosophy in his life style? Heart-warming moments of observational communication between a mother and a son can be seen on Mom’s Diary.",
+        "release_date": "2016-08-26",
+        "stream_url": null
+      },
+      {
+        "id": 211288,
+        "media_type": "tv",
+        "title": "Tracker",
+        "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
+        "rating": 7.629,
+        "overview": "Lone-wolf survivalist Colter Shaw roams the country as a “reward seeker,” using his expert tracking skills to help private citizens and law enforcement solve all manner of mysteries while contending with his own fractured family.",
+        "release_date": "2024-02-11",
         "stream_url": null
       },
       {
@@ -1499,6 +1488,28 @@
         "rating": 7.756,
         "overview": "A half-hour satirical look at the week in news, politics and current events.",
         "release_date": "2014-04-27",
+        "stream_url": null
+      },
+      {
+        "id": 30801,
+        "media_type": "tv",
+        "title": "2 Days and 1 Night",
+        "poster": "https://image.tmdb.org/t/p/w500/qezeCEkIKHQM5iwyVeYBuXmYA2h.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/32iRX9xqNH3ErJN6FowxdtgYmiY.jpg",
+        "rating": 6.7,
+        "overview": "2 Days & 1 Night is a South Korean reality-variety show with the motto \"real wild road variety.\" Its main concept is to recommend various places of interest that viewers can visit in South Korea.",
+        "release_date": "2007-08-05",
+        "stream_url": null
+      },
+      {
+        "id": 300146,
+        "media_type": "tv",
+        "title": "Where the Mask Ends",
+        "poster": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/YndvGwqwroUDVltBWmnOuTvJke.jpg",
+        "rating": 8.2,
+        "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+        "release_date": "2026-10-16",
         "stream_url": null
       },
       {
@@ -1543,17 +1554,6 @@
         "rating": 6.8,
         "overview": "The sparkling notes of a trumpet fanfare and the familiar logo of the sun alert viewers that it's time for CBS's Sunday morning staple. Journalist Jane Pauley helms the show, taking over hosting duties from Charles Osgood, who spent 22 years on the job. A morning talk show, this program airs at a different pace and focuses much of its attention on the performing arts. After a quick update of the day's news and national weather, correspondents offer longer-length segments on a variety of topics, from architecture to ballet to music to pop culture to politics.",
         "release_date": "1979-01-28",
-        "stream_url": null
-      },
-      {
-        "id": 14929,
-        "media_type": "tv",
-        "title": "Heartland",
-        "poster": "https://image.tmdb.org/t/p/w500/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
-        "rating": 8.2,
-        "overview": "Life is hard on the Flemings' ranch in the Alberta foothills where abused or neglected horses find refuge with a kind, hard-working family. Debts abound and the bank is about to foreclose. Can they keep the ranch running?",
-        "release_date": "2007-10-14",
         "stream_url": null
       }
     ],
