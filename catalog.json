@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10 00:46",
+  "updated_at": "2026-11-10 07:54",
   "movies": {
     "trending": [
       {
@@ -8,7 +8,7 @@
         "title": "Resident Evil",
         "poster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-        "rating": 7.5,
+        "rating": 7.498,
         "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
         "release_date": "2026-09-16",
         "stream_url": null
@@ -19,7 +19,7 @@
         "title": "The Odyssey",
         "poster": "https://image.tmdb.org/t/p/w500/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
-        "rating": 8.01,
+        "rating": 8.011,
         "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
         "release_date": "2026-07-15",
         "stream_url": null
@@ -30,7 +30,7 @@
         "title": "Model Citizen",
         "poster": "https://image.tmdb.org/t/p/w500/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/5MBdRdiGv3AKzZDGbni88xc6JFi.jpg",
-        "rating": 6.5,
+        "rating": 6.479,
         "overview": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met with rising hostility, strange surveillance, and instincts he can’t fully control. When the pressure becomes unbearable, Bay begins a desperate hunt for the truth behind his fractured reality.",
         "release_date": "2026-11-03",
         "stream_url": null
@@ -41,20 +41,9 @@
         "title": "Heart of the Beast",
         "poster": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
-        "rating": 7.285,
+        "rating": 7.293,
         "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
         "release_date": "2026-09-19",
-        "stream_url": null
-      },
-      {
-        "id": 1381071,
-        "media_type": "movie",
-        "title": "Godzilla Minus Zero",
-        "poster": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-        "rating": 7.959,
-        "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-        "release_date": "2026-11-03",
         "stream_url": null
       },
       {
@@ -63,20 +52,31 @@
         "title": "Primetime",
         "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
-        "rating": 6.789,
+        "rating": 6.8,
         "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
         "release_date": "2026-09-23",
         "stream_url": null
       },
       {
-        "id": 1380417,
+        "id": 1381071,
         "media_type": "movie",
-        "title": "By Any Means",
-        "poster": "https://image.tmdb.org/t/p/w500/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nw9Q3idNO8EsTPnvr8vBJTpkWGA.jpg",
-        "rating": 6.617,
-        "overview": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders.",
-        "release_date": "2026-09-02",
+        "title": "Godzilla Minus Zero",
+        "poster": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+        "rating": 7.956,
+        "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+        "release_date": "2026-11-03",
+        "stream_url": null
+      },
+      {
+        "id": 1483525,
+        "media_type": "movie",
+        "title": "Possible Love",
+        "poster": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
+        "rating": 7.4,
+        "overview": "Working-class An Mi Ok and Choi Ho Seok, who have been together since middle school and are the parents of a taciturn 10-year-old, are still reckoning with the fallout from Ho Seok’s firing from his factory job after a violently suppressed labor union strike. The well-off Lee Ye Ji, a documentary filmmaker, with her businessman husband, Sang-woo, has decided to make a movie about job layoffs and wants to make Mi-Ok and Ho-Seok her main camera subjects.",
+        "release_date": "2026-09-23",
         "stream_url": null
       },
       {
@@ -91,36 +91,47 @@
         "stream_url": null
       },
       {
-        "id": 1400940,
+        "id": 791523,
         "media_type": "movie",
-        "title": "Clayface",
-        "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-        "rating": 7.437,
-        "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
+        "title": "Wildwood",
+        "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+        "rating": 8.5,
+        "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
         "release_date": "2026-10-19",
         "stream_url": null
       },
       {
-        "id": 1483525,
+        "id": 656908,
         "media_type": "movie",
-        "title": "Possible Love",
-        "poster": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
-        "rating": 7.448,
-        "overview": "Working-class An Mi Ok and Choi Ho Seok, who have been together since middle school and are the parents of a taciturn 10-year-old, are still reckoning with the fallout from Ho Seok’s firing from his factory job after a violently suppressed labor union strike. The well-off Lee Ye Ji, a documentary filmmaker, with her businessman husband, Sang-woo, has decided to make a movie about job layoffs and wants to make Mi-Ok and Ho-Seok her main camera subjects.",
-        "release_date": "2026-09-23",
+        "title": "Ramayana: Rise of a Legend",
+        "poster": "https://image.tmdb.org/t/p/w500/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+        "rating": 7.732,
+        "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+        "release_date": "2026-11-05",
         "stream_url": null
       },
       {
-        "id": 1567605,
+        "id": 891621,
         "media_type": "movie",
-        "title": "Ebenezer",
-        "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
-        "rating": 8.25,
-        "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-        "release_date": "2026-11-11",
+        "title": "Wild Horse Nine",
+        "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+        "rating": 8.1,
+        "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
+        "release_date": "2026-10-30",
+        "stream_url": null
+      },
+      {
+        "id": 1570488,
+        "media_type": "movie",
+        "title": "A Dog's Perfect Christmas",
+        "poster": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+        "rating": 7.727,
+        "overview": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
+        "release_date": "2026-11-04",
         "stream_url": null
       },
       {
@@ -135,47 +146,36 @@
         "stream_url": null
       },
       {
-        "id": 656908,
+        "id": 1422041,
         "media_type": "movie",
-        "title": "Ramayana: Rise of a Legend",
-        "poster": "https://image.tmdb.org/t/p/w500/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-        "rating": 7.8,
-        "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-        "release_date": "2026-11-05",
+        "title": "La Bola Negra",
+        "poster": "https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+        "rating": 8.0,
+        "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+        "release_date": "2026-09-25",
         "stream_url": null
       },
       {
-        "id": 791523,
+        "id": 1400940,
         "media_type": "movie",
-        "title": "Wildwood",
-        "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-        "rating": 8.504,
-        "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+        "title": "Clayface",
+        "poster": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+        "rating": 7.432,
+        "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
         "release_date": "2026-10-19",
         "stream_url": null
       },
       {
-        "id": 1300968,
+        "id": 1170608,
         "media_type": "movie",
-        "title": "The Hunger Games: Sunrise on the Reaping",
-        "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+        "title": "Dune: Part Three",
+        "poster": "https://image.tmdb.org/t/p/w500/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
         "rating": 0.0,
-        "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-        "release_date": "2026-11-18",
-        "stream_url": null
-      },
-      {
-        "id": 891621,
-        "media_type": "movie",
-        "title": "Wild Horse Nine",
-        "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-        "rating": 8.126,
-        "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
-        "release_date": "2026-10-30",
+        "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+        "release_date": "2026-12-15",
         "stream_url": null
       },
       {
@@ -184,9 +184,20 @@
         "title": "Verity",
         "poster": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-        "rating": 7.003,
+        "rating": 7.008,
         "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
         "release_date": "2026-09-30",
+        "stream_url": null
+      },
+      {
+        "id": 1384216,
+        "media_type": "movie",
+        "title": "The Dog Stars",
+        "poster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
+        "rating": 7.206,
+        "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+        "release_date": "2026-08-26",
         "stream_url": null
       },
       {
@@ -201,25 +212,14 @@
         "stream_url": null
       },
       {
-        "id": 1339713,
+        "id": 1300968,
         "media_type": "movie",
-        "title": "Obsession",
-        "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-        "rating": 8.167,
-        "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-        "release_date": "2026-05-13",
-        "stream_url": null
-      },
-      {
-        "id": 1616419,
-        "media_type": "movie",
-        "title": "The Good Lawyer",
-        "poster": "https://image.tmdb.org/t/p/w500/5gLUXJZzyL1GQAAGdfnz1KEH8gj.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
-        "rating": 8.5,
-        "overview": "Léonard Landry, a flamboyant criminal defence lawyer, overdoses in the middle of the courtroom. After undergoing rehab, he has one week to save his career and prepare for his own trial, reluctantly assisted by a tenacious intern, Noé. This marks the beginning of a frantic race involving legal manoeuvres, temptations and dramatic twists.",
-        "release_date": "2026-09-11",
+        "title": "The Hunger Games: Sunrise on the Reaping",
+        "poster": "https://image.tmdb.org/t/p/w500/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+        "rating": 0.0,
+        "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+        "release_date": "2026-11-18",
         "stream_url": null
       }
     ],
@@ -230,7 +230,7 @@
         "title": "Project Hail Mary",
         "poster": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-        "rating": 8.629,
+        "rating": 8.628,
         "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
         "release_date": "2026-03-15",
         "stream_url": null
@@ -252,7 +252,7 @@
         "title": "Resident Evil",
         "poster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-        "rating": 7.49,
+        "rating": 7.5,
         "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
         "release_date": "2026-09-16",
         "stream_url": null
@@ -263,7 +263,7 @@
         "title": "The Odyssey",
         "poster": "https://image.tmdb.org/t/p/w500/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
-        "rating": 8.012,
+        "rating": 8.011,
         "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
         "release_date": "2026-07-15",
         "stream_url": null
@@ -274,7 +274,7 @@
         "title": "Heart of the Beast",
         "poster": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
-        "rating": 7.283,
+        "rating": 7.289,
         "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
         "release_date": "2026-09-19",
         "stream_url": null
@@ -285,7 +285,7 @@
         "title": "Apocalypse Z: New World",
         "poster": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-        "rating": 6.129,
+        "rating": 6.172,
         "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
         "release_date": "2026-10-09",
         "stream_url": null
@@ -296,7 +296,7 @@
         "title": "Hope",
         "poster": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
-        "rating": 6.688,
+        "rating": 6.695,
         "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
         "release_date": "2026-07-15",
         "stream_url": null
@@ -318,7 +318,7 @@
         "title": "A Story of Derry",
         "poster": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
-        "rating": 6.8,
+        "rating": 6.862,
         "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
         "release_date": "2026-10-31",
         "stream_url": null
@@ -340,31 +340,31 @@
         "title": "Coco",
         "poster": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
-        "rating": 8.207,
+        "rating": 8.206,
         "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
         "release_date": "2017-10-27",
         "stream_url": null
       },
       {
-        "id": 1294189,
-        "media_type": "movie",
-        "title": "The Mongoose",
-        "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
-        "rating": 5.63,
-        "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
-        "release_date": "2026-10-29",
-        "stream_url": null
-      },
-      {
         "id": 1381071,
         "media_type": "movie",
         "title": "Godzilla Minus Zero",
         "poster": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-        "rating": 7.9,
+        "rating": 8.0,
         "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
         "release_date": "2026-11-03",
+        "stream_url": null
+      },
+      {
+        "id": 1294189,
+        "media_type": "movie",
+        "title": "The Mongoose",
+        "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+        "rating": 5.648,
+        "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
+        "release_date": "2026-10-29",
         "stream_url": null
       },
       {
@@ -373,7 +373,7 @@
         "title": "Verity",
         "poster": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-        "rating": 7.0,
+        "rating": 7.008,
         "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
         "release_date": "2026-09-30",
         "stream_url": null
@@ -395,20 +395,9 @@
         "title": "Fall 2: Deadpoint",
         "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-        "rating": 7.3,
+        "rating": 7.275,
         "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
         "release_date": "2026-09-01",
-        "stream_url": null
-      },
-      {
-        "id": 791523,
-        "media_type": "movie",
-        "title": "Wildwood",
-        "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-        "rating": 8.511,
-        "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-        "release_date": "2026-10-19",
         "stream_url": null
       },
       {
@@ -417,7 +406,7 @@
         "title": "Drive - The Pretenders",
         "poster": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-        "rating": 7.712,
+        "rating": 7.707,
         "overview": "A young mechanic fakes an engagement with racing's most scandalous star — officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything — including what's already become so much more than just a deal.",
         "release_date": "2026-10-27",
         "stream_url": null
@@ -428,7 +417,7 @@
         "title": "Beware Boiúna",
         "poster": "https://image.tmdb.org/t/p/w500/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-        "rating": 6.217,
+        "rating": 6.255,
         "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
         "release_date": "2026-10-01",
         "stream_url": null
@@ -439,163 +428,7 @@
         "title": "Ramayana: Rise of a Legend",
         "poster": "https://image.tmdb.org/t/p/w500/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-        "rating": 7.75,
-        "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
-        "release_date": "2026-11-05",
-        "stream_url": null
-      }
-    ],
-    "now_playing": [
-      {
-        "id": 1423191,
-        "media_type": "movie",
-        "title": "Resident Evil",
-        "poster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-        "rating": 7.49,
-        "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-        "release_date": "2026-09-16",
-        "stream_url": null
-      },
-      {
-        "id": 1263337,
-        "media_type": "movie",
-        "title": "Heart of the Beast",
-        "poster": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
-        "rating": 7.283,
-        "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-        "release_date": "2026-09-19",
-        "stream_url": null
-      },
-      {
-        "id": 1507696,
-        "media_type": "movie",
-        "title": "Apocalypse Z: New World",
-        "poster": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-        "rating": 6.129,
-        "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
-        "release_date": "2026-10-09",
-        "stream_url": null
-      },
-      {
-        "id": 1058424,
-        "media_type": "movie",
-        "title": "Hope",
-        "poster": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
-        "rating": 6.688,
-        "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-        "release_date": "2026-07-15",
-        "stream_url": null
-      },
-      {
-        "id": 1813355,
-        "media_type": "movie",
-        "title": "A Story of Derry",
-        "poster": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
-        "rating": 6.8,
-        "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-        "release_date": "2026-10-31",
-        "stream_url": null
-      },
-      {
-        "id": 1294189,
-        "media_type": "movie",
-        "title": "The Mongoose",
-        "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
-        "rating": 5.63,
-        "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
-        "release_date": "2026-10-29",
-        "stream_url": null
-      },
-      {
-        "id": 1381071,
-        "media_type": "movie",
-        "title": "Godzilla Minus Zero",
-        "poster": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-        "rating": 7.9,
-        "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-        "release_date": "2026-11-03",
-        "stream_url": null
-      },
-      {
-        "id": 1283515,
-        "media_type": "movie",
-        "title": "Verity",
-        "poster": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-        "rating": 7.0,
-        "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-        "release_date": "2026-09-30",
-        "stream_url": null
-      },
-      {
-        "id": 1657630,
-        "media_type": "movie",
-        "title": "The Awakening",
-        "poster": "https://image.tmdb.org/t/p/w500/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
-        "rating": 6.526,
-        "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
-        "release_date": "2026-10-29",
-        "stream_url": null
-      },
-      {
-        "id": 1101412,
-        "media_type": "movie",
-        "title": "Fall 2: Deadpoint",
-        "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
-        "rating": 7.3,
-        "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-        "release_date": "2026-09-01",
-        "stream_url": null
-      },
-      {
-        "id": 791523,
-        "media_type": "movie",
-        "title": "Wildwood",
-        "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-        "rating": 8.511,
-        "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-        "release_date": "2026-10-19",
-        "stream_url": null
-      },
-      {
-        "id": 1596275,
-        "media_type": "movie",
-        "title": "Drive - The Pretenders",
-        "poster": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-        "rating": 7.712,
-        "overview": "A young mechanic fakes an engagement with racing's most scandalous star — officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything — including what's already become so much more than just a deal.",
-        "release_date": "2026-10-27",
-        "stream_url": null
-      },
-      {
-        "id": 1244523,
-        "media_type": "movie",
-        "title": "Beware Boiúna",
-        "poster": "https://image.tmdb.org/t/p/w500/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-        "rating": 6.217,
-        "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
-        "release_date": "2026-10-01",
-        "stream_url": null
-      },
-      {
-        "id": 656908,
-        "media_type": "movie",
-        "title": "Ramayana: Rise of a Legend",
-        "poster": "https://image.tmdb.org/t/p/w500/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-        "rating": 7.75,
+        "rating": 7.732,
         "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
         "release_date": "2026-11-05",
         "stream_url": null
@@ -606,7 +439,174 @@
         "title": "La Bola Negra",
         "poster": "https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-        "rating": 8.053,
+        "rating": 8.0,
+        "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
+        "release_date": "2026-09-25",
+        "stream_url": null
+      }
+    ],
+    "now_playing": [
+      {
+        "id": 1423191,
+        "media_type": "movie",
+        "title": "Resident Evil",
+        "poster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+        "rating": 7.499,
+        "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+        "release_date": "2026-09-16",
+        "stream_url": null
+      },
+      {
+        "id": 1263337,
+        "media_type": "movie",
+        "title": "Heart of the Beast",
+        "poster": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
+        "rating": 7.286,
+        "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+        "release_date": "2026-09-19",
+        "stream_url": null
+      },
+      {
+        "id": 1507696,
+        "media_type": "movie",
+        "title": "Apocalypse Z: New World",
+        "poster": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+        "rating": 6.172,
+        "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+        "release_date": "2026-10-09",
+        "stream_url": null
+      },
+      {
+        "id": 1058424,
+        "media_type": "movie",
+        "title": "Hope",
+        "poster": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
+        "rating": 6.695,
+        "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+        "release_date": "2026-07-15",
+        "stream_url": null
+      },
+      {
+        "id": 1813355,
+        "media_type": "movie",
+        "title": "A Story of Derry",
+        "poster": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
+        "rating": 6.83,
+        "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+        "release_date": "2026-10-31",
+        "stream_url": null
+      },
+      {
+        "id": 1294189,
+        "media_type": "movie",
+        "title": "The Mongoose",
+        "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+        "rating": 5.648,
+        "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
+        "release_date": "2026-10-29",
+        "stream_url": null
+      },
+      {
+        "id": 1381071,
+        "media_type": "movie",
+        "title": "Godzilla Minus Zero",
+        "poster": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+        "rating": 7.959,
+        "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+        "release_date": "2026-11-03",
+        "stream_url": null
+      },
+      {
+        "id": 1283515,
+        "media_type": "movie",
+        "title": "Verity",
+        "poster": "https://image.tmdb.org/t/p/w500/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+        "rating": 7.008,
+        "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+        "release_date": "2026-09-30",
+        "stream_url": null
+      },
+      {
+        "id": 1657630,
+        "media_type": "movie",
+        "title": "The Awakening",
+        "poster": "https://image.tmdb.org/t/p/w500/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
+        "rating": 6.526,
+        "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
+        "release_date": "2026-10-29",
+        "stream_url": null
+      },
+      {
+        "id": 1101412,
+        "media_type": "movie",
+        "title": "Fall 2: Deadpoint",
+        "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+        "rating": 7.275,
+        "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+        "release_date": "2026-09-01",
+        "stream_url": null
+      },
+      {
+        "id": 791523,
+        "media_type": "movie",
+        "title": "Wildwood",
+        "poster": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+        "rating": 8.504,
+        "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+        "release_date": "2026-10-19",
+        "stream_url": null
+      },
+      {
+        "id": 1596275,
+        "media_type": "movie",
+        "title": "Drive - The Pretenders",
+        "poster": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+        "rating": 7.691,
+        "overview": "A young mechanic fakes an engagement with racing's most scandalous star — officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything — including what's already become so much more than just a deal.",
+        "release_date": "2026-10-27",
+        "stream_url": null
+      },
+      {
+        "id": 1244523,
+        "media_type": "movie",
+        "title": "Beware Boiúna",
+        "poster": "https://image.tmdb.org/t/p/w500/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+        "rating": 6.255,
+        "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
+        "release_date": "2026-10-01",
+        "stream_url": null
+      },
+      {
+        "id": 656908,
+        "media_type": "movie",
+        "title": "Ramayana: Rise of a Legend",
+        "poster": "https://image.tmdb.org/t/p/w500/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+        "rating": 7.732,
+        "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+        "release_date": "2026-11-05",
+        "stream_url": null
+      },
+      {
+        "id": 1422041,
+        "media_type": "movie",
+        "title": "La Bola Negra",
+        "poster": "https://image.tmdb.org/t/p/w500/7HwFQTMghL6HOvzEnXYUvyuZXeh.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+        "rating": 8.027,
         "overview": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
         "release_date": "2026-09-25",
         "stream_url": null
@@ -617,7 +617,7 @@
         "title": "Buddy",
         "poster": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg",
-        "rating": 6.894,
+        "rating": 6.885,
         "overview": "Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy - bright orange unicorn - spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
         "release_date": "2026-08-27",
         "stream_url": null
@@ -628,7 +628,7 @@
         "title": "A Dog's Perfect Christmas",
         "poster": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
-        "rating": 7.742,
+        "rating": 7.727,
         "overview": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
         "release_date": "2026-11-04",
         "stream_url": null
@@ -639,7 +639,7 @@
         "title": "Collision Course",
         "poster": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
-        "rating": 6.282,
+        "rating": 6.317,
         "overview": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
         "release_date": "2026-10-30",
         "stream_url": null
@@ -650,7 +650,7 @@
         "title": "Pinocchio: Unstrung",
         "poster": "https://image.tmdb.org/t/p/w500/hJNdizFlxOW89edX3Rzr6OliSFI.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/7RsPdXLDNugDIlwXPVeeprNfMx.jpg",
-        "rating": 6.416,
+        "rating": 6.401,
         "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
         "release_date": "2026-07-22",
         "stream_url": null
@@ -674,7 +674,7 @@
         "title": "Batman: Knightfall Part 1: Knightfall",
         "poster": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
-        "rating": 9.08,
+        "rating": 9.082,
         "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
         "release_date": "2026-06-23",
         "stream_url": null
@@ -685,7 +685,7 @@
         "title": "Avatar Aang: The Last Airbender",
         "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
-        "rating": 9.009,
+        "rating": 9.008,
         "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
         "release_date": "2026-07-24",
         "stream_url": null
@@ -718,7 +718,7 @@
         "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
         "poster": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-        "rating": 8.8,
+        "rating": 8.802,
         "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
         "release_date": "2025-07-18",
         "stream_url": null
@@ -729,7 +729,7 @@
         "title": "Facing El Chapo",
         "poster": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-        "rating": 8.768,
+        "rating": 8.759,
         "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
         "release_date": "2026-08-21",
         "stream_url": null
@@ -740,7 +740,7 @@
         "title": "The Shawshank Redemption",
         "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
-        "rating": 8.735,
+        "rating": 8.7,
         "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
         "release_date": "1994-09-23",
         "stream_url": null
@@ -751,7 +751,7 @@
         "title": "The Godfather",
         "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
-        "rating": 8.689,
+        "rating": 8.688,
         "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
         "release_date": "1972-03-14",
         "stream_url": null
@@ -795,7 +795,7 @@
         "title": "My Dearest Assassin",
         "poster": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/xA6AM5MvEkieZKlv1Tn3sN23I7i.jpg",
-        "rating": 8.578,
+        "rating": 8.554,
         "overview": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
         "release_date": "2026-05-06",
         "stream_url": null
@@ -806,7 +806,7 @@
         "title": "12 Angry Men",
         "poster": "https://image.tmdb.org/t/p/w500/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
-        "rating": 8.6,
+        "rating": 8.577,
         "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
         "release_date": "1957-04-10",
         "stream_url": null
@@ -828,7 +828,7 @@
         "title": "Schindler's List",
         "poster": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
-        "rating": 8.571,
+        "rating": 8.57,
         "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
         "release_date": "1993-12-15",
         "stream_url": null
@@ -883,7 +883,7 @@
         "title": "The Green Mile",
         "poster": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
-        "rating": 8.505,
+        "rating": 8.504,
         "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
         "release_date": "1999-12-10",
         "stream_url": null
@@ -893,14 +893,14 @@
   "series": {
     "trending": [
       {
-        "id": 1489,
+        "id": 279246,
         "media_type": "tv",
-        "title": "Jimmy Kimmel Live!",
-        "poster": "https://image.tmdb.org/t/p/w500/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
-        "rating": 5.3,
-        "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
-        "release_date": "2003-01-26",
+        "title": "The Remarried Empress",
+        "poster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+        "rating": 7.919,
+        "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+        "release_date": "2026-11-03",
         "stream_url": null
       },
       {
@@ -909,53 +909,20 @@
         "title": "Black Doves",
         "poster": "https://image.tmdb.org/t/p/w500/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
-        "rating": 7.0,
+        "rating": 7.048,
         "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
         "release_date": "2024-12-05",
         "stream_url": null
       },
       {
-        "id": 279246,
+        "id": 313738,
         "media_type": "tv",
-        "title": "The Remarried Empress",
-        "poster": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-        "rating": 7.85,
-        "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-        "release_date": "2026-11-03",
-        "stream_url": null
-      },
-      {
-        "id": 253372,
-        "media_type": "tv",
-        "title": "The Institute",
-        "poster": "https://image.tmdb.org/t/p/w500/4MwXkOAMd9ObxdacasPFM32n9dZ.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
-        "rating": 7.507,
-        "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
-        "release_date": "2025-07-13",
-        "stream_url": null
-      },
-      {
-        "id": 303044,
-        "media_type": "tv",
-        "title": "Campus Drivers",
-        "poster": "https://image.tmdb.org/t/p/w500/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-        "rating": 8.1,
-        "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-        "release_date": "2026-11-06",
-        "stream_url": null
-      },
-      {
-        "id": 84773,
-        "media_type": "tv",
-        "title": "The Lord of the Rings: The Rings of Power",
-        "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
-        "rating": 7.2,
-        "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-        "release_date": "2022-09-01",
+        "title": "One of a Kind Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/l9oQ1Ql8DJqYnrDyU85fAPYTmrD.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pSsJ2qQypNVzLNYKV6ixORDW7kM.jpg",
+        "rating": 0.0,
+        "overview": "A romance driven by personal desire that unfolds when top actor Tak Mu-i and idol Ryu Min enter the ordinary daily life of job seeker Gong Yu-il.",
+        "release_date": "2026-11-09",
         "stream_url": null
       },
       {
@@ -964,7 +931,7 @@
         "title": "VisionQuest",
         "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-        "rating": 8.625,
+        "rating": 8.6,
         "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
         "release_date": "2026-10-13",
         "stream_url": null
@@ -975,64 +942,9 @@
         "title": "MobLand",
         "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-        "rating": 8.637,
+        "rating": 8.636,
         "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
         "release_date": "2025-03-30",
-        "stream_url": null
-      },
-      {
-        "id": 258989,
-        "media_type": "tv",
-        "title": "The Greatest",
-        "poster": "https://image.tmdb.org/t/p/w500/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
-        "rating": 5.0,
-        "overview": "Fresh off gold at the 1960 Olympics, young boxer Muhammad Ali (then known as Cassius Clay) sets his sights on the Heavyweight Championship. Contending with newfound fame, self-doubt, family conflict and a politically charged America, the once-in-a-generation prodigy discovers his greatest opponent won't be in the ring, but in a society that isn't ready for him to become his own man.",
-        "release_date": "2026-11-04",
-        "stream_url": null
-      },
-      {
-        "id": 292741,
-        "media_type": "tv",
-        "title": "Nocturne",
-        "poster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-        "rating": 7.769,
-        "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
-        "release_date": "2026-10-29",
-        "stream_url": null
-      },
-      {
-        "id": 81723,
-        "media_type": "tv",
-        "title": "The Gilded Age",
-        "poster": "https://image.tmdb.org/t/p/w500/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/afUVsProh46h31w2EvL7qyHXrqj.jpg",
-        "rating": 7.7,
-        "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
-        "release_date": "2022-01-24",
-        "stream_url": null
-      },
-      {
-        "id": 73223,
-        "media_type": "tv",
-        "title": "Black Clover",
-        "poster": "https://image.tmdb.org/t/p/w500/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-        "rating": 8.536,
-        "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
-        "release_date": "2017-10-03",
-        "stream_url": null
-      },
-      {
-        "id": 95350,
-        "media_type": "tv",
-        "title": "Lanterns",
-        "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-        "rating": 8.203,
-        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-        "release_date": "2026-08-16",
         "stream_url": null
       },
       {
@@ -1047,14 +959,25 @@
         "stream_url": null
       },
       {
-        "id": 220542,
+        "id": 303044,
         "media_type": "tv",
-        "title": "The Apothecary Diaries",
-        "poster": "https://image.tmdb.org/t/p/w500/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-        "rating": 8.664,
-        "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-        "release_date": "2023-10-22",
+        "title": "Campus Drivers",
+        "poster": "https://image.tmdb.org/t/p/w500/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+        "rating": 8.143,
+        "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
+        "release_date": "2026-11-06",
+        "stream_url": null
+      },
+      {
+        "id": 258989,
+        "media_type": "tv",
+        "title": "The Greatest",
+        "poster": "https://image.tmdb.org/t/p/w500/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+        "rating": 5.0,
+        "overview": "Fresh off gold at the 1960 Olympics, young boxer Muhammad Ali (then known as Cassius Clay) sets his sights on the Heavyweight Championship. Contending with newfound fame, self-doubt, family conflict and a politically charged America, the once-in-a-generation prodigy discovers his greatest opponent won't be in the ring, but in a society that isn't ready for him to become his own man.",
+        "release_date": "2026-11-04",
         "stream_url": null
       },
       {
@@ -1069,14 +992,102 @@
         "stream_url": null
       },
       {
-        "id": 105248,
+        "id": 292741,
         "media_type": "tv",
-        "title": "Cyberpunk: Edgerunners",
-        "poster": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
-        "rating": 8.506,
-        "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
-        "release_date": "2022-09-13",
+        "title": "Nocturne",
+        "poster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+        "rating": 7.769,
+        "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+        "release_date": "2026-10-29",
+        "stream_url": null
+      },
+      {
+        "id": 289517,
+        "media_type": "tv",
+        "title": "Dead-End Job",
+        "poster": "https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+        "rating": 7.446,
+        "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+        "release_date": "2026-10-30",
+        "stream_url": null
+      },
+      {
+        "id": 96677,
+        "media_type": "tv",
+        "title": "Lupin",
+        "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
+        "rating": 7.678,
+        "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+        "release_date": "2021-01-08",
+        "stream_url": null
+      },
+      {
+        "id": 95350,
+        "media_type": "tv",
+        "title": "Lanterns",
+        "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+        "rating": 8.203,
+        "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+        "release_date": "2026-08-16",
+        "stream_url": null
+      },
+      {
+        "id": 314271,
+        "media_type": "tv",
+        "title": "Bass X Machina",
+        "poster": "https://image.tmdb.org/t/p/w500/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
+        "rating": 7.6,
+        "overview": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
+        "release_date": "2026-11-03",
+        "stream_url": null
+      },
+      {
+        "id": 279155,
+        "media_type": "tv",
+        "title": "The Silent Storm",
+        "poster": "https://image.tmdb.org/t/p/w500/c8UHaCOfzyQYagHv7vAAOkrmgDb.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/m5tiVhzIFIqDyIPwOsHDsMDGMsK.jpg",
+        "rating": 9.0,
+        "overview": "In 1994, tax auditor Ouyang Xu, criminal investigator Yan Ping'an, and Zhou Haiyang—who was searching for his missing wife—met through a counterfeit invoice case in Chunjiang City. Under the tide of the times, the three experienced vastly different circumstances, and their fates gradually diverged. Years later, Operation Grain Rain brings them together again—but the brothers of old now stand on opposite sides. Ouyang Xu faces off against the tax fraud ring led by Zhou Haiyang and the protective umbrella behind it, caught in a painful choice between emotion and the law. Starting from a single invoice, he tears away the veil of greed and ultimately eliminates evil, safeguarding justice.",
+        "release_date": "2026-11-05",
+        "stream_url": null
+      },
+      {
+        "id": 220542,
+        "media_type": "tv",
+        "title": "The Apothecary Diaries",
+        "poster": "https://image.tmdb.org/t/p/w500/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+        "rating": 8.664,
+        "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+        "release_date": "2023-10-22",
+        "stream_url": null
+      },
+      {
+        "id": 288673,
+        "media_type": "tv",
+        "title": "Carrie",
+        "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+        "rating": 8.287,
+        "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+        "release_date": "2026-10-07",
+        "stream_url": null
+      },
+      {
+        "id": 456,
+        "media_type": "tv",
+        "title": "The Simpsons",
+        "poster": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+        "rating": 8.028,
+        "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+        "release_date": "1989-12-17",
         "stream_url": null
       },
       {
@@ -1091,25 +1102,14 @@
         "stream_url": null
       },
       {
-        "id": 30984,
+        "id": 253372,
         "media_type": "tv",
-        "title": "Bleach",
-        "poster": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-        "rating": 8.351,
-        "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-        "release_date": "2004-10-05",
-        "stream_url": null
-      },
-      {
-        "id": 96677,
-        "media_type": "tv",
-        "title": "Lupin",
-        "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/w1280/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
-        "rating": 7.678,
-        "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
-        "release_date": "2021-01-08",
+        "title": "The Institute",
+        "poster": "https://image.tmdb.org/t/p/w500/4MwXkOAMd9ObxdacasPFM32n9dZ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
+        "rating": 7.495,
+        "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
+        "release_date": "2025-07-13",
         "stream_url": null
       }
     ],
@@ -1120,7 +1120,7 @@
         "title": "Phineas and Ferb",
         "poster": "https://image.tmdb.org/t/p/w500/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
-        "rating": 7.896,
+        "rating": 7.9,
         "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
         "release_date": "2007-08-17",
         "stream_url": null
@@ -1131,7 +1131,7 @@
         "title": "Doctor Who",
         "poster": "https://image.tmdb.org/t/p/w500/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
-        "rating": 7.632,
+        "rating": 7.633,
         "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
         "release_date": "2005-03-26",
         "stream_url": null
@@ -1142,7 +1142,7 @@
         "title": "The Mentalist",
         "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-        "rating": 8.4,
+        "rating": 8.423,
         "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
         "release_date": "2008-09-23",
         "stream_url": null
@@ -1186,7 +1186,7 @@
         "title": "Modern Family",
         "poster": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
-        "rating": 7.9,
+        "rating": 7.91,
         "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
         "release_date": "2009-09-23",
         "stream_url": null
@@ -1274,7 +1274,7 @@
         "title": "The 100",
         "poster": "https://image.tmdb.org/t/p/w500/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8ZerYKvIaNUJZvAHXYTQu4qTwFw.jpg",
-        "rating": 7.878,
+        "rating": 7.877,
         "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
         "release_date": "2014-03-19",
         "stream_url": null
@@ -1307,7 +1307,7 @@
         "title": "The IT Crowd",
         "poster": "https://image.tmdb.org/t/p/w500/qtxL0ZLAZN1nd0kOpcu8V32bsU4.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/erljE3cOZ4eyISQunUYmKZ0q7cu.jpg",
-        "rating": 8.171,
+        "rating": 8.173,
         "overview": "The comedic misadventures of Roy, Moss, and their grifting supervisor Jen, a 'motley crew' of IT support workers at a large corporation headed by a hotheaded yuppie.",
         "release_date": "2006-02-03",
         "stream_url": null
@@ -1564,7 +1564,7 @@
         "title": "Dragon Ball Super: Beerus",
         "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-        "rating": 9.636,
+        "rating": 9.647,
         "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
         "release_date": "2026-10-11",
         "stream_url": null
@@ -1652,7 +1652,7 @@
         "title": "The Chosen",
         "poster": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
-        "rating": 8.9,
+        "rating": 8.853,
         "overview": "The life of Christ through the eyes of those who encountered him.",
         "release_date": "2019-04-21",
         "stream_url": null
@@ -1674,7 +1674,7 @@
         "title": "Frieren: Beyond Journey's End",
         "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
-        "rating": 8.8,
+        "rating": 8.825,
         "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity's mortality. She takes on a new apprentice and promises to fulfill old friends' dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
         "release_date": "2023-09-29",
         "stream_url": null
@@ -1696,7 +1696,7 @@
         "title": "When Life Gives You Tangerines",
         "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-        "rating": 8.8,
+        "rating": 8.801,
         "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
         "release_date": "2025-03-07",
         "stream_url": null
@@ -1729,7 +1729,7 @@
         "title": "Takopi's Original Sin",
         "poster": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
-        "rating": 8.77,
+        "rating": 8.771,
         "overview": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
         "release_date": "2025-06-28",
         "stream_url": null
@@ -1751,7 +1751,7 @@
         "title": "One Piece",
         "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-        "rating": 8.8,
+        "rating": 8.757,
         "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
         "release_date": "1999-10-20",
         "stream_url": null
@@ -1762,7 +1762,7 @@
         "title": "Arcane",
         "poster": "https://image.tmdb.org/t/p/w500/87C0wecB8bHb1PsrKBI4kJiEkgV.jpg",
         "backdrop": "https://image.tmdb.org/t/p/w1280/5cvnxEHT3e39DvT6ARw4GNCFrB0.jpg",
-        "rating": 8.7,
+        "rating": 8.747,
         "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
         "release_date": "2021-11-06",
         "stream_url": null
